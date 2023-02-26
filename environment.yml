@@ -1,0 +1,20 @@
+name: pigasus
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - pytorch
+  - numpy
+  - scipy
+  - tqdm
+  - docopt
+  - nltk
+  - torchvision
+  - pip
+  - pip:
+    - sentencepiece
+    - sacrebleu
+    - tensorboard
+    - spacy
+    - pytextrank
+    - argparse

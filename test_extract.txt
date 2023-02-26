@@ -1,0 +1,75 @@
+mixed types
+0.1822     1 mixed types
+[mixed types]
+systems
+0.1779     3 systems
+[systems, systems, systems]
+minimal generating sets
+0.1501     1 minimal generating sets
+[minimal generating sets]
+nonstrict inequations
+0.1462     1 nonstrict inequations
+[nonstrict inequations]
+strict inequations
+0.1385     1 strict inequations
+[strict inequations]
+linear Diophantine equations
+0.1198     1 linear Diophantine equations
+[linear Diophantine equations]
+natural numbers
+0.1138     1 natural numbers
+[natural numbers]
+solutions
+0.1073     3 solutions
+[solutions, solutions, solutions]
+linear constraints
+0.1060     1 linear constraints
+[linear constraints]
+all the considered types systems
+0.1031     1 all the considered types systems
+[all the considered types systems]
+a minimal supporting set
+0.0881     1 a minimal supporting set
+[a minimal supporting set]
+linear
+0.0855     1 linear
+[linear]
+a system
+0.0822     1 a system
+[a system]
+a minimal set
+0.0794     1 a minimal set
+[a minimal set]
+algorithms
+0.0777     1 algorithms
+[algorithms]
+all types
+0.0754     1 all types
+[all types]
+Diophantine
+0.0729     1 Diophantine
+[Diophantine]
+construction
+0.0698     1 construction
+[construction]
+the set
+0.0579     1 the set
+[the set]
+components
+0.0533     1 components
+[components]
+Compatibility
+0.0470     1 Compatibility
+[Compatibility]
+compatibility
+0.0470     1 compatibility
+[compatibility]
+the corresponding algorithms
+0.0454     1 the corresponding algorithms
+[the corresponding algorithms]
+Criteria
+0.0415     1 Criteria
+[Criteria]
+These criteria
+0.0192     1 These criteria
+[These criteria]
