@@ -2,7 +2,7 @@ from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 from transformers import PegasusConfig, PegasusModel
 import torch
 from datasets import load_dataset
-import tqdm
+import tqdm as tqdm
 
 def evaluate():
     dataset = load_dataset('billsum', split="test")
