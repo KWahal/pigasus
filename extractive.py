@@ -1,5 +1,5 @@
 # Our baseline extractive summarization. 
-
+# Modified from: https://github.com/DerwenAI/pytextrank/blob/main/examples/explain_summ.ipynb
 # To load the spaCy model, first RUN:
 #   python -m spacy download en_core_web_sm
 #   python -m spacy download en
@@ -8,6 +8,8 @@ import spacy
 import pytextrank
 from math import sqrt
 import argparse
+from datasets import load_dataset
+from tqdm import tqdm
 
 def generate_extractive_summary(text, limit_phrases, limit_sentences):
     nlp = spacy.load('en_core_web_sm')
@@ -94,8 +96,35 @@ def generate_extractive_summary(text, limit_phrases, limit_sentences):
     
     return summary
 
+# this function evaluates our extractive summary generator on the billsum test set
+def evaluate():
+    billsum_test = load_dataset('billsum', split="test")
+    test_texts = billsum_test['text']
+    print('loaded dataset. starting evaluation')
+
+    limit_phrases = 10
+    limit_sentences = 3
+    test_summaries = []
+
+    test_id = 1
+
+    for t in tqdm(test_texts):
+        if test_id % 100 == 0:
+            print(str(test_id) + " out of " + str(len(test_texts)))
+
+        s = generate_extractive_summary(t, limit_phrases, limit_sentences)
+        test_summaries.append(s)
+        test_id += 1
+
+    print('evaluation on billsum test done. writing summaries.')
+    with open(r'extractive_summaries.txt', 'w') as fp:
+        for item in test_summaries:
+            # write each item on a new line
+            fp.write("%s\n" % item)
+
 
 if __name__ == "__main__":
+    ''' To test from terminal
     parser = argparse.ArgumentParser(
                         prog = 'ExtractiveSummary',
                         description = 'Our baseline: generate an X-sentence summary of given text.')
@@ -115,4 +144,7 @@ if __name__ == "__main__":
     limit_sentences = int(args.limit_sentences[0])
 
     summary = generate_extractive_summary(text, limit_phrases, limit_sentences)
-    print(summary)
+    print(summary)'''
+
+    # run on billsum test set
+    evaluate()
