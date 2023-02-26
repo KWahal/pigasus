@@ -18,3 +18,5 @@ dependencies:
     - spacy
     - pytextrank
     - argparse
+    - transformers
+    - datasets
