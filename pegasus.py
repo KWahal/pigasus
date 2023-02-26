@@ -16,14 +16,14 @@ def evaluate():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     tokenizer = PegasusTokenizer.from_pretrained(model_name)
     model = PegasusForConditionalGeneration.from_pretrained(model_name).to(device)
-    text_file = open("summaries.csv", "w")
+    text_file = open("summaries.txt", "w")
     for test in tqdm(tests):
         batch = tokenizer(test, truncation=True, padding="longest", return_tensors="pt").to(device)
         translated = model.generate(**batch)
         tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
         text_file.write(" ".join(tgt_text))
-        text_file.write("************ \n")
-    
+        text_file.write("==================================")
+
     text_file.close()
 
 if __name__ == "__main__":
