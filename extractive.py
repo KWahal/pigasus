@@ -88,7 +88,6 @@ def generate_extractive_summary(text, limit_phrases, limit_sentences):
     for sent_id, rank in sent_rank:
         # print(str(sent_id) + ": " + sent_text[sent_id])
         summary += sent_text[sent_id]
-        summary += "\n"
         num_sent += 1
 
         if num_sent == limit_sentences:
@@ -106,21 +105,16 @@ def evaluate():
     limit_sentences = 3
     test_summaries = []
 
-    test_id = 1
-
     for t in tqdm(test_texts):
-        if test_id % 100 == 0:
-            print(str(test_id) + " out of " + str(len(test_texts)))
-
         s = generate_extractive_summary(t, limit_phrases, limit_sentences)
         test_summaries.append(s)
-        test_id += 1
 
     print('evaluation on billsum test done. writing summaries.')
     with open(r'extractive_summaries.txt', 'w') as fp:
         for item in test_summaries:
             # write each item on a new line
             fp.write("%s\n" % item)
+            fp.write("==================================\n")
 
 
 if __name__ == "__main__":
