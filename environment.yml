@@ -18,6 +18,9 @@ dependencies:
     - spacy
     - pytextrank
     - argparse
+    - transformers
+    - SentencePiece
+    - datasets
     - rouge-score
     - transformers
     - datasets
