@@ -2,6 +2,7 @@ from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 from transformers import PegasusConfig, PegasusModel
 import torch
 from datasets import load_dataset
+import tqdm
 
 def evaluate():
     dataset = load_dataset('billsum', split="test")
@@ -16,12 +17,13 @@ def evaluate():
     tokenizer = PegasusTokenizer.from_pretrained(model_name)
     model = PegasusForConditionalGeneration.from_pretrained(model_name).to(device)
     text_file = open("summaries.csv", "w")
-    for test in tests:
+    for test in tqdm(tests):
         batch = tokenizer(test, truncation=True, padding="longest", return_tensors="pt").to(device)
         translated = model.generate(**batch)
         tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
         text_file.write(" ".join(tgt_text))
         text_file.write("************ \n")
+    
     text_file.close()
 
 if __name__ == "__main__":
