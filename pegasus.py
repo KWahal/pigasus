@@ -11,6 +11,7 @@ def evaluate():
     with open(txt_path, "rt") as f:
         txt = f.read()'''
     tests = dataset["text"]
+    #tests = tests[0:5]
     #print(tests[0])
     model_name = "google/pegasus-xsum"
     device = "cuda" if torch.cuda.is_available() else "cpu"
