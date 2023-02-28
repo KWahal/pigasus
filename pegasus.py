@@ -15,14 +15,13 @@ def evaluate():
     model_name = "google/pegasus-xsum"
     device = "cuda" if torch.cuda.is_available() else "cpu"
     tokenizer = PegasusTokenizer.from_pretrained(model_name)
+    #dataset = dataset.map(tokenizer, batched=True)
     model = PegasusForConditionalGeneration.from_pretrained(model_name).to(device)
-    text_file = open("summaries.txt", "w")
-    for test in tqdm(tests):
-        batch = tokenizer(test, truncation=True, padding="longest", return_tensors="pt").to(device)
-        translated = model.generate(**batch)
-        tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
-        text_file.write(" ".join(tgt_text))
-        text_file.write("==================================")
+    batch = tokenizer(tests, truncation=True, padding="longest", return_tensors="pt").to(device)
+    translated = model.generate(**batch)
+    tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
+    text_file = open("summaries1.txt", "w")
+    text_file.write("==================================".join(tgt_text))
 
     text_file.close()
 
