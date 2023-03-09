@@ -19,6 +19,7 @@ from transformers import PegasusForConditionalGeneration, PegasusTokenizer, Trai
 import torch
 from tqdm import tqdm
 from datasets import load_dataset
+from transformers import DataCollatorForSeq2Seq
 
 
 class PegasusDataset(torch.utils.data.Dataset):
@@ -66,6 +67,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
     Prepare configurations and base model for fine-tuning
     """
     model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device)
+    seq2seq_data_collator = DataCollatorForSeq2Seq(tokenizer, model)
 
     if freeze_encoder:
         for param in model.model.encoder.parameters():
@@ -85,6 +87,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
             logging_steps=10,
+            gradient_accumulation_steps=15
         )
 
         trainer = Trainer(
@@ -98,7 +101,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
     else:
         training_args = TrainingArguments(
             output_dir=output_dir,  # output directory
-            num_train_epochs=2000,  # total number of training epochs
+            num_train_epochs=10,  # total number of training epochs
             per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
@@ -106,13 +109,15 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
             logging_steps=10,
+            gradient_accumulation_steps=15
         )
 
         trainer = Trainer(
             model=model,  # the instantiated 🤗 Transformers model to be trained
             args=training_args,  # training arguments, defined above
             train_dataset=train_dataset,  # training dataset
-            tokenizer=tokenizer
+            tokenizer=tokenizer,
+            data_collator=seq2seq_data_collator
         )
 
     return trainer
@@ -155,6 +160,7 @@ if __name__ == '__main__':
     # use XSum dataset as example, with first 1000 docs as training data
     torch_device = 'cuda' if torch.cuda.is_available() else 'cpu'
     from datasets import load_dataset
+
 
     dataset = load_dataset('billsum', split="ca_test")
     train_texts, train_labels = dataset['text'][:865], dataset['summary'][:865]
