@@ -37,6 +37,7 @@ def calculate_metric_on_test_ds(dataset, metric, model, tokenizer,
         summaries = model.generate(input_ids=inputs["input_ids"].to(device),
                                    attention_mask=inputs["attention_mask"].to(device),
                                    length_penalty=0.8, num_beams=8, max_length=128)
+        # length_penalty makes sure tokens are not too long
         ''' parameter for length penalty ensures that the model does not generate sequences that are too long. '''
 
         # Finally, we decode the generated texts,
@@ -84,7 +85,7 @@ if __name__ == "__main__":
     seq2seq_data_collator = DataCollatorForSeq2Seq(tokenizer, model=model_pegasus)
 
     trainer_args = TrainingArguments(
-        output_dir='pegasus-samsum', num_train_epochs=1, warmup_steps=500,
+        output_dir='pegasus-billsum', num_train_epochs=1, warmup_steps=500,
         per_device_train_batch_size=1, per_device_eval_batch_size=1,
         weight_decay=0.01, logging_steps=10,
         evaluation_strategy='steps', eval_steps=500, save_steps=1e6,
