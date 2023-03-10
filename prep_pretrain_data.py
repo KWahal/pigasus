@@ -104,6 +104,8 @@ def generate_extractive_summary(text, limit_phrases, limit_sentences):
         sent_text[sent_id] = sent.text
         sent_id += 1
 
+
+    # THIS IS AN EDIT
     # Generate extractive summary, with limit_sentences (param) number of sentences
     num_sent = 0
     summary = "" 
