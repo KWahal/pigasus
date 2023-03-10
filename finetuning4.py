@@ -131,10 +131,10 @@ def generate_batch_sized_chunks(list_of_elements, batch_size):
 
 def print_val_summaries(dataset_text, dataset_summary, model, tokenizer, device,
                                 batch_size=16):
-    article_batches = list(generate_batch_sized_chunks(dataset[dataset_text], batch_size))
-    target_batches = list(generate_batch_sized_chunks(dataset[dataset_summary], batch_size))
+    article_batches = list(generate_batch_sized_chunks(dataset_text, batch_size))
+    target_batches = list(generate_batch_sized_chunks(dataset_summary, batch_size))
 
-    text_file = open("val_ca_summaries.txt", "w")
+    text_file = open("val_ca_summaries4.txt", "w")
     for article_batch, target_batch in tqdm(
             zip(article_batches, target_batches), total=len(article_batches)):
         inputs = tokenizer(article_batch, max_length=1024, truncation=True,
@@ -157,7 +157,6 @@ def print_val_summaries(dataset_text, dataset_summary, model, tokenizer, device,
 
 
 if __name__ == '__main__':
-    # use XSum dataset as example, with first 1000 docs as training data
     torch_device = 'cuda' if torch.cuda.is_available() else 'cpu'
     from datasets import load_dataset
 
@@ -170,6 +169,9 @@ if __name__ == '__main__':
     train_dataset, _, _, tokenizer = prepare_data(model_name, train_texts, train_labels)
     trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device=torch_device)
     trainer.train()
+    #trainer.save_model("pigasus/saved_model")
+    #model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device) #DEL - for testing
+    #tokenizer = PegasusTokenizer.from_pretrained(model_name) #DEL - for testing
 
     val_texts, val_labels = dataset['text'][865:1051], dataset['summary'][865:1051]
     score = print_val_summaries(
