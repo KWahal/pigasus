@@ -8,29 +8,13 @@
 # NEW BILL DATA - entire bill, w 30% most imp sentences masked out.
 # NEW SUMMARY LABEL - the 30% sentences concatenated together.
 
-
 import spacy
 import pytextrank
 from math import sqrt
 import argparse
 from datasets import load_dataset
 from tqdm import tqdm
-
-
-# please install HuggingFace datasets by pip install datasets 
-
-multi_lexsum = load_dataset("allenai/multi_lexsum", name="v20220616")
-# Download multi_lexsum locally and load it as a Dataset object 
-
-example = multi_lexsum["train"][0] # The first instance of the dev set 
-print(example["sources"]) # A list of source document text for the case
-
-for sum_len in ["long", "short", "tiny"]:
-    print(example["summary/" + sum_len]) # Summaries of three lengths
-
-
-
-
+import json
 
 # Textrank code
 def generate_extractive_summary(text, limit_phrases, limit_sentences):
@@ -104,8 +88,6 @@ def generate_extractive_summary(text, limit_phrases, limit_sentences):
         sent_text[sent_id] = sent.text
         sent_id += 1
 
-
-    # THIS IS AN EDIT
     # Generate extractive summary, with limit_sentences (param) number of sentences
     num_sent = 0
     summary = "" 
@@ -119,26 +101,106 @@ def generate_extractive_summary(text, limit_phrases, limit_sentences):
     
     return summary
 
+with open('datasets/train.txt') as f:
+    lines = f.readlines()
+
+    lines = lines[0:10]
+    start_loc = 12
+    all_outputs = []
+    for line in tqdm(lines):
+       end_loc = line.find('"summary"') - 3
+       report = line[start_loc:end_loc]
+       sentences = report.split('.')
+       num_sentences = 3*len(sentences)//10
+       print("num sentences is " + str(num_sentences))
+       summary = generate_extractive_summary(report, 15, num_sentences)
+       #print(summary)
+       summary_sentences = set(summary.split('.'))
+       summary_sentences = list(summary_sentences)
+       print("summary sentence number is " + str(len(summary_sentences)))
+       ordered_summaries = {}
+
+        # Resort summaries in order, not by rank
+       for i in range(len(summary_sentences)):
+           location = report.find(summary_sentences[i])
+           ordered_summaries[i] = location
+        
+       print("first dict is " + str(ordered_summaries))
+       sorted_summaries = dict(sorted(ordered_summaries.items(), key=lambda x:x[1]))
+       print("sorted dict is " + str(sorted_summaries))
+       final_summaries = []
+       for key, value in sorted_summaries.items():
+           this_summary = summary_sentences[key]
+           this_summary += ". "
+           final_summaries.append(this_summary)
+
+       
+       final_summary = ''.join(final_summaries)
+       for sentence in summary_sentences:
+          # print(sentence)
+           #print(report.count(sentence))
+           report = report.replace(sentence, "<mask_1>", 1)
+    
+
+      # print(report)
+       counts = report.count("<mask_1>")
+       print("counts = " + str(counts))
+
+       output = {}
+       output["inputs"] = report
+       output["labels"] = final_summary
+       all_outputs.append(output)
+
+    json_object = json.dumps(all_outputs)
+    with open("government_documents.json", "w") as outfile:
+        outfile.write(json_object)
+      # print(summary)
 
 
 
-# this function evaluates our extractive summary generator on the billsum test set
-# def evaluate():
-#     billsum_test = load_dataset('billsum', split="test")
-#     test_texts = billsum_test['text']
-#     print('loaded dataset. starting evaluation')
 
-#     limit_phrases = 10
-#     limit_sentences = 3
-#     test_summaries = []
 
-#     for t in tqdm(test_texts):
-#         s = generate_extractive_summary(t, limit_phrases, limit_sentences)
-#         test_summaries.append(s)
 
-#     print('evaluation on billsum test done. writing summaries.')
-#     with open(r'extractive_summaries.txt', 'w') as fp:
-#         for item in test_summaries:
-#             # write each item on a new line
-#             fp.write("%s\n" % item)
-#             fp.write("==================================\n")
+# import jsonlines
+
+# with jsonlines.open('train.uscode.jsonl') as f:
+#     for line in f.iter():
+#         print(len(line['text']))
+
+      #  print(line['text'][:1000])
+    
+
+# please install HuggingFace datasets by pip install datasets 
+
+# multi_lexsum = load_dataset("allenai/multi_lexsum", name="v20220616")
+# # Download multi_lexsum locally and load it as a Dataset object 
+
+# train_dataset = multi_lexsum["train"]
+# print(len(train_dataset))
+# example = multi_lexsum["train"][0] # The first instance of the train set 
+# # print(example["sources"]) # A list of source document text for the case
+# # print("_____________")
+# # print(len(example["sources"]))
+# # print("_____________")
+# # print(example["sources"][0])
+# # print(example["summary/short"])
+# # for sum_len in ["long", "short", "tiny"]:
+# #    print(example["summary/" + sum_len]) # Summaries of three lengths
+
+# iterations = len(train_dataset)
+# # iterations = 1
+# for i in range(iterations):
+#     example = multi_lexsum["train"][i]
+#     source = ''.join(example["sources"])
+#     if len(source) < 20000:
+#         print(source)
+#         sentences = source.split('.')
+#         num_sentences = 3*len(sentences)//10
+#         summary = generate_extractive_summary(source, 15, num_sentences)
+#         print("________________________")
+#         print("________________________")
+#         print(summary)
+#         print("good iteration " + str(i))
+#         break
+#     print("iteration " + str(i))
+
