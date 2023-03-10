@@ -87,7 +87,8 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
             logging_steps=10,
-            gradient_accumulation_steps=15
+            gradient_accumulation_steps=4
+            # 15 to 4
         )
 
         trainer = Trainer(
@@ -101,15 +102,16 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
     else:
         training_args = TrainingArguments(
             output_dir=output_dir,  # output directory
-            num_train_epochs=1,  # total number of training epochs
+            num_train_epochs=100,  # total number of training epochs
+            #prev 1
             per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
             warmup_steps=500,  # number of warmup steps for learning rate scheduler
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
-            logging_steps=10,
-            gradient_accumulation_steps=15
+            logging_steps=10
+            #gradient_accumulation_steps=15
         )
 
         trainer = Trainer(
@@ -167,7 +169,7 @@ if __name__ == '__main__':
     # use Pegasus Large model as base for fine-tuning
     model_name = 'google/pegasus-large'
     train_dataset, _, _, tokenizer = prepare_data(model_name, train_texts, train_labels)
-    trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device=torch_device)
+    trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, freeze_encoder=True, torch_device=torch_device)
     trainer.train()
     #trainer.save_model("pigasus/saved_model")
     #model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device) #DEL - for testing
