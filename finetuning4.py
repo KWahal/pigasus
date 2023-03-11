@@ -20,6 +20,7 @@ import torch
 from tqdm import tqdm
 from datasets import load_dataset
 from transformers import DataCollatorForSeq2Seq
+from transformers.optimization import Adafactor
 
 
 class PegasusDataset(torch.utils.data.Dataset):
@@ -104,13 +105,15 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             output_dir=output_dir,  # output directory
             num_train_epochs=100,  # total number of training epochs
             #prev 1
-            per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
+            per_device_train_batch_size=200,  # batch size per device during training, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
-            warmup_steps=500,  # number of warmup steps for learning rate scheduler
+            warmup_steps=400,  # number of warmup steps for learning rate scheduler
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
-            logging_steps=10
+            logging_steps=10,
+            optim=Adafactor,
+            learning_rate=1e-3
             #gradient_accumulation_steps=15
         )
 
@@ -119,7 +122,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             args=training_args,  # training arguments, defined above
             train_dataset=train_dataset,  # training dataset
             tokenizer=tokenizer,
-            data_collator=seq2seq_data_collator
+            data_collator=seq2seq_data_collator,
         )
 
     return trainer
@@ -167,7 +170,7 @@ if __name__ == '__main__':
     train_texts, train_labels = dataset['text'][:865], dataset['summary'][:865]
 
     # use Pegasus Large model as base for fine-tuning
-    model_name = 'google/pegasus-large'
+    model_name = 'google/pegasus-x-base'
     train_dataset, _, _, tokenizer = prepare_data(model_name, train_texts, train_labels)
     trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, freeze_encoder=True, torch_device=torch_device)
     trainer.train()
@@ -175,7 +178,7 @@ if __name__ == '__main__':
     #model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device) #DEL - for testing
     #tokenizer = PegasusTokenizer.from_pretrained(model_name) #DEL - for testing
 
-    val_texts, val_labels = dataset['text'][865:1051], dataset['summary'][865:1051]
+    val_texts, val_labels = dataset['text'][865:876], dataset['summary'][865:876] #1051
     score = print_val_summaries(
         val_texts, val_labels, model=trainer.model, tokenizer=tokenizer, batch_size=2,
         device=torch_device,
