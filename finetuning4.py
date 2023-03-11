@@ -76,9 +76,9 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
     if val_dataset is not None:
         training_args = TrainingArguments(
             output_dir=output_dir,  # output directory
-            num_train_epochs=2000,  # total number of training epochs
-            per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
-            per_device_eval_batch_size=1,  # batch size for evaluation, can increase if memory allows
+            num_train_epochs=100,  # total number of training epochs
+            per_device_train_batch_size=5,  # batch size per device during training, can increase if memory allows
+            per_device_eval_batch_size=4,  # batch size for evaluation, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
             evaluation_strategy='steps',  # evaluation strategy to adopt during training
@@ -87,16 +87,22 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
             logging_steps=10,
-            gradient_accumulation_steps=4
+            optim="adafactor",
+            learning_rate=1e-3
+            #gradient_accumulation_steps=4
             # 15 to 4
         )
+        optimizer = Adafactor(model.parameters(), scale_parameter=True, relative_step=True, warmup_init=True, lr=None)
+        lr_scheduler = AdafactorSchedule(optimizer)
 
         trainer = Trainer(
             model=model,  # the instantiated 🤗 Transformers model to be trained
             args=training_args,  # training arguments, defined above
             train_dataset=train_dataset,  # training dataset
             eval_dataset=val_dataset,  # evaluation dataset
-            tokenizer=tokenizer
+            tokenizer=tokenizer,
+            data_collator=seq2seq_data_collator,
+            optimizers=(optimizer, lr_scheduler)
         )
 
     else:
@@ -140,7 +146,7 @@ def print_val_summaries(dataset_text, dataset_summary, model, tokenizer, device,
     article_batches = list(generate_batch_sized_chunks(dataset_text, batch_size))
     target_batches = list(generate_batch_sized_chunks(dataset_summary, batch_size))
 
-    text_file = open("val_ca_summaries4.txt", "w")
+    text_file = open("val_ca_sum-10/100.txt", "w")
     for article_batch, target_batch in tqdm(
             zip(article_batches, target_batches), total=len(article_batches)):
         inputs = tokenizer(article_batch, max_length=1024, truncation=True,
@@ -169,17 +175,18 @@ if __name__ == '__main__':
 
     dataset = load_dataset('billsum', split="ca_test")
     train_texts, train_labels = dataset['text'][:10], dataset['summary'][:10]
+    val_texts, val_labels = dataset['text'][865:876], dataset['summary'][865:876]  # 1051
 
     # use Pegasus Large model as base for fine-tuning
     model_name = 'google/pegasus-large'
     train_dataset, _, _, tokenizer = prepare_data(model_name, train_texts, train_labels)
+    val_dataset, _, _, _ = prepare_data(model_name, val_texts, val_labels)
     trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, freeze_encoder=True, torch_device=torch_device)
     trainer.train()
     #trainer.save_model("pigasus/saved_model")
     #model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device) #DEL - for testing
     #tokenizer = PegasusTokenizer.from_pretrained(model_name) #DEL - for testing
 
-    val_texts, val_labels = dataset['text'][865:876], dataset['summary'][865:876] #1051
     score = print_val_summaries(
         val_texts, val_labels, model=trainer.model, tokenizer=tokenizer, batch_size=2,
         device=torch_device,
