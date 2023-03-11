@@ -112,7 +112,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
             logging_steps=10,
-            optim=Adafactor,
+            optim=adafactor,
             learning_rate=1e-3
             #gradient_accumulation_steps=15
         )
