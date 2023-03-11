@@ -175,7 +175,7 @@ if __name__ == '__main__':
 
     dataset = load_dataset('billsum', split="ca_test")
     train_texts, train_labels = dataset['text'][:10], dataset['summary'][:10]
-    val_texts, val_labels = dataset['text'][865:930], dataset['summary'][865:930]  # 1051
+    val_texts, val_labels = dataset['text'][865:910], dataset['summary'][865:910]  # 1051
 
     # use Pegasus Large model as base for fine-tuning
     model_name = 'google/pegasus-large'
