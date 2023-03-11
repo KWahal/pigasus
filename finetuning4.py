@@ -20,8 +20,7 @@ import torch
 from tqdm import tqdm
 from datasets import load_dataset
 from transformers import DataCollatorForSeq2Seq
-from transformers.optimization import Adafactor
-
+from transformers.optimization import Adafactor, AdafactorSchedule
 
 class PegasusDataset(torch.utils.data.Dataset):
     def __init__(self, encodings, labels):
@@ -112,17 +111,19 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
             logging_steps=10,
-            optim=adafactor,
+            optim="adafactor",
             learning_rate=1e-3
             #gradient_accumulation_steps=15
         )
-
+        optimizer = Adafactor(model.parameters(), scale_parameter=True, relative_step=True, warmup_init=True, lr=None)
+        lr_scheduler = AdafactorSchedule(optimizer)
         trainer = Trainer(
             model=model,  # the instantiated 🤗 Transformers model to be trained
             args=training_args,  # training arguments, defined above
             train_dataset=train_dataset,  # training dataset
             tokenizer=tokenizer,
             data_collator=seq2seq_data_collator,
+            optimizers=(optimizer, lr_scheduler),
         )
 
     return trainer
