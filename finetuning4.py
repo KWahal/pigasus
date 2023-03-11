@@ -77,8 +77,8 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
         training_args = TrainingArguments(
             output_dir='./results',  # output directory
             num_train_epochs=80,  # total number of training epochs
-            per_device_train_batch_size=5,  # batch size per device during training, can increase if memory allows
-            per_device_eval_batch_size=4,  # batch size for evaluation, can increase if memory allows
+            per_device_train_batch_size=2,  # batch size per device during training, can increase if memory allows
+            per_device_eval_batch_size=2,  # batch size for evaluation, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
             evaluation_strategy='steps',  # evaluation strategy to adopt during training
