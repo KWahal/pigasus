@@ -79,7 +79,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             num_train_epochs=80,  # total number of training epochs
             per_device_train_batch_size=2,  # batch size per device during training, can increase if memory allows
             per_device_eval_batch_size=2,  # batch size for evaluation, can increase if memory allows
-            save_steps=500,  # number of updates steps before checkpoint saves
+            save_steps=200,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
             evaluation_strategy='steps',  # evaluation strategy to adopt during training
             eval_steps=10,  # number of update steps before evaluation
@@ -182,7 +182,7 @@ if __name__ == '__main__':
     train_dataset, val_dataset, _, tokenizer = prepare_data(model_name, train_texts, train_labels, val_texts=val_texts, val_labels=val_labels)
     trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, val_dataset=val_dataset, freeze_encoder=True, torch_device=torch_device)
     train_results = trainer.train()
-    #trainer.save_model("pigasus/saved_model")
+    trainer.save_model("./saved_model")
     #model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device) #DEL - for testing
     #tokenizer = PegasusTokenizer.from_pretrained(model_name) #DEL - for testing
 
