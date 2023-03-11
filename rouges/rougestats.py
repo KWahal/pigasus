@@ -1,6 +1,22 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+catest_90_10d100e = pd.read_csv("rouges/catest_10d_100e.csv")
+
+r1 = catest_90_10d100e["rouge1"].describe().reset_index()["rouge1"]
+r2 = catest_90_10d100e["rouge2"].describe().reset_index()["rouge2"]
+rl = catest_90_10d100e["rougeL"].describe().reset_index()["rougeL"]
+
+summary = pd.DataFrame({"Pre_0_FT_10_100 R1": list(r1), 
+                        "Pre_0_FT_10_100 R2": list(r2), 
+                        "Pre_0_FT_10_100 RL": list(rl)},
+                        index = ["count", "mean", "std", "min", "25%", "50%", "75%", "max"])
+
+print(summary.to_string())
+
+'''
+RESULTS OF PEGASUS_BILLSUM ON STUFF
+
 pegasus_df = pd.read_csv("pegasussumms_rouges.csv")
 extract_df = pd.read_csv("extractivesumms_rouges.csv")
 catest_df = pd.read_csv("catest_rouges.csv")
@@ -31,3 +47,4 @@ summary = pd.DataFrame({"Pegasus R1": list(pr1),
                         index = ["count", "mean", "std", "min", "25%", "50%", "75%", "max"])
 
 print(summary.to_string())
+'''

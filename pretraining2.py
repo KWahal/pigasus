@@ -14,17 +14,12 @@ from transformers import DataCollatorForSeq2Seq
 from transformers import TrainingArguments, Trainer
 from transformers.optimization import Adafactor, AdafactorSchedule
 
-from collections import defaultdict
-
 class CustomTrainer(Trainer):
     def compute_loss(self, model, inputs, return_outputs=False):
         input_ids = inputs["input_ids"]
-        # decoder_input_string = inputs.get("decoder_input_string")
         labels = inputs["labels"]
 
-        # outputs = model(input_ids=input_ids, decoder_input_ids=decoder_input_ids, labels=labels)
         outputs = model(input_ids=input_ids, labels=labels)
-
         loss = outputs[0]
         return (loss, outputs) if return_outputs else loss
 
@@ -143,7 +138,11 @@ if __name__ == "__main__":
     tokenizer = PegasusTokenizer.from_pretrained("google/pegasus-large")
 
     train_dataset = (load_dataset("json", data_files="./government_documents.json"))['train']
-    
+
+    print(type(train_dataset[:7]))
+
+    '''
+    # TODO: make val set and plug into prepare data as well.
     train_text, train_labels = train_dataset['inputs'], train_dataset['labels']
 
     train_dataset, _, _, tokenizer = prepare_data(model_name, train_text, train_labels, val_texts=None, val_labels=None, test_texts=None, test_labels=None)
@@ -151,4 +150,10 @@ if __name__ == "__main__":
     trainer = prepare_pre2training(model_name, tokenizer, train_dataset, torch_device=device)
     trainer.train()
 
-    trainer.save_model("./test10govdoc")
+    trainer.save_model("/Users/alice/Documents/soph/CS224n_assigns/pigasus/MODELS/test10govdoc_mdl")
+
+    # model = PegasusForConditionalGeneration(PegasusConfig()).from_pretrained("pigasus/MODELS/test10govdoc_mdl")
+    # print(model)
+    '''
+
+
