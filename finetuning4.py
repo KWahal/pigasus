@@ -82,7 +82,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             save_steps=200,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
             evaluation_strategy='steps',  # evaluation strategy to adopt during training
-            eval_steps=10,  # number of update steps before evaluation
+            eval_steps=200,  # number of update steps before evaluation
             warmup_steps=500,  # number of warmup steps for learning rate scheduler
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
