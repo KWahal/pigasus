@@ -104,7 +104,7 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
             output_dir=output_dir,  # output directory
             num_train_epochs=100,  # total number of training epochs
             #prev 1
-            per_device_train_batch_size=200,  # batch size per device during training, can increase if memory allows
+            per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
             warmup_steps=400,  # number of warmup steps for learning rate scheduler
@@ -168,7 +168,7 @@ if __name__ == '__main__':
 
 
     dataset = load_dataset('billsum', split="ca_test")
-    train_texts, train_labels = dataset['text'][:865], dataset['summary'][:865]
+    train_texts, train_labels = dataset['text'][:10], dataset['summary'][:10]
 
     # use Pegasus Large model as base for fine-tuning
     model_name = 'google/pegasus-large'
