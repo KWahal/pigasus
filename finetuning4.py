@@ -75,14 +75,14 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
 
     if val_dataset is not None:
         training_args = TrainingArguments(
-            output_dir=output_dir,  # output directory
-            num_train_epochs=100,  # total number of training epochs
+            output_dir='./results',  # output directory
+            num_train_epochs=80,  # total number of training epochs
             per_device_train_batch_size=5,  # batch size per device during training, can increase if memory allows
             per_device_eval_batch_size=4,  # batch size for evaluation, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
             save_total_limit=5,  # limit the total amount of checkpoints and deletes the older checkpoints
             evaluation_strategy='steps',  # evaluation strategy to adopt during training
-            eval_steps=100,  # number of update steps before evaluation
+            eval_steps=10,  # number of update steps before evaluation
             warmup_steps=500,  # number of warmup steps for learning rate scheduler
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
@@ -107,8 +107,8 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
 
     else:
         training_args = TrainingArguments(
-            output_dir=output_dir,  # output directory
-            num_train_epochs=100,  # total number of training epochs
+            output_dir='./results',  # output directory
+            num_train_epochs=70,  # total number of training epochs
             #prev 1
             per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
@@ -175,17 +175,18 @@ if __name__ == '__main__':
 
     dataset = load_dataset('billsum', split="ca_test")
     train_texts, train_labels = dataset['text'][:10], dataset['summary'][:10]
-    val_texts, val_labels = dataset['text'][865:876], dataset['summary'][865:876]  # 1051
+    val_texts, val_labels = dataset['text'][865:930], dataset['summary'][865:930]  # 1051
 
     # use Pegasus Large model as base for fine-tuning
     model_name = 'google/pegasus-large'
-    train_dataset, _, _, tokenizer = prepare_data(model_name, train_texts, train_labels)
-    val_dataset, _, _, _ = prepare_data(model_name, val_texts, val_labels)
-    trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, freeze_encoder=True, torch_device=torch_device)
-    trainer.train()
+    train_dataset, val_dataset, _, tokenizer = prepare_data(model_name, train_texts, train_labels, val_texts=val_texts, val_labels=val_labels)
+    trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, val_dataset=val_dataset, freeze_encoder=True, torch_device=torch_device)
+    train_results = trainer.train()
     #trainer.save_model("pigasus/saved_model")
     #model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device) #DEL - for testing
     #tokenizer = PegasusTokenizer.from_pretrained(model_name) #DEL - for testing
+
+
 
     score = print_val_summaries(
         val_texts, val_labels, model=trainer.model, tokenizer=tokenizer, batch_size=2,
