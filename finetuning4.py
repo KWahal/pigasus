@@ -170,7 +170,7 @@ if __name__ == '__main__':
     train_texts, train_labels = dataset['text'][:865], dataset['summary'][:865]
 
     # use Pegasus Large model as base for fine-tuning
-    model_name = 'google/pegasus-x-base'
+    model_name = 'google/pegasus-large'
     train_dataset, _, _, tokenizer = prepare_data(model_name, train_texts, train_labels)
     trainer = prepare_fine_tuning(model_name, tokenizer, train_dataset, freeze_encoder=True, torch_device=torch_device)
     trainer.train()
