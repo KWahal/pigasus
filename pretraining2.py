@@ -148,7 +148,7 @@ if __name__ == "__main__":
     
     print(len(train_dataset))
 
-    # # TODO: make val set and plug into prepare data as well. => DONE
+    # TODO: make val set and plug into prepare data as well. => DONE
     all_text, all_labels = train_dataset['inputs'], train_dataset['labels']
 
     train_text = all_text[:12261]
