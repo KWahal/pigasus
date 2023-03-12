@@ -6,7 +6,14 @@ import csv
 SEPARATOR = "=================================="
 # load datasets
 
-path_to_summs = "./summaries/val_ca_sum_10_100.txt"
+'''
+- catest_10d_100e.csv => uses [865:955] of ca_test
+- caval_peglarge.txt => uses [865:1051] of ca_test
+- extractivesumms_rouges.csv => extractive summs on federal tests??
+- pegasussumms_rouges.csv => pegasus summs on federal test
+'''
+
+path_to_summs = "./summaries/peglarge_CA_VALID_summs.txt"
 
 billsum_test = load_dataset('billsum', split="ca_test")
 target_summaries = billsum_test['summary'][865:959]
@@ -32,7 +39,7 @@ for i in tqdm(range(len(bill_names))):
 # write rouge scores to CSV file
 field_names = ["title", "rouge1", "rouge2", "rougeL"]
 
-with open('catest_10d_100e.csv', 'w') as csvfile:
+with open('./rouges/caval_peglarge_90.csv', 'w') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames = field_names)
     writer.writeheader()
     writer.writerows(all_scores)

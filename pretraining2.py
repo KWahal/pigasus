@@ -77,7 +77,7 @@ def prepare_pre2training(model_name, tokenizer, train_dataset, torch_device,
         # matters less bc never pass in val_dataset
         training_args = TrainingArguments(
             output_dir=output_dir,  # output directory
-            num_train_epochs=2000,  # total number of training epochs
+            num_train_epochs=10,  # total number of training epochs
             per_device_train_batch_size=1,  # batch size per device during training, can increase if memory allows
             per_device_eval_batch_size=1,  # batch size for evaluation, can increase if memory allows
             save_steps=500,  # number of updates steps before checkpoint saves
@@ -88,15 +88,21 @@ def prepare_pre2training(model_name, tokenizer, train_dataset, torch_device,
             weight_decay=0.01,  # strength of weight decay
             logging_dir='./logs',  # directory for storing logs
             logging_steps=10,
-            gradient_accumulation_steps=15
+            # gradient_accumulation_steps=15,
+            optim="adafactor",
+            learning_rate = 1e-4
         )
 
-        trainer = Trainer(
+        optimizer = Adafactor(model.parameters(), scale_parameter=True, relative_step=True, warmup_init=True, lr=None)
+        lr_scheduler = AdafactorSchedule(optimizer)
+
+        trainer = CustomTrainer(
             model=model,  # the instantiated 🤗 Transformers model to be trained
             args=training_args,  # training arguments, defined above
             train_dataset=train_dataset,  # training dataset
+            tokenizer=tokenizer,
+            optimizers=(optimizer, lr_scheduler),
             eval_dataset=val_dataset,  # evaluation dataset
-            tokenizer=tokenizer
         )
 
     else:
@@ -113,7 +119,7 @@ def prepare_pre2training(model_name, tokenizer, train_dataset, torch_device,
             # label_names=["labels"] => need this? i mean i did do it as labels
             # label_smoothing_factor = 0 DEFAULT
             optim="adafactor",
-            learning_rate = 0.1
+            learning_rate = 1e-4
         )
 
         optimizer = Adafactor(model.parameters(), scale_parameter=True, relative_step=True, warmup_init=True, lr=None)
@@ -131,29 +137,33 @@ def prepare_pre2training(model_name, tokenizer, train_dataset, torch_device,
 
 
 if __name__ == "__main__":
+
     device = "cuda" if torch.cuda.is_available() else "cpu"
     model_name = 'google/pegasus-large'
-
+    
     model = PegasusForConditionalGeneration(PegasusConfig()).from_pretrained(model_name)
     tokenizer = PegasusTokenizer.from_pretrained("google/pegasus-large")
 
     train_dataset = (load_dataset("json", data_files="./government_documents.json"))['train']
+    
+    print(len(train_dataset))
 
-    print(type(train_dataset[:7]))
+    # # TODO: make val set and plug into prepare data as well. => DONE
+    all_text, all_labels = train_dataset['inputs'], train_dataset['labels']
 
-    '''
-    # TODO: make val set and plug into prepare data as well.
-    train_text, train_labels = train_dataset['inputs'], train_dataset['labels']
+    train_text = all_text[:12261]
+    train_labels = all_labels[:12261]
 
-    train_dataset, _, _, tokenizer = prepare_data(model_name, train_text, train_labels, val_texts=None, val_labels=None, test_texts=None, test_labels=None)
+    val_text = all_text[12261:15764]
+    val_labels = all_labels[12261:15764]
 
-    trainer = prepare_pre2training(model_name, tokenizer, train_dataset, torch_device=device)
+    train_dataset, val_dataset, _, tokenizer = prepare_data(model_name, train_text, train_labels, val_texts=val_text, val_labels=val_labels, test_texts=None, test_labels=None)
+
+    trainer = prepare_pre2training(model_name, tokenizer, train_dataset, val_dataset=val_dataset, torch_device=device)
     trainer.train()
 
-    trainer.save_model("/Users/alice/Documents/soph/CS224n_assigns/pigasus/MODELS/test10govdoc_mdl")
-
+    trainer.save_model("/Users/alice/Documents/soph/CS224n_assigns/pigasus/MODELS/pretrain_textrank_mdl")
+    
     # model = PegasusForConditionalGeneration(PegasusConfig()).from_pretrained("pigasus/MODELS/test10govdoc_mdl")
     # print(model)
-    '''
-
 

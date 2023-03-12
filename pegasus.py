@@ -13,18 +13,26 @@ def evaluate():
     with open(txt_path, "rt") as f:
         txt = f.read()'''
     
-    tests = dataset["text"][865:1051]
+    tests = dataset["text"][865:1051] # val set
+    # tests = dataset["text"][1051:] test set
 
-    model_name = "google/pegasus-xsum"
+    model_name = "google/pegasus-large"
     device = "cuda" if torch.cuda.is_available() else "cpu"
     tokenizer = PegasusTokenizer.from_pretrained(model_name)
     #dataset = dataset.map(tokenizer, batched=True)
     model = PegasusForConditionalGeneration.from_pretrained(model_name).to(device)
-    batch = tokenizer(tests, truncation=True, padding="longest", return_tensors="pt").to(device)
-    translated = model.generate(**batch)
-    tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
-    text_file = open("summaries_catest.txt", "w")
-    text_file.write("==================================".join(tgt_text))
+    # batch = tokenizer(tests, truncation=True, padding="longest", return_tensors="pt").to(device)
+    # translated = model.generate(**batch)
+    # tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
+    text_file = open("peglarge_CA_VALID_summs.txt", "w")
+    # text_file.write("==================================".join(tgt_text))
+
+    for test in tqdm(tests):
+        batch = tokenizer(test, truncation=True, padding="longest", return_tensors="pt").to(device)
+        translated = model.generate(**batch)
+        tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
+        text_file.write(" ".join(tgt_text))
+        text_file.write("==================================")
 
     text_file.close()
 
