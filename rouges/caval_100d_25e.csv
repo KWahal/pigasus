@@ -1,176 +1,176 @@
-title,rouge1,rouge2,rougeL
-"An act to add and repeal Section 38755 of the Vehicle Code, relating to autonomous vehicles.",0.3962962962962963,0.20446096654275092,0.2962962962962962
-"An act to repeal and add Section 7597.1 of the Government Code, relating to public postsecondary education.",0.4993178717598908,0.3584131326949384,0.39290586630286495
-"An act to amend Sections 14169.53 and 14169.75 of the Welfare and Institutions Code, relating to Medi-Cal, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately, bill related to the budget.",0.48801742919389973,0.2275711159737418,0.3311546840958605
-"An act to amend the Budget Act of 2016 (Chapter 23 of the Statutes of 2016) by amending Item 3340-001-0318 of, and adding Items 0521-101-3228, 0540-101-3228, 0650-002-3228, 0650-101-3228, 0650-490, 2240-491, 2660-108-3228, 3540-001-3228, 3900-101-3228, 3970-101-3228, 4700-101-3228, 8570-101-3228 to, Section 2.00 of, and amending Section 39.00 of, that act, relating to the state budget, and making an appropriation therefor, to take effect immediately, budget bill.",0.39325842696629215,0.15909090909090906,0.2808988764044944
-"An act to amend the Budget Act of 2016 by amending Items 2240-101-6082, 2240-105-0001, and 4260-001-3085 of Section 2.00 of, and Section 39.00 of, that act, relating to the state budget, and making an appropriation therefor, to take effect immediately, budget bill.",0.7804878048780487,0.6776859504132232,0.7479674796747967
-"An act to amend Sections
+index,title,rouge1,rouge2,rougeL
+865,"An act to add and repeal Section 38755 of the Vehicle Code, relating to autonomous vehicles.",0.3962962962962963,0.20446096654275092,0.2962962962962962
+866,"An act to repeal and add Section 7597.1 of the Government Code, relating to public postsecondary education.",0.4993178717598908,0.3584131326949384,0.39290586630286495
+867,"An act to amend Sections 14169.53 and 14169.75 of the Welfare and Institutions Code, relating to Medi-Cal, making an appropriation therefor, and declaring the urgency thereof, to take effect immediately, bill related to the budget.",0.48801742919389973,0.2275711159737418,0.3311546840958605
+868,"An act to amend the Budget Act of 2016 (Chapter 23 of the Statutes of 2016) by amending Item 3340-001-0318 of, and adding Items 0521-101-3228, 0540-101-3228, 0650-002-3228, 0650-101-3228, 0650-490, 2240-491, 2660-108-3228, 3540-001-3228, 3900-101-3228, 3970-101-3228, 4700-101-3228, 8570-101-3228 to, Section 2.00 of, and amending Section 39.00 of, that act, relating to the state budget, and making an appropriation therefor, to take effect immediately, budget bill.",0.39325842696629215,0.15909090909090906,0.2808988764044944
+869,"An act to amend the Budget Act of 2016 by amending Items 2240-101-6082, 2240-105-0001, and 4260-001-3085 of Section 2.00 of, and Section 39.00 of, that act, relating to the state budget, and making an appropriation therefor, to take effect immediately, budget bill.",0.7804878048780487,0.6776859504132232,0.7479674796747967
+870,"An act to amend Sections
 905.2 and 8590.6 of
 905.2, 8590.6, and 15820.946 of, and to add Section 15820.947 to,
 the Government Code, relating to state government, and making an appropriation therefor, to take effect immediately, bill related to the budget.",0.4146341463414634,0.08741258741258741,0.1881533101045296
-"An act to add Section 15463 to the Government Code, and to amend Sections 5849.1, 5849.2, 5849.3, 5849.4, 5849.5, 5849.7, 5849.8, 5849.9, 5849.11, 5849.14, 5890, and 5891 of, to add Section 5849.35 to, and to repeal and add Section 5849.13 of, the Welfare and Institutions Code, relating to mental health services, and making an appropriation therefor, to take effect immediately, bill related to the budget.",0.21059349074664968,0.10862619808306709,0.13784301212507977
-"An act to add Article 13.5 (commencing with Section 33479) to Chapter 3 of Part 20 of Division 2 of Title 2 of the Education Code, relating to pupil safety.",0.5824847250509165,0.27402862985685067,0.30957230142566194
-"An act to amend Section 7522.02 of the Government Code, relating to retirement.",0.5652173913043479,0.360655737704918,0.44021739130434784
-"An act to amend Section 47607 of the Education Code, relating to charter schools.",0.33248081841432225,0.12339331619537273,0.20971867007672634
-"An act to amend Section 14005.12 of the Welfare and Institutions Code, relating to Medi-Cal.",0.45762711864406785,0.25000000000000006,0.35028248587570615
-"An act to amend Section 22358.4 of the Vehicle Code, relating to vehicles.",0.486784140969163,0.4326710816777042,0.43612334801762115
-"An act to add Part 6.5 (commencing with Section 24455) to Division 9 of the Public Utilities Code, relating to aviation.",0.4649776453055142,0.23019431988041855,0.34277198211624443
-"An act to amend Sections 30515 and 30900 of, and to add Section 30680 to, the Penal Code, relating to firearms.",0.36622807017543857,0.20000000000000004,0.21710526315789475
-"An act to add Article 4.5 (commencing with Section 111548) to Chapter 6 of Part 5 of Division 104 of the Health and Safety Code, relating to drugs and devices.",0.35502958579881655,0.10682492581602372,0.1893491124260355
-"An act to amend Sections 1070, 1071, and 1072 of, to amend the heading of Chapter 4.6 (commencing with Section 1070) of Part 3 of Division 2 of, and to add Sections 1075 and 1076 to, the Labor Code, relating to employment.",0.4314329738058552,0.1483771251931994,0.23112480739599384
-"An act to amend Sections 632, 633.5, and 637.2 of, and to add Section 632.01 to, the Penal Code, relating to confidential communications.",0.4721141374837873,0.3016905071521456,0.32684824902723736
-"An act to amend Section 16520 of the Penal Code, relating to firearms.",0.16766467065868262,0.07228915662650602,0.11976047904191617
-"An act to amend Sections 26835, 27535, 27540, and 27590 of the Penal Code, relating to firearms.",0.2411067193675889,0.04365079365079365,0.14624505928853757
-"An act to amend Section 1197.5 of the Labor Code, relating to employers.",0.273224043715847,0.18131868131868134,0.19125683060109291
-"An act to amend Section 6228 of the Family Code, relating to domestic violence.",0.48395061728395067,0.24317617866004967,0.2271604938271605
-"An act to amend
+871,"An act to add Section 15463 to the Government Code, and to amend Sections 5849.1, 5849.2, 5849.3, 5849.4, 5849.5, 5849.7, 5849.8, 5849.9, 5849.11, 5849.14, 5890, and 5891 of, to add Section 5849.35 to, and to repeal and add Section 5849.13 of, the Welfare and Institutions Code, relating to mental health services, and making an appropriation therefor, to take effect immediately, bill related to the budget.",0.21059349074664968,0.10862619808306709,0.13784301212507977
+872,"An act to add Article 13.5 (commencing with Section 33479) to Chapter 3 of Part 20 of Division 2 of Title 2 of the Education Code, relating to pupil safety.",0.5824847250509165,0.27402862985685067,0.30957230142566194
+873,"An act to amend Section 7522.02 of the Government Code, relating to retirement.",0.5652173913043479,0.360655737704918,0.44021739130434784
+874,"An act to amend Section 47607 of the Education Code, relating to charter schools.",0.33248081841432225,0.12339331619537273,0.20971867007672634
+875,"An act to amend Section 14005.12 of the Welfare and Institutions Code, relating to Medi-Cal.",0.45762711864406785,0.25000000000000006,0.35028248587570615
+876,"An act to amend Section 22358.4 of the Vehicle Code, relating to vehicles.",0.486784140969163,0.4326710816777042,0.43612334801762115
+877,"An act to add Part 6.5 (commencing with Section 24455) to Division 9 of the Public Utilities Code, relating to aviation.",0.4649776453055142,0.23019431988041855,0.34277198211624443
+878,"An act to amend Sections 30515 and 30900 of, and to add Section 30680 to, the Penal Code, relating to firearms.",0.36622807017543857,0.20000000000000004,0.21710526315789475
+879,"An act to add Article 4.5 (commencing with Section 111548) to Chapter 6 of Part 5 of Division 104 of the Health and Safety Code, relating to drugs and devices.",0.35502958579881655,0.10682492581602372,0.1893491124260355
+880,"An act to amend Sections 1070, 1071, and 1072 of, to amend the heading of Chapter 4.6 (commencing with Section 1070) of Part 3 of Division 2 of, and to add Sections 1075 and 1076 to, the Labor Code, relating to employment.",0.4314329738058552,0.1483771251931994,0.23112480739599384
+881,"An act to amend Sections 632, 633.5, and 637.2 of, and to add Section 632.01 to, the Penal Code, relating to confidential communications.",0.4721141374837873,0.3016905071521456,0.32684824902723736
+882,"An act to amend Section 16520 of the Penal Code, relating to firearms.",0.16766467065868262,0.07228915662650602,0.11976047904191617
+883,"An act to amend Sections 26835, 27535, 27540, and 27590 of the Penal Code, relating to firearms.",0.2411067193675889,0.04365079365079365,0.14624505928853757
+884,"An act to amend Section 1197.5 of the Labor Code, relating to employers.",0.273224043715847,0.18131868131868134,0.19125683060109291
+885,"An act to amend Section 6228 of the Family Code, relating to domestic violence.",0.48395061728395067,0.24317617866004967,0.2271604938271605
+886,"An act to amend
 Section
 Sections 26004 and
 26011.8 of the Public Resources Code, relating to alternative
 energy, to take effect immediately, tax levy.
 energy.",0.5133928571428572,0.22869955156950672,0.28571428571428575
-"An act to amend Section 12930 of the Government Code, relating to civil actions.",0.36538461538461536,0.0970873786407767,0.20192307692307693
-"An act to amend Sections 43016, 43151, 43154, 43211, and 43212 of, and to add Section 43214 to, the Health and Safety Code, relating to vehicular air pollution.",0.3931818181818182,0.1776765375854214,0.25000000000000006
-"An act to amend Section 361.2 of the Welfare and Institutions Code, relating to juveniles.",0.4075471698113207,0.12927756653992395,0.24150943396226413
-"An act to amend Section 51225.3 of, and to add Section 51221.1 to, the Education Code, relating to school curriculum.",0.3535714285714286,0.25806451612903225,0.3107142857142857
-"An act to add Section 87482.3 to the Education Code, relating to community colleges.",0.4870259481037924,0.2284569138276553,0.23952095808383234
-"An act to amend Sections 148.5 and 29805 of the Penal Code, relating to firearms.",0.3987138263665595,0.23948220064724915,0.2572347266881029
-"An act to amend Section 44272 of the Health and Safety Code, relating to vehicular air pollution.",0.42280285035629456,0.162291169451074,0.2612826603325416
-"An act to amend Sections 13700, 13700.5, 13701, and 13703 of the Welfare and Institutions Code, relating to homeless youth, and making an appropriation therefor.",0.5357142857142857,0.24663677130044845,0.26785714285714285
-"An act to amend Section 4030 of the Penal Code, relating to jails.",0.45569620253164556,0.14249363867684478,0.23797468354430382
-"An act to amend Section 3003 of the Government Code, and to amend Section 532b of the Penal Code, relating to military fraud.",0.30570902394106814,0.2661737523105361,0.25414364640883974
-"An act to add
+887,"An act to amend Section 12930 of the Government Code, relating to civil actions.",0.36538461538461536,0.0970873786407767,0.20192307692307693
+888,"An act to amend Sections 43016, 43151, 43154, 43211, and 43212 of, and to add Section 43214 to, the Health and Safety Code, relating to vehicular air pollution.",0.3931818181818182,0.1776765375854214,0.25000000000000006
+889,"An act to amend Section 361.2 of the Welfare and Institutions Code, relating to juveniles.",0.4075471698113207,0.12927756653992395,0.24150943396226413
+890,"An act to amend Section 51225.3 of, and to add Section 51221.1 to, the Education Code, relating to school curriculum.",0.3535714285714286,0.25806451612903225,0.3107142857142857
+891,"An act to add Section 87482.3 to the Education Code, relating to community colleges.",0.4870259481037924,0.2284569138276553,0.23952095808383234
+892,"An act to amend Sections 148.5 and 29805 of the Penal Code, relating to firearms.",0.3987138263665595,0.23948220064724915,0.2572347266881029
+893,"An act to amend Section 44272 of the Health and Safety Code, relating to vehicular air pollution.",0.42280285035629456,0.162291169451074,0.2612826603325416
+894,"An act to amend Sections 13700, 13700.5, 13701, and 13703 of the Welfare and Institutions Code, relating to homeless youth, and making an appropriation therefor.",0.5357142857142857,0.24663677130044845,0.26785714285714285
+895,"An act to amend Section 4030 of the Penal Code, relating to jails.",0.45569620253164556,0.14249363867684478,0.23797468354430382
+896,"An act to amend Section 3003 of the Government Code, and to amend Section 532b of the Penal Code, relating to military fraud.",0.30570902394106814,0.2661737523105361,0.25414364640883974
+897,"An act to add
 Chapter 8.8 (commencing with Section 44269) to Part 5 of Division 26 of the Health and Safety Code,
 Section 44258.6 to the Health and Safety Code, and to amend Section 17072 of, to add Section 6012.4 to, and to add and repeal Sections 17060.3 and 17206.3 of, the Revenue and Taxation Code,
 relating to vehicular air pollution.",0.3956989247311828,0.21551724137931033,0.2731182795698925
-"An act to
+898,"An act to
 amend Section 1685 of
 add Section 1686 to
 the Vehicle Code, relating to the Department of Motor Vehicles.",0.5135135135135135,0.29891304347826086,0.37837837837837834
-"An act to add Chapter 10.5 (commencing with Section 5845) to Division 5 of the Public Resources Code, relating to the Lower American River, and making an appropriation therefor.",0.30547550432276654,0.17391304347826086,0.20749279538904902
-"An act to amend Section 368 of the Penal Code, relating to elder abuse.",0.3389830508474576,0.10227272727272728,0.22033898305084748
-"An act to amend
+899,"An act to add Chapter 10.5 (commencing with Section 5845) to Division 5 of the Public Resources Code, relating to the Lower American River, and making an appropriation therefor.",0.30547550432276654,0.17391304347826086,0.20749279538904902
+900,"An act to amend Section 368 of the Penal Code, relating to elder abuse.",0.3389830508474576,0.10227272727272728,0.22033898305084748
+901,"An act to amend
 Sections 69437 and 69439
 Section 69437
 of the Education Code, relating to student financial aid.",0.47957371225577267,0.16755793226381463,0.2060390763765542
-"An act to amend Sections 1785.16.2 and 1788.18 of the Civil Code, relating to debt collection.",0.5106382978723405,0.24077669902912624,0.25918762088974856
-"An act to add Chapter 4.8 (commencing with Section 1080) to Part 3 of Division 2 of the Labor Code, relating to employment.",0.338235294117647,0.04797047970479705,0.19852941176470587
-"An act to
+902,"An act to amend Sections 1785.16.2 and 1788.18 of the Civil Code, relating to debt collection.",0.5106382978723405,0.24077669902912624,0.25918762088974856
+903,"An act to add Chapter 4.8 (commencing with Section 1080) to Part 3 of Division 2 of the Labor Code, relating to employment.",0.338235294117647,0.04797047970479705,0.19852941176470587
+904,"An act to
 amend Section 8169 of
 add Section 8924.7 to, and to add Chapter 1.5 (commencing with Section 8050) to Division 1 of Title 2 of,
 the Government Code, relating to state
 property.
 government.",0.3582677165354331,0.1422924901185771,0.2204724409448819
-"An act to add and repeal Part 54.7 (commencing with Section 88900) of Division 7 of Title 3 of the Education Code, relating to community colleges.",0.5230769230769231,0.22164948453608246,0.317948717948718
-"An act to add Chapter 6.8 (commencing with Section 30066) to Division 3 of Title 3 of the Government Code, relating to public safety, and making an appropriation therefor.",0.5274725274725275,0.24354243542435425,0.27106227106227104
-"An act to add Section 66025.93 to the Education Code, and to amend Sections 18904.3 and 18995 of the Welfare and Institutions Code, relating to food assistance.",0.453781512605042,0.2415730337078652,0.288515406162465
-"An act to add Section 4119.8 to the Business and Professions Code, and to add Section 49414.3 to the Education Code, relating to pupils.",0.3907815631262525,0.2690763052208835,0.2585170340681363
-"An act to add
+905,"An act to add and repeal Part 54.7 (commencing with Section 88900) of Division 7 of Title 3 of the Education Code, relating to community colleges.",0.5230769230769231,0.22164948453608246,0.317948717948718
+906,"An act to add Chapter 6.8 (commencing with Section 30066) to Division 3 of Title 3 of the Government Code, relating to public safety, and making an appropriation therefor.",0.5274725274725275,0.24354243542435425,0.27106227106227104
+907,"An act to add Section 66025.93 to the Education Code, and to amend Sections 18904.3 and 18995 of the Welfare and Institutions Code, relating to food assistance.",0.453781512605042,0.2415730337078652,0.288515406162465
+908,"An act to add Section 4119.8 to the Business and Professions Code, and to add Section 49414.3 to the Education Code, relating to pupils.",0.3907815631262525,0.2690763052208835,0.2585170340681363
+909,"An act to add
 and repeal Section 21080.06 of
 Section 21168.11 to
 the Public Resources Code, relating to environmental quality, and declaring the urgency thereof, to take effect immediately.",0.34904013961605584,0.11208406304728546,0.21291448516579406
-"An act to amend Section 2079.13 of the Civil Code, relating to real property transactions.",0.31666666666666665,0.08474576271186442,0.2833333333333333
-"An act to amend Sections 21628 and 21642.5 of, to add Section 21627.5 to, to repeal Sections 21628.1 and 21633 of, and to repeal and add Section 21630 of, the Business and Professions Code, relating to secondhand goods, and declaring the urgency thereof, to take effect immediately.",0.4412296564195298,0.1560798548094374,0.23508137432188064
-"An act to add and repeal Article 7 (commencing with Section 13967) to Chapter 5 of Part 4 of Division 3 of Title 2 of the Government Code, relating to crime victims.",0.4035874439461884,0.21171171171171171,0.26905829596412556
-"An act to add Section 39668.5 to, and to add Article 11.3 (commencing with Section 25240) to Chapter 6.5 of Division 20 of, the Health and Safety Code, relating to hydrogen fluoride, and declaring the urgency thereof, to take effect immediately.",0.2527881040892193,0.05223880597014926,0.12267657992565056
-"An act to amend Section 127660 of the Health and Safety Code, relating to health care coverage.",0.49787234042553186,0.19230769230769232,0.3276595744680851
-"An act to amend Section 222.5 of, and to amend, repeal, and add Section 223 of, the Code of Civil Procedure, relating to jurors.",0.37728194726166325,0.09775967413441955,0.2434077079107505
-"An act to amend Section 18930 of the Welfare and Institutions Code, relating to public social services.",0.5126582278481012,0.22292993630573246,0.26582278481012656
-"An act to
+910,"An act to amend Section 2079.13 of the Civil Code, relating to real property transactions.",0.31666666666666665,0.08474576271186442,0.2833333333333333
+911,"An act to amend Sections 21628 and 21642.5 of, to add Section 21627.5 to, to repeal Sections 21628.1 and 21633 of, and to repeal and add Section 21630 of, the Business and Professions Code, relating to secondhand goods, and declaring the urgency thereof, to take effect immediately.",0.4412296564195298,0.1560798548094374,0.23508137432188064
+912,"An act to add and repeal Article 7 (commencing with Section 13967) to Chapter 5 of Part 4 of Division 3 of Title 2 of the Government Code, relating to crime victims.",0.4035874439461884,0.21171171171171171,0.26905829596412556
+913,"An act to add Section 39668.5 to, and to add Article 11.3 (commencing with Section 25240) to Chapter 6.5 of Division 20 of, the Health and Safety Code, relating to hydrogen fluoride, and declaring the urgency thereof, to take effect immediately.",0.2527881040892193,0.05223880597014926,0.12267657992565056
+914,"An act to amend Section 127660 of the Health and Safety Code, relating to health care coverage.",0.49787234042553186,0.19230769230769232,0.3276595744680851
+915,"An act to amend Section 222.5 of, and to amend, repeal, and add Section 223 of, the Code of Civil Procedure, relating to jurors.",0.37728194726166325,0.09775967413441955,0.2434077079107505
+916,"An act to amend Section 18930 of the Welfare and Institutions Code, relating to public social services.",0.5126582278481012,0.22292993630573246,0.26582278481012656
+917,"An act to
 amend Section 653.23 of the Penal Code, and to amend Section 602 of the Welfare and Institutions Code, relating to prostitution.
 add Article 7.5 (commencing with Section 48317) to Chapter 2 of Part 27 of Division 4 of Title 2 of the Education Code, relating to school attendance.",0.41333333333333333,0.21428571428571433,0.24888888888888888
-"An act to amend Section 2830 of the Public Utilities Code, relating to renewable energy.",0.5388349514563107,0.2780487804878049,0.3592233009708738
-"An act to amend Sections 18601, 18633, 18633.5, and 23281 of the Revenue and Taxation Code, relating to taxation.",0.4532710280373832,0.1455399061032864,0.25700934579439255
-"An act to amend Section 67386 of the Education Code, relating to student safety.",0.4354066985645933,0.2788461538461538,0.35406698564593303
-"An act to amend, repeal, and add Sections 31013 and 31117 of, and to add and repeal Sections 31020 and 31115.5 of, the Corporations Code, relating to franchises.",0.5726681127982647,0.30501089324618735,0.3036876355748373
-"An act to add Chapter 8 (commencing with Section 17660) to Part 10.5 of Division 1 of Title 1 of the Education Code, relating to school facilities.",0.45396825396825397,0.2452229299363057,0.3111111111111111
-"An act to amend Section 19619 of the Business and Professions Code, relating to horse racing.",0.20366598778004075,0.02862985685071575,0.1629327902240326
-"An act to add Article 11 (commencing with Section 9149.30) to Chapter 1.5 of Part 1 of Division 2 of Title 2 of the Government Code, relating to the Legislature.",0.5087281795511222,0.2155388471177945,0.2543640897755611
-"An act to amend Sections 18897 and 18898 of the Revenue and Taxation Code, relating to taxation.",0.5113268608414239,0.3127035830618893,0.31715210355987056
-"An act to add Chapter 1.6 (commencing with Section 71265) to Part 3 of Division 20 of the Water Code, relating to municipal water districts.",0.5064599483204134,0.1922077922077922,0.2790697674418605
-"An act to amend Sections 104150 and 104161.1 of the Health and Safety Code, relating to health care programs.",0.3565891472868217,0.14843749999999997,0.20930232558139533
-"An act to amend Sections 5100, 5105, and 5145 of the Civil Code, relating to common interest developments.",0.33532934131736525,0.052104208416833664,0.22355289421157684
-"An act to amend Section 10083.2 of the Business and Professions Code, relating to real estate licensees, and making an appropriation therefor.",0.44331641285956,0.13242784380305603,0.23350253807106602
-"An act to amend Section 124260 of the Health and Safety Code, relating to minors.",0.16615384615384615,0.04953560371517028,0.11076923076923077
-"An act to amend Sections 14557, 14601, 14603, and 14681 of, and to add Section 14604 to, the Food and Agricultural Code, relating to fertilizer.",0.4330708661417323,0.27894736842105267,0.32020997375328086
-"An act to amend Sections 667.61 and 667.9 of the Penal Code, relating to sex offenses.",0.3283208020050125,0.29396984924623115,0.31829573934837097
-"An act to add Part 7 (commencing with Section 101990) to Division 101 of the Health and Safety Code, relating to clinical trials.",0.4461152882205514,0.10075566750629723,0.18546365914786966
-"An act to amend Section 655.1 of the Harbors and Navigation Code, relating to vessels.",0.5341365461847389,0.2661290322580645,0.3293172690763052
-"An act to amend Section 399.13 of the Public Utilities Code, relating to energy.",0.4619164619164619,0.13333333333333333,0.25552825552825553
-"An act relating to postsecondary education.
+918,"An act to amend Section 2830 of the Public Utilities Code, relating to renewable energy.",0.5388349514563107,0.2780487804878049,0.3592233009708738
+919,"An act to amend Sections 18601, 18633, 18633.5, and 23281 of the Revenue and Taxation Code, relating to taxation.",0.4532710280373832,0.1455399061032864,0.25700934579439255
+920,"An act to amend Section 67386 of the Education Code, relating to student safety.",0.4354066985645933,0.2788461538461538,0.35406698564593303
+921,"An act to amend, repeal, and add Sections 31013 and 31117 of, and to add and repeal Sections 31020 and 31115.5 of, the Corporations Code, relating to franchises.",0.5726681127982647,0.30501089324618735,0.3036876355748373
+922,"An act to add Chapter 8 (commencing with Section 17660) to Part 10.5 of Division 1 of Title 1 of the Education Code, relating to school facilities.",0.45396825396825397,0.2452229299363057,0.3111111111111111
+923,"An act to amend Section 19619 of the Business and Professions Code, relating to horse racing.",0.20366598778004075,0.02862985685071575,0.1629327902240326
+924,"An act to add Article 11 (commencing with Section 9149.30) to Chapter 1.5 of Part 1 of Division 2 of Title 2 of the Government Code, relating to the Legislature.",0.5087281795511222,0.2155388471177945,0.2543640897755611
+925,"An act to amend Sections 18897 and 18898 of the Revenue and Taxation Code, relating to taxation.",0.5113268608414239,0.3127035830618893,0.31715210355987056
+926,"An act to add Chapter 1.6 (commencing with Section 71265) to Part 3 of Division 20 of the Water Code, relating to municipal water districts.",0.5064599483204134,0.1922077922077922,0.2790697674418605
+927,"An act to amend Sections 104150 and 104161.1 of the Health and Safety Code, relating to health care programs.",0.3565891472868217,0.14843749999999997,0.20930232558139533
+928,"An act to amend Sections 5100, 5105, and 5145 of the Civil Code, relating to common interest developments.",0.33532934131736525,0.052104208416833664,0.22355289421157684
+929,"An act to amend Section 10083.2 of the Business and Professions Code, relating to real estate licensees, and making an appropriation therefor.",0.44331641285956,0.13242784380305603,0.23350253807106602
+930,"An act to amend Section 124260 of the Health and Safety Code, relating to minors.",0.16615384615384615,0.04953560371517028,0.11076923076923077
+931,"An act to amend Sections 14557, 14601, 14603, and 14681 of, and to add Section 14604 to, the Food and Agricultural Code, relating to fertilizer.",0.4330708661417323,0.27894736842105267,0.32020997375328086
+932,"An act to amend Sections 667.61 and 667.9 of the Penal Code, relating to sex offenses.",0.3283208020050125,0.29396984924623115,0.31829573934837097
+933,"An act to add Part 7 (commencing with Section 101990) to Division 101 of the Health and Safety Code, relating to clinical trials.",0.4461152882205514,0.10075566750629723,0.18546365914786966
+934,"An act to amend Section 655.1 of the Harbors and Navigation Code, relating to vessels.",0.5341365461847389,0.2661290322580645,0.3293172690763052
+935,"An act to amend Section 399.13 of the Public Utilities Code, relating to energy.",0.4619164619164619,0.13333333333333333,0.25552825552825553
+936,"An act relating to postsecondary education.
 An act to add and repeal Article 2.6 (commencing with Section 66010.96) of Chapter 2 of Part 40 of Division 5 of Title 3 of the Education Code, relating to postsecondary education.",0.4181600955794504,0.3544910179640719,0.3345280764635603
-"An act to amend Section 11465 of the Welfare and Institutions Code, relating to foster children.",0.3622448979591837,0.08717948717948718,0.16326530612244897
-"An act to add Article 6.4 (commencing with Section 8592.30) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government.",0.4689165186500888,0.16399286987522282,0.27708703374777977
-"An act to amend Section 5650.1 of the Fish and Game Code, and to amend Section 8670.61 of the Government Code, relating to water pollution.",0.4433249370277078,0.14683544303797472,0.2518891687657431
-"An act to amend Section 432.7 of the Labor Code, relating to employment.",0.5080385852090032,0.31290322580645163,0.2990353697749196
-"An act to amend Section 5515 of, and to add Section 2081.4 to, the Fish and Game Code, relating to fish.",0.380952380952381,0.18639798488664985,0.21052631578947367
-"An act to amend Sections 19851, 19852, 19853, and 19854 of the Revenue and Taxation Code, relating to tax administration.",0.492099322799097,0.26303854875283444,0.38826185101580135
-"An act to add Section 680.1 to the Penal Code, relating to DNA evidence.",0.36923076923076925,0.2625482625482626,0.31538461538461543
-"An act to amend Sections 13000, 32400, 32401, 52613, 52651, 68062, 68130.5, and 69505 of the Education Code, relating to educational services.",0.4036697247706422,0.17679558011049723,0.23853211009174313
-"An act to add Sections 6902.6, 9152.3, 30362.2, 32402.3, 40112.3, 41101.3, 43452.3, 45652.3, 46502.3, 50140.3, 55222.3, and 60522.3 to the Revenue and Taxation Code, relating to taxation.",0.43,0.22110552763819094,0.32499999999999996
-"An act to amend Sections 7500.1, 7504, 7507.3, and 7507.13 of the Business and Professions Code, relating to collateral recovery.",0.14583333333333331,0.07531380753138074,0.1125
-"An act to amend Section
+937,"An act to amend Section 11465 of the Welfare and Institutions Code, relating to foster children.",0.3622448979591837,0.08717948717948718,0.16326530612244897
+938,"An act to add Article 6.4 (commencing with Section 8592.30) to Chapter 7 of Division 1 of Title 2 of the Government Code, relating to state government.",0.4689165186500888,0.16399286987522282,0.27708703374777977
+939,"An act to amend Section 5650.1 of the Fish and Game Code, and to amend Section 8670.61 of the Government Code, relating to water pollution.",0.4433249370277078,0.14683544303797472,0.2518891687657431
+940,"An act to amend Section 432.7 of the Labor Code, relating to employment.",0.5080385852090032,0.31290322580645163,0.2990353697749196
+941,"An act to amend Section 5515 of, and to add Section 2081.4 to, the Fish and Game Code, relating to fish.",0.380952380952381,0.18639798488664985,0.21052631578947367
+942,"An act to amend Sections 19851, 19852, 19853, and 19854 of the Revenue and Taxation Code, relating to tax administration.",0.492099322799097,0.26303854875283444,0.38826185101580135
+943,"An act to add Section 680.1 to the Penal Code, relating to DNA evidence.",0.36923076923076925,0.2625482625482626,0.31538461538461543
+944,"An act to amend Sections 13000, 32400, 32401, 52613, 52651, 68062, 68130.5, and 69505 of the Education Code, relating to educational services.",0.4036697247706422,0.17679558011049723,0.23853211009174313
+945,"An act to add Sections 6902.6, 9152.3, 30362.2, 32402.3, 40112.3, 41101.3, 43452.3, 45652.3, 46502.3, 50140.3, 55222.3, and 60522.3 to the Revenue and Taxation Code, relating to taxation.",0.43,0.22110552763819094,0.32499999999999996
+946,"An act to amend Sections 7500.1, 7504, 7507.3, and 7507.13 of the Business and Professions Code, relating to collateral recovery.",0.14583333333333331,0.07531380753138074,0.1125
+947,"An act to amend Section
 566 of the Penal Code, relating to branded containers.
 1464 of, and to add Title 14 (commencing with Section 14400) to Part 4 of, the Penal Code, relating to peace officers, and making an appropriation therefor.",0.4194260485651214,0.12416851441241684,0.18543046357615892
-"An act to amend Section 27491.41 of, and to add Section 27491.42 to, the Government Code, relating to inquests.",0.6233269598470362,0.38003838771593085,0.4282982791586998
-"An act to amend Section 6027 of the Penal Code, relating to corrections.",0.4373333333333333,0.19302949061662197,0.2933333333333334
-"An act
+948,"An act to amend Section 27491.41 of, and to add Section 27491.42 to, the Government Code, relating to inquests.",0.6233269598470362,0.38003838771593085,0.4282982791586998
+949,"An act to amend Section 6027 of the Penal Code, relating to corrections.",0.4373333333333333,0.19302949061662197,0.2933333333333334
+950,"An act
 to amend Section 830.1 of the Penal Code,
 relating to public safety, and making an appropriation therefor.",0.27906976744186046,0.046709129511677286,0.20718816067653278
-"An act to amend Section 35147 of the Education Code, relating to local educational agencies.
+951,"An act to amend Section 35147 of the Education Code, relating to local educational agencies.
 An act relating to state real property.",0.2642857142857143,0.07913669064748202,0.14285714285714285
-"An act to amend Section 11545 of the Government Code, relating to state government.",0.3951219512195122,0.1176470588235294,0.2
-"An act to add and repeal Article 7 (commencing with Section 18974) of Chapter 11 of Part 6 of Division 9 of the Welfare and Institutions Code, relating to child sexual abuse, and making an appropriation therefor.",0.5250501002004008,0.21327967806841044,0.3006012024048096
-"An act to amend Section
+952,"An act to amend Section 11545 of the Government Code, relating to state government.",0.3951219512195122,0.1176470588235294,0.2
+953,"An act to add and repeal Article 7 (commencing with Section 18974) of Chapter 11 of Part 6 of Division 9 of the Welfare and Institutions Code, relating to child sexual abuse, and making an appropriation therefor.",0.5250501002004008,0.21327967806841044,0.3006012024048096
+954,"An act to amend Section
 12340.1
 12389
 of the Insurance Code, relating to insurance.",0.19555555555555554,0.09865470852017937,0.16888888888888887
-"An act to amend Section 12990 of the Government Code, relating to discrimination.",0.46329526916802605,0.16366612111292964,0.24143556280587272
-"An act to amend Sections 33704, 36806, 48003, 61345, 61412, 61805, 62211, and 76259 of, to add Section 61306.5 to, and to repeal Section 33704.5 of, the Food and Agricultural Code, and to amend Section 51203 of the Government Code, relating to food and agriculture, and making an appropriation therefor.",0.30343511450381677,0.14722753346080306,0.13931297709923662
-"An act to amend Section 7202 of the Revenue and Taxation Code, relating to taxation.",0.4743589743589744,0.2987012987012987,0.35897435897435903
-"An act to add Section 1596.951 to the Health and Safety Code, relating to care facilities.",0.48621553884711777,0.21662468513853902,0.3408521303258146
-"An act to amend Section 12804.9 of the Vehicle Code, relating to driver’s licenses.",0.25352112676056343,0.03791469194312797,0.1784037558685446
-"An act to amend Sections 6601 and 6601.3 of the Welfare and Institutions Code, relating to mental health.",0.6083650190114068,0.3702290076335878,0.37262357414448666
-"An act relating to transportation, calling an election, to take effect immediately.",0.49242424242424243,0.38931297709923657,0.43939393939393934
-"An act to amend Sections 44332, 44332.5, and 44332.6 of, and to add and repeal Article 15 (commencing with Section 44405) of Chapter 2 of Part 25 of Division 3 of Title 2 of the Education Code, relating to teacher credentialing.",0.477088948787062,0.2675675675675676,0.30188679245283023
-"An act to amend Section 50199.10 of the Health and Safety Code, relating to housing, and making an appropriation therefor.",0.22754491017964074,0.06024096385542169,0.1437125748502994
-"An act to amend Section 3017 of the Elections Code, relating to elections.",0.42290748898678415,0.1415929203539823,0.22907488986784139
-"An act to amend, repeal, and add Sections 11658 and 11658.5 of the Insurance Code, relating to workers’ compensation insurance.",0.6068222621184919,0.3891891891891892,0.42369838420107714
-"An act to amend Section 1777.5 of the Labor Code, relating to public works.",0.6166219839142091,0.47439353099730464,0.5254691689008042
-"An act to amend Section 17052 of the Revenue and Taxation Code, relating to taxation.",0.54,0.28187919463087246,0.34
-"An act to amend Sections 1797.184, 1798.200, 1798.201, and 1798.202 of, and to repeal Section 1799.112 of, the Health and Safety Code, relating to public health.",0.5177304964539007,0.22419928825622773,0.2907801418439716
-"An act to add and repeal Section 65915.7 of the Government Code, relating to housing.",0.29102167182662536,0.14330218068535824,0.17956656346749225
-"An act to add Section 832.19 to the Penal Code, relating to peace officers.",0.5329249617151608,0.41167434715821816,0.4624808575803981
-"An act to amend Sections 14998.2 and 14998.4 of the Government Code, relating to the California Film Commission.",0.34444444444444444,0.111731843575419,0.22777777777777775
-"An act to
+955,"An act to amend Section 12990 of the Government Code, relating to discrimination.",0.46329526916802605,0.16366612111292964,0.24143556280587272
+956,"An act to amend Sections 33704, 36806, 48003, 61345, 61412, 61805, 62211, and 76259 of, to add Section 61306.5 to, and to repeal Section 33704.5 of, the Food and Agricultural Code, and to amend Section 51203 of the Government Code, relating to food and agriculture, and making an appropriation therefor.",0.30343511450381677,0.14722753346080306,0.13931297709923662
+957,"An act to amend Section 7202 of the Revenue and Taxation Code, relating to taxation.",0.4743589743589744,0.2987012987012987,0.35897435897435903
+958,"An act to add Section 1596.951 to the Health and Safety Code, relating to care facilities.",0.48621553884711777,0.21662468513853902,0.3408521303258146
+959,"An act to amend Section 12804.9 of the Vehicle Code, relating to driver’s licenses.",0.25352112676056343,0.03791469194312797,0.1784037558685446
+960,"An act to amend Sections 6601 and 6601.3 of the Welfare and Institutions Code, relating to mental health.",0.6083650190114068,0.3702290076335878,0.37262357414448666
+961,"An act relating to transportation, calling an election, to take effect immediately.",0.49242424242424243,0.38931297709923657,0.43939393939393934
+962,"An act to amend Sections 44332, 44332.5, and 44332.6 of, and to add and repeal Article 15 (commencing with Section 44405) of Chapter 2 of Part 25 of Division 3 of Title 2 of the Education Code, relating to teacher credentialing.",0.477088948787062,0.2675675675675676,0.30188679245283023
+963,"An act to amend Section 50199.10 of the Health and Safety Code, relating to housing, and making an appropriation therefor.",0.22754491017964074,0.06024096385542169,0.1437125748502994
+964,"An act to amend Section 3017 of the Elections Code, relating to elections.",0.42290748898678415,0.1415929203539823,0.22907488986784139
+965,"An act to amend, repeal, and add Sections 11658 and 11658.5 of the Insurance Code, relating to workers’ compensation insurance.",0.6068222621184919,0.3891891891891892,0.42369838420107714
+966,"An act to amend Section 1777.5 of the Labor Code, relating to public works.",0.6166219839142091,0.47439353099730464,0.5254691689008042
+967,"An act to amend Section 17052 of the Revenue and Taxation Code, relating to taxation.",0.54,0.28187919463087246,0.34
+968,"An act to amend Sections 1797.184, 1798.200, 1798.201, and 1798.202 of, and to repeal Section 1799.112 of, the Health and Safety Code, relating to public health.",0.5177304964539007,0.22419928825622773,0.2907801418439716
+969,"An act to add and repeal Section 65915.7 of the Government Code, relating to housing.",0.29102167182662536,0.14330218068535824,0.17956656346749225
+970,"An act to add Section 832.19 to the Penal Code, relating to peace officers.",0.5329249617151608,0.41167434715821816,0.4624808575803981
+971,"An act to amend Sections 14998.2 and 14998.4 of the Government Code, relating to the California Film Commission.",0.34444444444444444,0.111731843575419,0.22777777777777775
+972,"An act to
 add Section 2810.7 to the Labor Code, relating to employment.
 amend Section 52.6 of the Civil Code, relating to human trafficking.",0.4156378600823045,0.11983471074380164,0.19753086419753088
-"An act to add Section 130246 to the Public Utilities Code, and to amend Section 21113 of the Vehicle Code, relating to parking.",0.4891640866873065,0.31152647975077885,0.39009287925696595
-"An act to amend Section 12811
+973,"An act to add Section 130246 to the Public Utilities Code, and to amend Section 21113 of the Vehicle Code, relating to parking.",0.4891640866873065,0.31152647975077885,0.39009287925696595
+974,"An act to amend Section 12811
 of
 of, and to repeal Section 14901.1 of,
 the Vehicle Code, relating to driver’s licenses.",0.33027522935779813,0.1723076923076923,0.20795107033639143
-"An act to amend Section 8332 of the Government Code, to amend Sections 148.6, 832.18, 13010.5, 13012, and 13012.5 of the Penal Code, and to amend Section 41603 of the Vehicle Code, relating to public safety.",0.41860465116279066,0.14619883040935672,0.2151162790697674
-"An act to add Section 1367.31 to the Health and Safety Code, and to add Section 10123.202 to the Insurance Code, relating to health care coverage.",0.5862068965517241,0.3217821782178218,0.3842364532019704
-"An act to amend Section 245 of the Penal Code, relating to crimes.",0.49760765550239233,0.21634615384615385,0.31100478468899523
-"An act to amend Section 69432 of the Education Code, relating to student financial aid.",0.4910179640718563,0.26853707414829664,0.27145708582834327
-"An act to amend Section 1369 of the Penal Code, relating to criminal procedure.",0.3516483516483517,0.07380073800738009,0.1978021978021978
-"An act to amend Section 51504 of the Health and Safety Code, relating to housing, and making an appropriation therefor.",0.4721689059500959,0.19653179190751444,0.2380038387715931
-"An act to amend Sections 27201 and 27288.1 of the Government Code, relating to the county recorder.",0.4125560538116592,0.15315315315315317,0.2825112107623318
-"An act
+975,"An act to amend Section 8332 of the Government Code, to amend Sections 148.6, 832.18, 13010.5, 13012, and 13012.5 of the Penal Code, and to amend Section 41603 of the Vehicle Code, relating to public safety.",0.41860465116279066,0.14619883040935672,0.2151162790697674
+976,"An act to add Section 1367.31 to the Health and Safety Code, and to add Section 10123.202 to the Insurance Code, relating to health care coverage.",0.5862068965517241,0.3217821782178218,0.3842364532019704
+977,"An act to amend Section 245 of the Penal Code, relating to crimes.",0.49760765550239233,0.21634615384615385,0.31100478468899523
+978,"An act to amend Section 69432 of the Education Code, relating to student financial aid.",0.4910179640718563,0.26853707414829664,0.27145708582834327
+979,"An act to amend Section 1369 of the Penal Code, relating to criminal procedure.",0.3516483516483517,0.07380073800738009,0.1978021978021978
+980,"An act to amend Section 51504 of the Health and Safety Code, relating to housing, and making an appropriation therefor.",0.4721689059500959,0.19653179190751444,0.2380038387715931
+981,"An act to amend Sections 27201 and 27288.1 of the Government Code, relating to the county recorder.",0.4125560538116592,0.15315315315315317,0.2825112107623318
+982,"An act
 to amend Section 11837 of the Health and Safety Code,
 relating to driving under the influence.",0.5330812854442345,0.19354838709677422,0.2495274102079395
-"An act to amend Sections 67039, 67051, 67052, 67052.3, 67053, 67054, 67059, 67081, and 67132 of, to add Sections 58853 and 63906 to, and to repeal Section 67051.1 of, the Food and Agricultural Code, relating to food and agriculture.",0.19009584664536744,0.036800000000000006,0.11980830670926518
-"An act to add Part 4.2 (commencing with Section 1420) to Division 2 of the Labor Code, relating to employment.",0.401883830455259,0.11338582677165354,0.21350078492935637
-"An act
+983,"An act to amend Sections 67039, 67051, 67052, 67052.3, 67053, 67054, 67059, 67081, and 67132 of, to add Sections 58853 and 63906 to, and to repeal Section 67051.1 of, the Food and Agricultural Code, relating to food and agriculture.",0.19009584664536744,0.036800000000000006,0.11980830670926518
+984,"An act to add Part 4.2 (commencing with Section 1420) to Division 2 of the Labor Code, relating to employment.",0.401883830455259,0.11338582677165354,0.21350078492935637
+985,"An act
 to amend Section 39719 of the Health and Safety Code, and
 to add Section 189.7 to the Water Code, relating to
 water, and making an appropriation therefor.
 water.",0.52046783625731,0.32941176470588235,0.4210526315789474
-"An act to add Section 1524.4 to the Penal Code, relating to law enforcement.",0.2577777777777778,0.07142857142857142,0.16
-"An act to amend Section 5515 of, and to add Section 2089.7 to, the Fish and Game Code, relating to fish.",0.5038167938931297,0.2659846547314578,0.3002544529262086
-"An act to amend Sections 82002, 82039, and 86300 of the Government Code, and to amend Sections 30324 and 30325 of the Public Resources Code, relating to the Political Reform Act of 1974.",0.43024771838331155,0.18823529411764706,0.2477183833116036
-"An act to add
+986,"An act to add Section 1524.4 to the Penal Code, relating to law enforcement.",0.2577777777777778,0.07142857142857142,0.16
+987,"An act to amend Section 5515 of, and to add Section 2089.7 to, the Fish and Game Code, relating to fish.",0.5038167938931297,0.2659846547314578,0.3002544529262086
+988,"An act to amend Sections 82002, 82039, and 86300 of the Government Code, and to amend Sections 30324 and 30325 of the Public Resources Code, relating to the Political Reform Act of 1974.",0.43024771838331155,0.18823529411764706,0.2477183833116036
+989,"An act to add
 and repeal
 Section 1367.72
 to
@@ -181,88 +181,88 @@ Section 10123.72
 to
 of
 the Insurance Code, relating to health care coverage.",0.46948356807511743,0.22641509433962262,0.3192488262910798
-"An act to add and repeal Section 66021.8 of the Education Code, relating to student support services.",0.4102564102564103,0.15434083601286175,0.21153846153846154
-"An act to amend Sections 13307, 13308, and 13312 of the Elections Code, relating to elections.",0.4254473161033797,0.20758483033932137,0.3061630218687873
-"An act to amend Sections 19607, 19607.1, 19607.2, and 19607.3 of the Business and Professions Code, relating to horse racing, and declaring the urgency thereof, to take effect immediately.",0.4572230014025246,0.2841068917018284,0.2776998597475456
-"An act to amend Sections 4327, 4497.50, and 4497.52 of, to amend the heading of Chapter 2.5 (commencing with Section 4325) of Title 4 of Part 3 of, to repeal Sections 4326 and 4329 of, and to repeal and add Section 4325 of, the Penal Code, relating to jails.",0.4634146341463415,0.2058823529411765,0.25853658536585367
-"An act to add and repeal Part 3.3 (commencing with Section 5832) of Division 5 of the Welfare and Institutions Code, relating to mental health.",0.49726775956284147,0.19780219780219777,0.3169398907103825
-"An act to add Article 7 (commencing with Section 87200) to Chapter 1 of Part 51 of Division 7 of Title 3 of the Education Code, and to amend Section 11165.7 of the Penal Code, relating to community colleges.",0.541871921182266,0.27677100494233936,0.32183908045977017
-"An act to add Section 111070.5 to the Health and Safety Code, and to add Section 13570 to the Water Code, relating to water.",0.48142644873699864,0.20864381520119227,0.26448736998514116
-"An act to amend Sections 7312, 7314, 7314.3, 7337, 7347, and 7389 of the Business and Professions Code, relating to professions and vocations.",0.15548780487804878,0.045871559633027525,0.0975609756097561
-"An act to
+990,"An act to add and repeal Section 66021.8 of the Education Code, relating to student support services.",0.4102564102564103,0.15434083601286175,0.21153846153846154
+991,"An act to amend Sections 13307, 13308, and 13312 of the Elections Code, relating to elections.",0.4254473161033797,0.20758483033932137,0.3061630218687873
+992,"An act to amend Sections 19607, 19607.1, 19607.2, and 19607.3 of the Business and Professions Code, relating to horse racing, and declaring the urgency thereof, to take effect immediately.",0.4572230014025246,0.2841068917018284,0.2776998597475456
+993,"An act to amend Sections 4327, 4497.50, and 4497.52 of, to amend the heading of Chapter 2.5 (commencing with Section 4325) of Title 4 of Part 3 of, to repeal Sections 4326 and 4329 of, and to repeal and add Section 4325 of, the Penal Code, relating to jails.",0.4634146341463415,0.2058823529411765,0.25853658536585367
+994,"An act to add and repeal Part 3.3 (commencing with Section 5832) of Division 5 of the Welfare and Institutions Code, relating to mental health.",0.49726775956284147,0.19780219780219777,0.3169398907103825
+995,"An act to add Article 7 (commencing with Section 87200) to Chapter 1 of Part 51 of Division 7 of Title 3 of the Education Code, and to amend Section 11165.7 of the Penal Code, relating to community colleges.",0.541871921182266,0.27677100494233936,0.32183908045977017
+996,"An act to add Section 111070.5 to the Health and Safety Code, and to add Section 13570 to the Water Code, relating to water.",0.48142644873699864,0.20864381520119227,0.26448736998514116
+997,"An act to amend Sections 7312, 7314, 7314.3, 7337, 7347, and 7389 of the Business and Professions Code, relating to professions and vocations.",0.15548780487804878,0.045871559633027525,0.0975609756097561
+998,"An act to
 amend Section 21001.1 of
 add Section 21175 to
 the Public Resources Code, relating to environmental quality.",0.5714285714285714,0.22709163346613548,0.30158730158730157
-"An act to add Part 1.87 (commencing with Section 34191.30) to Division 24 of the Health and Safety Code, relating to local government.",0.5345132743362833,0.23801065719360567,0.311504424778761
-"An act to amend Sections 56804, 56816, 57405, and 57412 of the Government Code, relating to local government.",0.48526863084922006,0.288695652173913,0.36395147313691506
-"An act to add Chapter 2.3 (commencing with Section 18890) to Division 8 of the Business and Professions Code, relating to business.",0.4532871972318339,0.2569444444444445,0.25951557093425603
-"An act to amend Section 1212 of the Health and Safety Code, relating to clinics.",0.3851590106007068,0.1099290780141844,0.19081272084805653
-"An act to amend Sections 18904.25 and 18926.5 of, and to add Section 18914.5 to, the Welfare and Institutions Code, relating to CalFresh.",0.17235188509874325,0.05045045045045045,0.11131059245960502
-"An act to
+999,"An act to add Part 1.87 (commencing with Section 34191.30) to Division 24 of the Health and Safety Code, relating to local government.",0.5345132743362833,0.23801065719360567,0.311504424778761
+1000,"An act to amend Sections 56804, 56816, 57405, and 57412 of the Government Code, relating to local government.",0.48526863084922006,0.288695652173913,0.36395147313691506
+1001,"An act to add Chapter 2.3 (commencing with Section 18890) to Division 8 of the Business and Professions Code, relating to business.",0.4532871972318339,0.2569444444444445,0.25951557093425603
+1002,"An act to amend Section 1212 of the Health and Safety Code, relating to clinics.",0.3851590106007068,0.1099290780141844,0.19081272084805653
+1003,"An act to amend Sections 18904.25 and 18926.5 of, and to add Section 18914.5 to, the Welfare and Institutions Code, relating to CalFresh.",0.17235188509874325,0.05045045045045045,0.11131059245960502
+1004,"An act to
 amend
 amend, repeal, and add
 Section 21608.5 of the Business and Professions Code, relating to business.",0.3317307692307693,0.1497584541062802,0.2211538461538462
-"An act to amend Sections 1234, 1234.1, 1234.2, 1234.3, and 1234.4 of the Penal Code, relating to recidivism.",0.46153846153846156,0.15458937198067632,0.1826923076923077
-"An act to amend Sections 11265.3 and 11265.47 of the Welfare and Institutions Code, relating to CalWORKs.",0.5139318885448917,0.2391304347826087,0.2662538699690402
-"An act to amend Sections 2263 and 2265 of the Elections Code, relating to elections.",0.6181818181818182,0.30593607305936077,0.34090909090909094
-"An act to amend Section 13651 of the Business and Professions Code, relating to service stations.",0.3955555555555555,0.19642857142857142,0.27555555555555555
-"An act to amend Sections 1703 and 1703.4 of the Labor Code, relating to employment.",0.51,0.28093645484949836,0.33999999999999997
-"An act to amend Section 14005.37 of, and to add Section 15927 to, the Welfare and Institutions Code, relating to public health.",0.403530895334174,0.2275600505689001,0.2849936948297604
-"An act to amend Section 166 of the Penal Code, relating to crimes.",0.3523035230352304,0.17391304347826086,0.2710027100271003
-"An act to
+1005,"An act to amend Sections 1234, 1234.1, 1234.2, 1234.3, and 1234.4 of the Penal Code, relating to recidivism.",0.46153846153846156,0.15458937198067632,0.1826923076923077
+1006,"An act to amend Sections 11265.3 and 11265.47 of the Welfare and Institutions Code, relating to CalWORKs.",0.5139318885448917,0.2391304347826087,0.2662538699690402
+1007,"An act to amend Sections 2263 and 2265 of the Elections Code, relating to elections.",0.6181818181818182,0.30593607305936077,0.34090909090909094
+1008,"An act to amend Section 13651 of the Business and Professions Code, relating to service stations.",0.3955555555555555,0.19642857142857142,0.27555555555555555
+1009,"An act to amend Sections 1703 and 1703.4 of the Labor Code, relating to employment.",0.51,0.28093645484949836,0.33999999999999997
+1010,"An act to amend Section 14005.37 of, and to add Section 15927 to, the Welfare and Institutions Code, relating to public health.",0.403530895334174,0.2275600505689001,0.2849936948297604
+1011,"An act to amend Section 166 of the Penal Code, relating to crimes.",0.3523035230352304,0.17391304347826086,0.2710027100271003
+1012,"An act to
 amend Section 1367 of
 add Section 1367.255 to
 the Health and Safety Code, relating to health
 care.
 care coverage.",0.33783783783783783,0.16326530612244897,0.25675675675675674
-"An act to amend Section 11174.32 of the Penal Code, relating to crime.",0.4838709677419355,0.25462962962962965,0.3317972350230415
-"An act to amend Section 75230 of the Public Resources Code, relating to transportation, and making an appropriation therefor.",0.48829431438127097,0.26936026936026936,0.3545150501672241
-"An act to amend Section 25503.6 of the Business and Professions Code, relating to alcoholic beverages.",0.2891566265060241,0.06295399515738499,0.1927710843373494
-"An act to add and repeal Chapter 16 (commencing with Section 18997) of Part 6 of Division 9 of the Welfare and Institutions Code, relating to public social services.",0.595289079229122,0.33548387096774196,0.3811563169164882
-"An act
+1013,"An act to amend Section 11174.32 of the Penal Code, relating to crime.",0.4838709677419355,0.25462962962962965,0.3317972350230415
+1014,"An act to amend Section 75230 of the Public Resources Code, relating to transportation, and making an appropriation therefor.",0.48829431438127097,0.26936026936026936,0.3545150501672241
+1015,"An act to amend Section 25503.6 of the Business and Professions Code, relating to alcoholic beverages.",0.2891566265060241,0.06295399515738499,0.1927710843373494
+1016,"An act to add and repeal Chapter 16 (commencing with Section 18997) of Part 6 of Division 9 of the Welfare and Institutions Code, relating to public social services.",0.595289079229122,0.33548387096774196,0.3811563169164882
+1017,"An act
 to amend Section 12715 of the Government Code,
 relating to gaming.",0.45077720207253885,0.17922077922077922,0.24870466321243526
-"An act to amend Section 25218.1 of the Health and Safety Code, relating to household hazardous waste.",0.2285714285714286,0.1234567901234568,0.18775510204081636
-"An act to amend Section 1802 of the Public Utilities Code, relating to public utilities.",0.5482456140350878,0.22026431718061673,0.2631578947368421
-"An act to add Article 4 (commencing with Section 25680) to Chapter 16 of Division 9 of the Business and Professions Code, relating to alcoholic beverages.",0.542713567839196,0.30924369747899155,0.2981574539363484
-"An act to amend Sections 44391, 44392, and 44393 of, and to repeal and add Section 44390 of, the Education Code, relating to teacher credentialing.",0.40489432703003336,0.22073578595317728,0.2602892102335928
-"An act
+1018,"An act to amend Section 25218.1 of the Health and Safety Code, relating to household hazardous waste.",0.2285714285714286,0.1234567901234568,0.18775510204081636
+1019,"An act to amend Section 1802 of the Public Utilities Code, relating to public utilities.",0.5482456140350878,0.22026431718061673,0.2631578947368421
+1020,"An act to add Article 4 (commencing with Section 25680) to Chapter 16 of Division 9 of the Business and Professions Code, relating to alcoholic beverages.",0.542713567839196,0.30924369747899155,0.2981574539363484
+1021,"An act to amend Sections 44391, 44392, and 44393 of, and to repeal and add Section 44390 of, the Education Code, relating to teacher credentialing.",0.40489432703003336,0.22073578595317728,0.2602892102335928
+1022,"An act
 to amend Section 52060 of the Education Code, and
 to amend Section 116385 of the Health and Safety Code, relating to water.",0.3696808510638298,0.128,0.24734042553191493
-"An act to add Section 25257.2 to the Health and Safety Code, relating to nail salons.",0.4293478260869566,0.13661202185792348,0.2554347826086957
-"An act to amend Section 1203 of the Penal Code, relating to probation.",0.32701421800947866,0.05714285714285715,0.2085308056872038
-"An act to
+1023,"An act to add Section 25257.2 to the Health and Safety Code, relating to nail salons.",0.4293478260869566,0.13661202185792348,0.2554347826086957
+1024,"An act to amend Section 1203 of the Penal Code, relating to probation.",0.32701421800947866,0.05714285714285715,0.2085308056872038
+1025,"An act to
 add Section 8221.6 to the Education Code,
 amend Section 1596.86 of, and to add Section 1596.864 to, the Health and Safety Code,
 relating to child
 care and development.
 care.",0.5741811175337187,0.2940038684719536,0.3622350674373796
-"An act to amend Section 17550.20 of the Business and Professions Code, relating to business.",0.30927835051546393,0.08333333333333333,0.21649484536082478
-"An act to amend Sections 27296 and 27390 of, and to amend, repeal, and add Sections 27391 and 27393 of, the Government Code, relating to electronic recording.",0.48373983739837395,0.15918367346938775,0.26422764227642276
-"An act to amend Sections 4073.5 and 4074 of the Business and Professions Code, relating to pharmacy.",0.36986301369863017,0.18807339449541288,0.2602739726027397
-"An act to add Section 22659.7 to the Vehicle Code, relating to vehicles.",0.3772727272727273,0.1552511415525114,0.2590909090909091
-"An act to amend Section 3003.5 of, and to add Sections 1746 and 2001.5 to, the Fish and Game Code, and to add Article 4 (commencing with Section 5085) to Chapter 1.2 of Division 5 of the Public Resources Code, relating to unmanned aircraft systems.",0.4368231046931408,0.2826086956521739,0.32129963898916974
-"An act to amend Section 11450 of the Welfare and Institutions Code, relating to CalWORKs.",0.3259259259259259,0.21836228287841186,0.28641975308641976
-"An act to amend, repeal, and add Section 13109 of the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.",0.5144927536231885,0.2116788321167883,0.33333333333333337
-"An act to add Chapter 6.3 (commencing with Section 1625) to Division 2 of the Fish and Game Code, and to repeal Section 21083.4 of the Public Resources Code, relating to forestry, and making an appropriation therefor.",0.16528925619834708,0.03734439834024896,0.11157024793388431
-"An act to amend Section 32000 of the Penal Code, relating to firearms.",0.5432595573440644,0.3515151515151515,0.3943661971830986
-"An act to amend Sections 22513 and 22513.1 of the Vehicle Code, relating to vehicles.",0.4527363184079602,0.2917705735660848,0.36318407960199006
-"An act to amend Sections 2192 and 2192.2 of the Streets and Highways Code, relating to transportation.",0.4910714285714286,0.15246636771300448,0.23214285714285712
-"An act to amend Section 23356.2 of the Business and Professions Code, relating to alcoholic beverages.",0.37765957446808507,0.12299465240641713,0.2553191489361702
-"An act to amend Section 8698 of, and to add and repeal Section 8698.3 of, the Government Code, relating to housing.",0.4793103448275861,0.1868512110726644,0.22413793103448273
-"An act to amend Section 1206.5 of the Business and Professions Code, and to add Section 122440 to the Health and Safety Code, relating to public health.",0.47930283224400877,0.20131291028446388,0.3050108932461874
-"An act to add Sections 10130, 10503.5, and 10727 to the Public Contract Code, relating to public contracts.",0.5895117540687161,0.2831215970961887,0.3435804701627487
-"An act to add Section 49475.6 to, and to add and repeal Section 49475.5 of, the Education Code, relating to school athletics.",0.26780021253985126,0.1959531416400426,0.1891604675876727
-"An act to amend Section 647 of the Penal Code, relating to disorderly conduct.",0.34101382488479265,0.13023255813953488,0.2580645161290322
-"An act to
+1026,"An act to amend Section 17550.20 of the Business and Professions Code, relating to business.",0.30927835051546393,0.08333333333333333,0.21649484536082478
+1027,"An act to amend Sections 27296 and 27390 of, and to amend, repeal, and add Sections 27391 and 27393 of, the Government Code, relating to electronic recording.",0.48373983739837395,0.15918367346938775,0.26422764227642276
+1028,"An act to amend Sections 4073.5 and 4074 of the Business and Professions Code, relating to pharmacy.",0.36986301369863017,0.18807339449541288,0.2602739726027397
+1029,"An act to add Section 22659.7 to the Vehicle Code, relating to vehicles.",0.3772727272727273,0.1552511415525114,0.2590909090909091
+1030,"An act to amend Section 3003.5 of, and to add Sections 1746 and 2001.5 to, the Fish and Game Code, and to add Article 4 (commencing with Section 5085) to Chapter 1.2 of Division 5 of the Public Resources Code, relating to unmanned aircraft systems.",0.4368231046931408,0.2826086956521739,0.32129963898916974
+1031,"An act to amend Section 11450 of the Welfare and Institutions Code, relating to CalWORKs.",0.3259259259259259,0.21836228287841186,0.28641975308641976
+1032,"An act to amend, repeal, and add Section 13109 of the Elections Code, relating to elections, and declaring the urgency thereof, to take effect immediately.",0.5144927536231885,0.2116788321167883,0.33333333333333337
+1033,"An act to add Chapter 6.3 (commencing with Section 1625) to Division 2 of the Fish and Game Code, and to repeal Section 21083.4 of the Public Resources Code, relating to forestry, and making an appropriation therefor.",0.16528925619834708,0.03734439834024896,0.11157024793388431
+1034,"An act to amend Section 32000 of the Penal Code, relating to firearms.",0.5432595573440644,0.3515151515151515,0.3943661971830986
+1035,"An act to amend Sections 22513 and 22513.1 of the Vehicle Code, relating to vehicles.",0.4527363184079602,0.2917705735660848,0.36318407960199006
+1036,"An act to amend Sections 2192 and 2192.2 of the Streets and Highways Code, relating to transportation.",0.4910714285714286,0.15246636771300448,0.23214285714285712
+1037,"An act to amend Section 23356.2 of the Business and Professions Code, relating to alcoholic beverages.",0.37765957446808507,0.12299465240641713,0.2553191489361702
+1038,"An act to amend Section 8698 of, and to add and repeal Section 8698.3 of, the Government Code, relating to housing.",0.4793103448275861,0.1868512110726644,0.22413793103448273
+1039,"An act to amend Section 1206.5 of the Business and Professions Code, and to add Section 122440 to the Health and Safety Code, relating to public health.",0.47930283224400877,0.20131291028446388,0.3050108932461874
+1040,"An act to add Sections 10130, 10503.5, and 10727 to the Public Contract Code, relating to public contracts.",0.5895117540687161,0.2831215970961887,0.3435804701627487
+1041,"An act to add Section 49475.6 to, and to add and repeal Section 49475.5 of, the Education Code, relating to school athletics.",0.26780021253985126,0.1959531416400426,0.1891604675876727
+1042,"An act to amend Section 647 of the Penal Code, relating to disorderly conduct.",0.34101382488479265,0.13023255813953488,0.2580645161290322
+1043,"An act to
 add Section 15030 to the Government Code, relating to human trafficking.
 amend Section 836 of the Penal Code, relating to crimes.",0.3906810035842294,0.09712230215827337,0.22580645161290325
-"An act to amend Sections 4927.5, 4928, 4934, 4938, and 4974 of, and to repeal and add Section 4939 of, the Business and Professions Code, relating to healing arts.",0.4985590778097983,0.2572254335260115,0.26512968299711814
-"An act to amend Section 1253.3 of the Unemployment Insurance Code, relating to unemployment insurance, and making an appropriation therefor.",0.46443514644351463,0.13865546218487396,0.2175732217573222
-"An act to amend Section 261.5 of, and to add Section 287 to, the Penal Code, relating to sexual offenses.",0.5297113752122242,0.4395229982964225,0.4617996604414261
-"An act to add Chapter 11 (commencing with Section 11999) to Part 1 of Division 3 of Title 2 of the Government Code, relating to state government.",0.5330296127562643,0.3524027459954233,0.3325740318906606
-"An act to add Section 39734 to the Health and Safety Code,
+1044,"An act to amend Sections 4927.5, 4928, 4934, 4938, and 4974 of, and to repeal and add Section 4939 of, the Business and Professions Code, relating to healing arts.",0.4985590778097983,0.2572254335260115,0.26512968299711814
+1045,"An act to amend Section 1253.3 of the Unemployment Insurance Code, relating to unemployment insurance, and making an appropriation therefor.",0.46443514644351463,0.13865546218487396,0.2175732217573222
+1046,"An act to amend Section 261.5 of, and to add Section 287 to, the Penal Code, relating to sexual offenses.",0.5297113752122242,0.4395229982964225,0.4617996604414261
+1047,"An act to add Chapter 11 (commencing with Section 11999) to Part 1 of Division 3 of Title 2 of the Government Code, relating to state government.",0.5330296127562643,0.3524027459954233,0.3325740318906606
+1048,"An act to add Section 39734 to the Health and Safety Code,
 and to add Section 784.1 to the Public Utilities Code,
 relating to energy.",0.3306288032454361,0.1219512195121951,0.19066937119675453
-"An act to amend Sections 89711 and 89712 of the Education Code, relating to the California State University.",0.6487695749440716,0.3820224719101124,0.4295302013422819
-"An act to amend Sections 488.080, 699.080, and 706.108 of the Code of Civil Procedure, relating to civil procedure.",0.5056179775280899,0.2655367231638418,0.3426966292134831
+1049,"An act to amend Sections 89711 and 89712 of the Education Code, relating to the California State University.",0.6487695749440716,0.3820224719101124,0.4295302013422819
+1050,"An act to amend Sections 488.080, 699.080, and 706.108 of the Code of Civil Procedure, relating to civil procedure.",0.5056179775280899,0.2655367231638418,0.3426966292134831

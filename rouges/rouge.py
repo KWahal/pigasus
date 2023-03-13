@@ -19,6 +19,7 @@ path_to_summs = "./summaries/val_ca_sum_100_25_1.txt"
 billsum_test = load_dataset('billsum', split="ca_test")
 target_summaries = billsum_test['summary'][865:1051]
 bill_names = billsum_test['title'][865:1051]
+bill_indices = list(range(865, 1051))
 
 test_summs = "".join(open(path_to_summs, 'r').readlines())
 test_summs = test_summs.split(SEPARATOR)[:-1]
