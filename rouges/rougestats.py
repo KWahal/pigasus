@@ -1,15 +1,15 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-csv_df = pd.read_csv("rouges/caval_peglarge_90.csv")
+csv_df = pd.read_csv("caval_finetunedCA.csv")
 
 r1 = csv_df["rouge1"].describe().reset_index()["rouge1"]
 r2 = csv_df["rouge2"].describe().reset_index()["rouge2"]
 rl = csv_df["rougeL"].describe().reset_index()["rougeL"]
 
-summary = pd.DataFrame({"Pegasus LARGE CA_VAL 90 R1": list(r1), 
-                        "Pegasus LARGE CA_VAL 90 R2": list(r2), 
-                        "Pegasus LARGE CA_VAL 90 RL": list(rl)},
+summary = pd.DataFrame({"Pigasus FINETUNED 10 CA_VAL R1": list(r1), 
+                        "Pigasus FINETUNED 10 CA_VAL R2": list(r2), 
+                        "Pigasus FINETUNED 10 CA_VAL RL": list(rl)},
                         index = ["count", "mean", "std", "min", "25%", "50%", "75%", "max"])
 
 print(summary.to_string())
