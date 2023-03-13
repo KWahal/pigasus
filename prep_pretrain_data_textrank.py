@@ -104,20 +104,22 @@ def generate_extractive_summary(text, limit_phrases, limit_sentences):
 with open('datasets/train.txt') as f:
     lines = f.readlines()
 
-    lines = lines[0:10]
     start_loc = 12
     all_outputs = []
     for line in tqdm(lines):
+       if len(line) >= 1000000:
+           continue
+
        end_loc = line.find('"summary"') - 3
        report = line[start_loc:end_loc]
        sentences = report.split('.')
        num_sentences = 3*len(sentences)//10
-       print("num sentences is " + str(num_sentences))
+      # print("num sentences is " + str(num_sentences))
        summary = generate_extractive_summary(report, 15, num_sentences)
        #print(summary)
        summary_sentences = set(summary.split('.'))
        summary_sentences = list(summary_sentences)
-       print("summary sentence number is " + str(len(summary_sentences)))
+      # print("summary sentence number is " + str(len(summary_sentences)))
        ordered_summaries = {}
 
         # Resort summaries in order, not by rank
@@ -125,9 +127,9 @@ with open('datasets/train.txt') as f:
            location = report.find(summary_sentences[i])
            ordered_summaries[i] = location
         
-       print("first dict is " + str(ordered_summaries))
+     #  print("first dict is " + str(ordered_summaries))
        sorted_summaries = dict(sorted(ordered_summaries.items(), key=lambda x:x[1]))
-       print("sorted dict is " + str(sorted_summaries))
+    #   print("sorted dict is " + str(sorted_summaries))
        final_summaries = []
        for key, value in sorted_summaries.items():
            this_summary = summary_sentences[key]
@@ -144,7 +146,7 @@ with open('datasets/train.txt') as f:
 
       # print(report)
        counts = report.count("<mask_1>")
-       print("counts = " + str(counts))
+     #  print("counts = " + str(counts))
 
        output = {}
        output["inputs"] = report

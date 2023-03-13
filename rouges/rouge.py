@@ -33,11 +33,11 @@ all_scores = []
 for i in tqdm(range(len(bill_names))):
     score = scorer.score(test_summs[i], target_summaries[i])
     # parse + save score data type
-    all_scores.append({'title': bill_names[i], 'rouge1': score['rouge1'].fmeasure, 'rouge2': score['rouge2'].fmeasure, 'rougeL': score['rougeL'].fmeasure})
+    all_scores.append({'index': bill_indices[i], 'title': bill_names[i], 'rouge1': score['rouge1'].fmeasure, 'rouge2': score['rouge2'].fmeasure, 'rougeL': score['rougeL'].fmeasure})
 
     
 # write rouge scores to CSV file
-field_names = ["title", "rouge1", "rouge2", "rougeL"]
+field_names = ["index", "title", "rouge1", "rouge2", "rougeL"]
 
 with open('./rouges/caval_100d_25e.csv', 'w') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames = field_names)
