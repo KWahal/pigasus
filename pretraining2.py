@@ -151,11 +151,11 @@ if __name__ == "__main__":
     # TODO: make val set and plug into prepare data as well. => DONE
     all_text, all_labels = train_dataset['inputs'], train_dataset['labels']
 
-    train_text = all_text[:12261]
-    train_labels = all_labels[:12261]
+    train_text = all_text[:256]#[:12261]
+    train_labels = all_labels[:256]#[:12261]
 
-    val_text = all_text[12261:15764]
-    val_labels = all_labels[12261:15764]
+    val_text = all_text[256:] #[12261:15764]
+    val_labels = all_labels[256:] #[12261:15764]
 
     train_dataset, val_dataset, _, tokenizer = prepare_data(model_name, train_text, train_labels, val_texts=val_text, val_labels=val_labels, test_texts=None, test_labels=None)
 

@@ -18,7 +18,10 @@ scorer = rouge_scorer.RougeScorer(['rouge1'], use_stemmer=True)
 with open('datasets/train.txt') as f:
     lines = f.readlines()
 
-    lines = lines[0:1000]
+    lines = lines[0:256] + lines[12261:12301]
+        # ^ train set,      ^ val set
+    print(len(lines))
+
     start_loc = 12
     all_outputs = []
     for line in tqdm(lines):
@@ -69,5 +72,5 @@ with open('datasets/train.txt') as f:
 
 
     json_object = json.dumps(all_outputs)
-    with open("pegasus_masked_gov_docs.json", "w") as outfile:
+    with open("pegasus_masked_gov_docs_NEW.json", "w") as outfile:
         outfile.write(json_object)
