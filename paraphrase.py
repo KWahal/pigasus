@@ -1,5 +1,6 @@
 import torch
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
+from tqdm import tqdm
 model_name = 'tuner007/pegasus_paraphrase'
 torch_device = 'cuda' if torch.cuda.is_available() else 'cpu'
 tokenizer = PegasusTokenizer.from_pretrained(model_name)
@@ -28,13 +29,13 @@ def get_response(input_text,num_return_sequences,num_beams):
   tgt_text = tokenizer.batch_decode(translated, skip_special_tokens=True)
   return tgt_text
 
-original_texts = "".join(open('summaries/summaries_catest.txt', 'r').readlines())
+original_texts = "".join(open('summaries/val_ca_sum_10_100_REAL2.txt', 'r').readlines())
 original_texts = original_texts.split(SEPARATOR)[:-1]
 
-original_texts = original_texts[:2]
+original_texts = original_texts[:100]
 
 all_paraphrased = []
-for text in original_texts:
+for text in tqdm(original_texts):
   sentences = text.split(".")
   sentences = sentences[:len(sentences)-1]
   paraphrased = []
