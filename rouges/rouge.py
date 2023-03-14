@@ -12,9 +12,11 @@ SEPARATOR = "=================================="
 - extractivesumms_rouges.csv => extractive summs on federal tests??
 - pegasussumms_rouges.csv => pegasus summs on federal test
 - caval_100d_24e.csv => finetuned on 100, 25 epochs. summaries on VAL set [865:1051]
+    - ^ long, repetitive summaries
+- caval_100d_24e-SHORT.csv => finetuned 100, 25 epochs, val set => SHORTER
 '''
 
-path_to_summs = "./summaries/val_ca_sum_100_25_1.txt"
+path_to_summs = "./summaries/val_ca_sum_100_25_1-SHORTER.txt"
 
 billsum_test = load_dataset('billsum', split="ca_test")
 target_summaries = billsum_test['summary'][865:1051]
@@ -40,7 +42,7 @@ for i in tqdm(range(len(bill_names))):
 # write rouge scores to CSV file
 field_names = ["index", "title", "rouge1", "rouge2", "rougeL"]
 
-with open('./rouges/caval_100d_25e.csv', 'w') as csvfile:
+with open('./rouges/caval_100d_25e-SHORT.csv', 'w') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames = field_names)
     writer.writeheader()
     writer.writerows(all_scores)
