@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-csv_df = pd.read_csv("./rouges/caval_100d_25e.csv")
+csv_df = pd.read_csv("./rouges/caval_100d_25e-SHORT.csv")
 
 r1 = csv_df["rouge1"].describe().reset_index()["rouge1"]
 r2 = csv_df["rouge2"].describe().reset_index()["rouge2"]
