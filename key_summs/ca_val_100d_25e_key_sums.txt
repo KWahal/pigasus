@@ -1,0 +1,313 @@
+Lowest 3 R1 scores for PEG-Large finetuned on 10 CA examples can be seen below
+target summary is: 
+Existing law, the Barbering and Cosmetology Act, establishes the State Board of Barbering and Cosmetology for the licensure and regulation of barbers, cosmetologists, estheticians, manicurists, electrologists, and apprentices. Existing law requires the board to carry out a list of duties, including making rules and regulations, conducting and administering license examinations, issuing licenses to qualified applicants, and disciplining persons who violate the act.
+This bill would require that the board offer and make available all written materials provided to licensees and applicants in English, Korean, Spanish, and Vietnamese.
+Existing law requires the board to establish a Health and Safety Advisory Committee to provide the board with advice and recommendations on health and safety issues before the board.
+This bill would specify that the health and safety issues are those that impact licensees, including how to ensure licensees are aware of basic labor laws, as specified.
+Existing law requires every application for admission to examination and licensure to be verified by the oath of the applicant.
+This bill would additionally require every application for admission to examination and licensure and every electronic application to renew a license to include a signed acknowledgment that the applicant understands his or her rights as a licensee as outlined in informational materials on basic labor laws that the applicant is provided by the board with the application or renewal application.
+Existing law requires the licensure of any person, firm, or corporation operating an establishment engaged in a practice regulated by the board. Existing law requires a separate license for each location where the establishment operates. Existing law requires applicants to submit an application, accompanied by a prescribed fee. Existing law prohibits the board from issuing a license to any applicant who has committed specified acts or crimes which are grounds for denial of licensure in effect at the time the new application is submitted.
+This bill would require, as part of a complete application for a license to operate an establishment, and an electronic application to renew a license to operate an establishment, a signed acknowledgment that the applicant understands the informational materials on basic labor laws the applicant is provided by the board with the application or renewal application and that establishments are responsible for compliance with any applicable labor laws of the state.
+Existing law requires the board to keep a registration record of each licensee containing the name, address, license number, date issued, and any facts that the applicant may have stated in the application for examination for licensure.
+This bill would require the board to collect, through optional questions on a written application for a license and in an electronic application to renew a license, the language preference of the applicant.
+Existing law requires the board to admit to a licensing examination an applicant who meets certain qualifications, including having completed one or more courses, as specified, offered by a school approved by the board. Existing law requires the board to develop or adopt a health and safety course on hazardous substances that is required to be taught in schools approved by the board. Existing law requires course development to include pilot testing of the course and training classes to prepare instructors to effectively use the course.
+This bill would require the health and safety course that the board is required to develop or adopt to additionally cover basic labor laws, as specified.
+This bill’s provisions would become operative on July 1, 2017.
+produced summary is: 
+The rules shall be adopted in accordance with the Administrative Procedure Act, Chapter 3.5 (commencing with Section 11340) of Title 2 of the Government Code, and shall be submitted to the State Department of Public Health and approved by that department prior to filing with the Secretary of State. The amendments made to this chapter by the act adding this subdivision shall become operative on July 1, 2017. This bill would declare that it is to take effect immediately as an urgency statute.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 7312 of the Business and Professions Code is amended to read:
+7312.
+(a) The board shall do all of the following:
+(1) Make rules and regulations in aid or furtherance of this chapter in accordance with the Administrative Procedure Act.
+(2) Conduct and administer examinations of applicants for licensure.
+(3) Issue licenses to those applicants that may be entitled thereto.
+(4) Discipline persons who have been determined to be in violation of this chapter or the regulations adopted pursuant to this chapter.
+(5) Adopt rules governing sanitary conditions and precautions to be employed as are reasonably necessary to protect the public health and safety in establishments, schools approved by the board, and in the practice of any profession provided for in this chapter. The rules shall be adopted in accordance with the Administrative Procedure Act, Chapter 3.5 (commencing with Section 11340) of Title 2 of the Government Code, and shall be submitted to the State Department of Public Health and approved by that department prior to filing with the Secretary of State. A written copy of all those rules shall be furnished to each licensee.
+(6) Offer and make available all written materials provided to licensees and applicants in English, Korean, Spanish, and Vietnamese.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 2.
+Section 7314 of the Business and Professions Code is amended to read:
+7314.
+(a) The board shall keep a record of its proceedings relating to its public meetings, meetings of committees, and records relating to the issuance, refusal, renewal, suspension, and revocation of licenses.
+(b) The board shall keep a registration record of each licensee containing the name, address, license number, and date issued. This record shall also contain any facts that the applicants may have stated in their application for examination for licensure. The board shall collect, through optional questions on a written application for a license and in an electronic application to renew a license issued pursuant to this chapter, the spoken and written language preference of each applicant.
+(c) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 3.
+Section 7314.3 of the Business and Professions Code is amended to read:
+7314.3.
+(a) The board shall establish a Health and Safety Advisory Committee to provide the board with advice and recommendations on health and safety issues before the board that impact licensees, including how to ensure licensees are aware of basic labor laws. Basic labor laws include, but are not limited to, all of the following:
+(1) Key differences between the legal rights, benefits, and obligations of an employee and an independent contractor.
+(2) Wage and hour rights for hourly employees.
+(3) Antidiscrimination laws relating to the use of a particular language in the workplace.
+(4) Antiretaliation laws relating to a worker’s right to file complaints with the Department of Industrial Relations.
+(5) How to obtain more information about state and federal labor laws.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 4.
+Section 7337 of the Business and Professions Code is amended to read:
+7337.
+(a) Every application for admission to examination and licensure shall be in writing, on forms prepared and furnished by the board.
+(b) Each application shall be accompanied by the required fee, and shall contain proof of the qualifications of the applicant for examination and licensure. It shall be verified by the oath of the applicant and shall include a signed acknowledgment that the applicant understands his or her rights as a licensee as outlined in informational materials on basic labor laws, as specified in Section 7314.3, that the applicant is provided by the board with the application. Every applicant shall, as a condition of admittance to the examination facility, present satisfactory proof of identification. Satisfactory proof of identification shall be in the form of a valid, unexpired driver’s license or identification card, containing the photograph of the person to whom it was issued, issued by any state, federal, or other government entity.
+(c) Every electronic application to renew a license shall include a signed acknowledgment that the renewal applicant understands his or her rights as a licensee as outlined in informational materials on basic labor laws, as specified in Section 7314.3, that the renewal applicant is provided by the board with the renewal application.
+(d) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 5.
+Section 7347 of the Business and Professions Code is amended to read:
+7347.
+(a) Any person, firm, or corporation desiring to operate an establishment shall make an application to the bureau for a license accompanied by the fee prescribed by this chapter. The application shall be required whether the person, firm, or corporation is operating a new establishment or obtaining ownership of an existing establishment. The application shall include a signed acknowledgment that the applicant understands that establishments are responsible for compliance with any applicable labor laws of the state and that the applicant understands the informational materials on basic labor laws, as specified in Section 7314.3, the applicant is provided by the board with the application. Every electronic application to renew a license shall include a signed acknowledgment that the renewal applicant understands that establishments are responsible for compliance with any applicable labor laws of the state and that the applicant understands the informational materials on basic labor laws, as specified in Section 7314.3, that the renewal applicant is provided by the board with the renewal application. If the applicant is obtaining ownership of an existing establishment, the board may establish the fee in an amount less than the fee prescribed by this chapter. The applicant, if an individual, or each officer, director, and partner, if the applicant is other than an individual, shall not have committed acts or crimes which are grounds for denial of licensure in effect at the time the new application is submitted pursuant to Section 480. A license issued pursuant to this section shall authorize the operation of the establishment only at the location for which the license is issued. Operation of the establishment at any other location shall be unlawful unless a license for the new location has been obtained upon compliance with this section, applicable to the issuance of a license in the first instance.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 6.
+Section 7389 of the Business and Professions Code is amended to read:
+7389.
+(a) The board shall develop or adopt a health and safety course on hazardous substances and basic labor laws, as specified in Section 7314.3, which shall be taught in schools approved by the board. Course development shall include pilot testing of the course and training classes to prepare instructors to effectively use the course.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+r1 score is: 
+0.1554878048780487
+==================================
+target summary is: 
+Existing law authorizes a minor who is 12 years of age or older to consent to outpatient mental health treatment or counseling services, notwithstanding any provision of law to the contrary, if, in the opinion of the attending professional person, the minor is mature enough to participate intelligently in those services. Existing law defines “professional person,” for the purposes of those provisions, to include, among others, a marriage and family therapist, a marriage and family therapist intern, a professional clinical counselor, a clinical counselor intern, a clinical psychologist, and a clinical social worker, as specified.
+This bill would additionally authorize a marriage and family therapist trainee, a clinical counselor trainee, a registered psychologist, a registered psychological assistant, a psychology trainee, an associate clinical social worker, and a social work intern, while working under the supervision of certain licensed professionals, respectively, to provide those services. The bill would require the marriage and family therapist trainee, the clinical counselor trainee, the psychology trainee, or the social work intern to notify his or her supervisor or an on-call supervisor, as specified, at the site where the trainee or intern volunteers or is employed within 24 hours of treating or counseling a minor. The bill would require the trainee or intern, if upon the initial assessment of the minor the trainee or intern believes that the minor is a danger to self or to others, to notify the supervisor, as specified, immediately after the treatment or counseling session. The bill would also change the definition of clinical psychologist for these purposes and would make a technical, nonsubstantive change.
+produced summary is: 
+Existing law, the Compassionate Use Act of 1990, an initiative measure enacted by the approval of Proposition 83 at the November 7, 1989, statewide general election, provides that the Legislature may amend the act to further the act’s purposes upon a 2/3 vote of each house. This bill would declare that it furthers the purposes of the act.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 124260 of the Health and Safety Code is amended to read:
+124260.
+(a) As used in this section:
+(1) “Mental health treatment or counseling services” means the provision of outpatient mental health treatment or counseling by a professional person, as defined in paragraph (2).
+(2) “Professional person” means any of the following:
+(A) A person designated as a mental health professional in Sections 622 to 626, inclusive, of Title 9 of the California Code of Regulations.
+(B) A marriage and family therapist, as defined in Chapter 13 (commencing with Section 4980) of Division 2 of the Business and Professions Code.
+(C) A licensed educational psychologist, as defined in Chapter 13.5 (commencing with Section 4989.10) of Division 2 of the Business and Professions Code.
+(D) A credentialed school psychologist, as described in Section 49424 of the Education Code.
+(E) A clinical psychologist licensed under Chapter 6.6 (commencing with Section 2900) of Division 2 of the Business and Professions Code.
+(F) Any of the following persons, while working under the supervision of a licensed professional specified in Section 2902 of the Business and Professions Code:
+(i) A registered psychologist, as defined in Section 2909.5 of the Business and Professions Code.
+(ii) A registered psychological assistant, as defined in Section 2913 of the Business and Professions Code.
+(iii) A psychology trainee, as defined in Section 1387 of Title 16 of the California Code of Regulations.
+(G) A licensed clinical social worker, as defined in Chapter 14 (commencing with Section 4991) of Division 2 of the Business and Professions Code.
+(H) An associate clinical social worker, or a social work intern, as defined in Chapter 14 (commencing with Section 4991) of Division 2 of the Business and Professions Code, while working under the supervision of a licensed professional specified in paragraph (1) of subdivision (a) of Section 4996.23 of the Business and Professions Code.
+(I) A person registered as a marriage and family therapist intern, or a marriage and family therapist trainee, as defined in Chapter 13 (commencing with Section 4980) of Division 2 of the Business and Professions Code, while working under the supervision of a licensed professional specified in subdivision (g) of Section 4980.03 of the Business and Professions Code.
+(J) A board certified, or board eligible, psychiatrist.
+(K) A licensed professional clinical counselor, as defined in Chapter 16 (commencing with Section 4999.10) of Division 2 of the Business and Professions Code.
+(L) A person registered as a clinical counselor intern, or a clinical counselor trainee, as defined in Chapter 16 (commencing with Section 4999.10) of Division 2 of the Business and Professions Code, while working under the supervision of a licensed professional specified in subdivision (h) of Section 4999.12 of the Business and Professions Code.
+(b) (1) Notwithstanding any provision of law to the contrary, a minor who is 12 years of age or older may consent to mental health treatment or counseling services if, in the opinion of the attending professional person, the minor is mature enough to participate intelligently in the mental health treatment or counseling services.
+(2) A marriage and family therapist trainee, a clinical counselor trainee, a psychology trainee, or a social work intern, as specified in paragraph (2) of subdivision (a), shall notify his or her supervisor or, if the supervisor is unavailable, an on-call supervisor at the site where the trainee or intern volunteers or is employed within 24 hours of treating or counseling a minor pursuant to paragraph (1). If upon the initial assessment of the minor the trainee or intern believes that the minor is a danger to self or to others, the trainee or intern shall notify the supervisor or, if the supervisor is unavailable, the on-call supervisor immediately after the treatment or counseling session.
+(3) Nothing in paragraph (2) is intended to supplant, alter, expand, or remove any other reporting responsibilities required of trainees or interns under law.
+(c) Notwithstanding any provision of law to the contrary, the mental health treatment or counseling of a minor authorized by this section shall include involvement of the minor’s parent or guardian, unless the professional person who is treating or counseling the minor, after consulting with the minor, determines that the involvement would be inappropriate. The professional person who is treating or counseling the minor shall state in the client record whether and when the person attempted to contact the minor’s parent or guardian, and whether the attempt to contact was successful or unsuccessful, or the reason why, in the professional person’s opinion, it would be inappropriate to contact the minor’s parent or guardian.
+(d) The minor’s parent or guardian is not liable for payment for mental health treatment or counseling services provided pursuant to this section unless the parent or guardian participates in the mental health treatment or counseling, and then only for services rendered with the participation of the parent or guardian.
+(e) This section does not authorize a minor to receive convulsive treatment or psychosurgery, as defined in subdivisions (f) and (g) of Section 5325 of the Welfare and Institutions Code, or psychotropic drugs without the consent of the minor’s parent or guardian.
+r1 score is: 
+0.1661538461538461
+==================================
+target summary is: 
+Existing federal law provides for the federal Supplemental Nutrition Assistance Program (SNAP), known in California as CalFresh, formerly the Food Stamp Program, under which supplemental nutrition assistance benefits allocated to the state by the federal government are distributed to eligible individuals by each county. Existing federal law authorizes a resident of a shelter for battered women and children, as defined, who is currently included in a certified household that also contains the abuser, to apply and, if otherwise eligible, receive an additional allotment of benefits as a separate household. Existing federal law requires a county human services agency to provide CalFresh expedited services to certain households.
+This bill would, to the extent permitted by federal law, regulations, waivers, and directives, authorize a resident of, or an individual on a waiting list to get into, a shelter for battered women and children who is currently included in a certified household that also contains the abuser, to apply for, and, if otherwise eligible, would provide that the resident or individual is entitled to, expedited services of an additional allotment of CalFresh benefits as a separate household. By imposing additional duties on local officials, this bill would impose a state-mandated local program.
+Existing law requires the State Department of Social Services to develop and make available to homeless shelters, among other locations, CalFresh information on expedited services targeted to the homeless population. Existing law requires each county welfare department, upon request, to provide homeless shelters with a supply of CalFresh applications used to request expedited CalFresh services, as specified.
+This bill would additionally require the department to develop and make available to domestic violence shelters CalFresh information on expedited services targeted to victims of domestic violence. The bill would also require a county human services agency, upon request, to provide domestic violence shelters with a supply of CalFresh applications used to request expedited CalFresh services, as specified. By imposing additional duties on local officials, this bill would impose a state-mandated local program.
+Existing law authorizes counties to participate in the CalFresh Employment and Training program (CalFresh E&T), established by federal law, and requires participating counties to screen CalFresh work registrants to determine whether they will participate in, or be deferred from, CalFresh E&T. Existing law defers from mandatory placement in CalFresh E&T specified individuals, including an individual who is a veteran who has been honorably discharged from the United States Army.
+This bill would additionally defer from mandatory placement in CalFresh E&T, an individual who is a victim of domestic violence.
+The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.
+This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to these statutory provisions.
+produced summary is: 
+Existing law provides for the Medi-Cal program, which is administered by the State Department of Health Care Services and under which qualified low-income individuals receive health care services. The Medi-Cal program is, in part, governed and funded by federal Medicaid program provisions. One method by which these services are provided is through CalFresh, the state’s food assistance program. This bill would make technical, nonsubstantive changes to those provisions.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 18904.25 of the Welfare and Institutions Code is amended to read:
+18904.25.
+(a) Pursuant to the federal Stewart B. McKinney Homeless Assistance Act (Public Law 100-77), the department shall develop CalFresh information on expedited services targeted to the homeless population, including unaccompanied homeless children and youths, as those terms are defined in Section 11434a of Title 42 of the United States Code. The department shall also develop information on expedited services specified in Section 18914.5 for victims of domestic violence. This information shall be made available to homeless shelters, domestic violence shelters, emergency food programs, local educational agency liaisons for homeless children and youths, designated pursuant to Section 11432(g)(1)(J)(ii) of Title 42 of the United States Code, and other community agencies who provide services to people who are homeless.
+(b) Each county human services agency shall annually offer training on CalFresh application procedures to homeless shelter operators. That training shall include eligibility criteria and specific information regarding the eligibility of unaccompanied homeless children and youths. In addition, each county human services agency, upon request, shall provide homeless shelters and domestic violence shelters with a supply of that portion of the CalFresh application used to request CalFresh expedited service.
+(c) Upon receipt of a signed CalFresh application from an unaccompanied child or youth under 18 years of age, the county human services agency shall determine eligibility for CalFresh benefits, including making a determination of whether the child or youth is eligible to apply as a household of one or if he or she must apply with members of a household with whom he or she is regularly purchasing and preparing foods, and screen the application for entitlement to expedited service pursuant to Section 18914. If the application of the child or youth for CalFresh benefits is denied, the county human services agency shall provide the child or youth a written notice explaining the reason for the denial.
+SEC. 2.
+Section 18914.5 is added to the Welfare and Institutions Code, to read:
+18914.5.
+(a) To the extent permitted by federal law, regulations, waivers, and directives, a resident of, or an individual on a waiting list to get into, a shelter for battered women and children who is currently included in a certified household that also contains the abuser, may apply for and, if otherwise eligible, shall be entitled to expedited services of an additional allotment of CalFresh benefits as a separate household.
+(b) For purposes of this section, “shelter for battered women and children” has the same meaning as provided in Section 271.2 of Title 7 of the Code of Federal Regulations.
+SEC. 3.
+Section 18926.5 of the Welfare and Institutions Code is amended to read:
+18926.5.
+(a) For the purposes of this chapter, “CalFresh Employment and Training program” or “CalFresh E&T” means the program established under Section 6(d)(4)(B) of the federal Food and Nutrition Act of 2008 (7 U.S.C. Sec. 2015), Section 273.7 of Title 7 of the Code of Federal Regulations, and associated administrative notices published by the United States Department of Agriculture with the purpose of assisting members of CalFresh households in gaining skills, training, work, or experience that will increase their ability to obtain regular employment.
+(b) (1) A county that elects to participate in the CalFresh Employment and Training (CalFresh E&T) program, as authorized by the federal Food and Nutrition Act of 2008 (7 U.S.C. Sec. 2015), shall screen CalFresh work registrants to determine whether they will participate in, or be deferred from, CalFresh E&T. If deferred, a CalFresh work registrant may request to enroll in CalFresh E&T as a voluntary participant. An individual shall be deferred from a mandatory placement in CalFresh E&T if he or she satisfies any of the criteria in Sections 273.7 and 273.24 of Title 7 of the Code of Federal Regulations, if he or she resides in a federally determined work surplus area, if he or she is a veteran who has been honorably discharged from the United States Armed Forces, or if he or she is a victim of domestic violence.
+(2) For purposes of this section, “deferred” has the same meaning as exempt.
+(c) (1) A county participating in CalFresh E&T shall be required to demonstrate in its CalFresh E&T plan how it is effectively using CalFresh E&T funds for each of the components that the county offers, including, but not limited to, any of the following:
+(A) Self-initiated workfare.
+(B) Work experience or training.
+(C) Education.
+(D) Job search.
+(E) The support services or client reimbursements needed to participate in subparagraphs (A) to (D), inclusive, as allowed by federal law and guidance.
+(2) Nothing in this section shall be construed to require a county to offer a particular component as a part of its CalFresh E&T plan.
+(d) Nothing in this section shall limit a county’s ability to condition the receipt of nonmedical benefits under Section 17000 on an individual’s participation in an employment and training or workfare program of the county’s choice, even if that program is financed in whole or in part with CalFresh E&T funds or match funds.
+(e) Nothing in this section shall restrict the use of federal funds for the financing of CalFresh E&T programs.
+(f) Nothing in this section shall be construed to require a county to provide for workers’ compensation coverage for a CalFresh E&T participant. Notwithstanding Division 4 (commencing with Section 3200) of the Labor Code, a CalFresh E&T participant shall not be an employee for the purposes of workers’ compensation coverage, and a county shall have no duty to provide workers’ compensation coverage for a CalFresh E&T participant.
+(g) Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department may implement this section by all-county letters or similar instructions. Thereafter, the department shall adopt regulations to implement this section by October 1, 2013.
+SEC. 4.
+If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.
+r1 score is: 
+0.1723518850987432
+==================================
+Highest 3 R1 scores for PEG-Large finetuned on 10 CA examples can be seen below
+target summary is: 
+The Budget Act of 2016 made appropriations for the support of state government for the 2016–17 fiscal year.
+This bill would amend the Budget Act of 2016 by revising items of appropriation and making other changes.
+This bill would declare that it is to take effect immediately as a Budget Bill.
+produced summary is: 
+The Budget Act of 2016 appropriated specified amounts for the support of state government for the 2016–17 fiscal year. This bill would amend the Budget Act of 2016 by adding and amending items of appropriation. This bill would declare that it is to take effect immediately as a Budget Bill. This bill would express the intent of the Legislature to enact statutory changes relating to the Budget Act of 2016.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Item 2240-101-6082 of Section 2.00 of the Budget Act of 2016 is amended to read:
+2240-101-6082—For local assistance, Department of Housing and Community Development, payable from the Housing for Veterans Fund ........................
+75,000,000
+Schedule:
+(1)
+1665-Financial Assistance Program ........................
+75,000,000
+Provisions:
+1.
+The Director of Finance may authorize an increase in this appropriation, up to the total amount of proceeds available pursuant to the Veterans Housing and Homeless Prevention Bond Act of 2014. Any approved increase shall correspond to the level of awards anticipated by the Department of Housing and Community Development. An approval of an augmentation may be authorized not sooner than 30 days after notification is provided in writing to the Chairperson of the Joint Legislative Budget Committee and the chairpersons of the committees in each house of the Legislature that consider appropriations.
+2.
+Notwithstanding Section 16304.1 of the Government Code, funds appropriated in this item shall be available for liquidation of encumbrances until June 30, 2022. The Director of Finance may authorize an extension of the liquidation period if it is determined that an extension is needed to facilitate a project’s completion. An approval may be authorized not sooner than 30 days after notification is provided in writing to the Chairperson of the Joint Legislative Budget Committee and the chairpersons of the committees in each house of the Legislature that consider appropriations.
+3.
+Of the funds appropriated in this item, $10,000,000 shall be made available by the Department of Housing and Community Development, in consultation with the Department of Veterans Affairs, for loans to counties or private nonprofit organizations, or both, for the construction or rehabilitation of transitional housing or shelter facilitates that provide services for homeless veterans. The Department of Housing and Community Development shall include in the guidelines priority for applicants that demonstrate need and focus on long-term solutions, including funding for mental health and addiction treatment services, as well as having proven long-term effectiveness.
+SEC. 2.
+Item 2240-105-0001 of Section 2.00 of the Budget Act of 2016 is amended to read:
+2240-105-0001—For transfer by the Controller to the Emergency Housing and Assistance Fund ........................
+45,000,000
+Provisions:
+1.
+The funds transferred by this item shall be used for support costs and local assistance associated with administering the California Emergency Solutions Grant Program as set forth in Chapter 19 (commencing with Section 50899.1) of Part 2 of Division 31 of the Health and Safety Code.
+2.
+Of the funds appropriated in this item, $10,000,000 shall be made available to the Office of Emergency Services for the Homeless Youth Emergency Service Pilot Projects as set forth in Chapter 6 (commencing with Section 13700) of Part 3 of Division 9 of the Welfare and Institutions Code to fund new pilot projects over five years for the County of Orange, the County of Fresno, the County of San Bernardino, and the County of El Dorado.
+SEC. 3.
+Item 4260-001-3085 of Section 2.00 of the Budget Act of 2016 is amended to read:
+4260-001-3085—For support of Department of Health Care Services, payable from the Mental Health Services Fund ........................
+13,620,000
+Schedule:
+(1)
+3960-Health Care Services ........................
+13,620,000
+Provisions:
+1.
+Funds appropriated in this item are in lieu of the amounts that otherwise would have been appropriated for administration pursuant to subdivision (d) of Section 5892 of the Welfare and Institutions Code.
+2.
+Of the funds appropriated in this item, $4,000,000 is available for encumbrance or expenditure until June 30, 2019, to support suicide hotlines throughout the state only if the Department of Finance determines that funds are available from the amounts allocated for state administration of the Mental Health Services Fund pursuant to subdivision (d) of Section 5892 of the Welfare and Institutions Code. These funds shall not be released sooner than 30 days after the Department of Finance provides notification of the availability of funds in writing to the chairpersons of the committees in each house of the Legislature that consider appropriations, the chairpersons of the committees in each house of the Legislature that consider the State Budget, and the Chairperson of the Joint Legislative Budget Committee.
+SEC. 4.
+Section 39.00 of the Budget Act of 2016 is amended to read:
+SEC. 39.00.
+The Legislature hereby finds and declares that the following bills are other bills providing for appropriations related to the Budget Bill within the meaning of subdivision (e) of Section 12 of Article IV of the California Constitution: AB 1600, AB 1601, AB 1602, AB 1603, AB 1604, AB 1605, AB 1606, AB 1607, AB 1608, AB 1609, AB 1610, AB 1611, AB 1612, AB 1613, AB 1614, AB 1615, AB 1616, AB 1617, AB 1618, AB 1619, AB 1620, AB 1621, AB 1623, SB 828, SB 829, SB 830, SB 831, SB 832, SB 833, SB 834, SB 835, SB 836, SB 837, SB 838, SB 839, SB 840, SB 841, SB 842, SB 843, SB 844, SB 845, SB 846, SB 847, SB 848, SB 849, SB 850, SB 851, and SB 852.
+SEC. 5.
+This act is a Budget Bill within the meaning of subdivision (e) of Section 12 of Article IV of the California Constitution and shall take effect immediately.
+r1 score is: 
+0.7804878048780487
+==================================
+target summary is: 
+Existing law requires that, except as specified, not less than the general prevailing rate of per diem wages, determined by the Director of Industrial Relations, be paid to workers employed on public works projects. Under existing law, an apprentice employed upon public works is required to be paid the prevailing rate of per diem wages for apprentices in the trade to which he or she is registered and to be employed only at the work of the craft or trade to which he or she is registered, as specified.
+This bill would require, when a contractor requests the dispatch of an apprentice to perform work on a public works project and requires compliance with certain preemployment activities as a condition of employment, as specified, that the apprentice be paid the prevailing rate for the time spent on any required preemployment activity, including travel time to and from the activity, if any, except as specified.
+Because this bill would expand the application of the prevailing wage requirements, the violation of which is a crime, it would impose a state-mandated local program.
+The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.
+This bill would provide that no reimbursement is required by this act for a specified reason.
+produced summary is: 
+(1) Every apprentice employed upon public works shall be paid the prevailing rate of per diem wages for apprentices in the trade to which he or she is registered and shall be employed only at the work of the craft or trade to which he or she is registered. (2) Unless otherwise provided by a collective bargaining agreement, when a contractor requests the dispatch of an apprentice pursuant to this section to perform work on a public works project and requires the apprentice to fill out an application or undergo testing, training, an examination, or other preemployment process as a condition of employment, the apprentice shall be paid for the time spent on the required preemployment activity, including travel time to and from the required activity, if any, at the prevailing rate of per diem wages for apprentices in the trade to which he or she is registered.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 1777.5 of the Labor Code is amended to read:
+1777.5.
+(a) This chapter does not prevent the employment of properly registered apprentices upon public works.
+(b) (1) Every apprentice employed upon public works shall be paid the prevailing rate of per diem wages for apprentices in the trade to which he or she is registered and shall be employed only at the work of the craft or trade to which he or she is registered.
+(2) Unless otherwise provided by a collective bargaining agreement, when a contractor requests the dispatch of an apprentice pursuant to this section to perform work on a public works project and requires the apprentice to fill out an application or undergo testing, training, an examination, or other preemployment process as a condition of employment, the apprentice shall be paid for the time spent on the required preemployment activity, including travel time to and from the required activity, if any, at the prevailing rate of per diem wages for apprentices in the trade to which he or she is registered. Unless otherwise provided by a collective bargaining agreement, a contractor is not required to compensate an apprentice for the time spent on preemployment activities if the apprentice is required to take a preemployment drug or alcohol test and he or she fails to pass that test.
+(c) Only apprentices, as defined in Section 3077, who are in training under apprenticeship standards that have been approved by the Chief of the Division of Apprenticeship Standards and who are parties to written apprentice agreements under Chapter 4 (commencing with Section 3070) of Division 3 are eligible to be employed at the apprentice wage rate on public works. The employment and training of each apprentice shall be in accordance with either of the following:
+(1) The apprenticeship standards and apprentice agreements under which he or she is training.
+(2) The rules and regulations of the California Apprenticeship Council.
+(d) If the contractor to whom the contract is awarded by the state or any political subdivision, in performing any of the work under the contract, employs workers in any apprenticeable craft or trade, the contractor shall employ apprentices in at least the ratio set forth in this section and may apply to any apprenticeship program in the craft or trade that can provide apprentices to the site of the public work for a certificate approving the contractor under the apprenticeship standards for the employment and training of apprentices in the area or industry affected. However, the decision of the apprenticeship program to approve or deny a certificate shall be subject to review by the Administrator of Apprenticeship. The apprenticeship program or programs, upon approving the contractor, shall arrange for the dispatch of apprentices to the contractor. A contractor covered by an apprenticeship program’s standards shall not be required to submit any additional application in order to include additional public works contracts under that program. “Apprenticeable craft or trade,” as used in this section, means a craft or trade determined as an apprenticeable occupation in accordance with rules and regulations prescribed by the California Apprenticeship Council. As used in this section, “contractor” includes any subcontractor under a contractor who performs any public works not excluded by subdivision (o).
+(e) Before commencing work on a contract for public works, every contractor shall submit contract award information to an applicable apprenticeship program that can supply apprentices to the site of the public work. The information submitted shall include an estimate of journeyman hours to be performed under the contract, the number of apprentices proposed to be employed, and the approximate dates the apprentices would be employed. A copy of this information shall also be submitted to the awarding body, if requested by the awarding body. Within 60 days after concluding work on the contract, each contractor and subcontractor shall submit to the awarding body, if requested, and to the apprenticeship program a verified statement of the journeyman and apprentice hours performed on the contract. The information under this subdivision shall be public. The apprenticeship programs shall retain this information for 12 months.
+(f) The apprenticeship program supplying apprentices to the area of the site of the public work shall ensure equal employment and affirmative action in apprenticeship for women and minorities.
+(g) The ratio of work performed by apprentices to journeymen employed in a particular craft or trade on the public work may be no higher than the ratio stipulated in the apprenticeship standards under which the apprenticeship program operates if the contractor agrees to be bound by those standards. However, except as otherwise provided in this section, in no case shall the ratio be less than one hour of apprentice work for every five hours of journeyman work.
+(h) This ratio of apprentice work to journeyman work shall apply during any day or portion of a day when any journeyman is employed at the jobsite and shall be computed on the basis of the hours worked during the day by journeymen so employed. Any work performed by a journeyman in excess of eight hours per day or 40 hours per week shall not be used to calculate the ratio. The contractor shall employ apprentices for the number of hours computed as above before the end of the contract or, in the case of a subcontractor, before the end of the subcontract. However, the contractor shall endeavor, to the greatest extent possible, to employ apprentices during the same time period that the journeymen in the same craft or trade are employed at the jobsite. When an hourly apprenticeship ratio is not feasible for a particular craft or trade, the Administrator of Apprenticeship, upon application of an apprenticeship program, may order a minimum ratio of not less than one apprentice for each five journeymen in a craft or trade classification.
+(i) A contractor covered by this section who has agreed to be covered by an apprenticeship program’s standards upon the issuance of the approval certificate, or who has been previously approved for an apprenticeship program in the craft or trade, shall employ the number of apprentices or the ratio of apprentices to journeymen stipulated in the applicable apprenticeship standards, but in no event less than the 1-to-5 ratio required by subdivision (g).
+(j) Upon proper showing by a contractor that he or she employs apprentices in a particular craft or trade in the state on all of his or her contracts on an annual average of not less than one hour of apprentice work for every five hours of labor performed by journeymen, the Administrator of Apprenticeship may grant a certificate exempting the contractor from the 1-to-5 hourly ratio, as set forth in this section for that craft or trade.
+(k) An apprenticeship program has the discretion to grant to a participating contractor or contractor association a certificate, which shall be subject to the approval of the Administrator of Apprenticeship, exempting the contractor from the 1-to-5 ratio set forth in this section when it finds that any one of the following conditions is met:
+(1) Unemployment for the previous three-month period in the area exceeds an average of 15 percent.
+(2) The number of apprentices in training in the area exceeds a ratio of 1 to 5.
+(3) There is a showing that the apprenticeable craft or trade is replacing at least one-thirtieth of its journeymen annually through apprenticeship training, either on a statewide basis or on a local basis.
+(4) Assignment of an apprentice to any work performed under a public works contract would create a condition that would jeopardize his or her life or the life, safety, or property of fellow employees or the public at large, or the specific task to which the apprentice is to be assigned is of a nature that training cannot be provided by a journeyman.
+(l) If an exemption is granted pursuant to subdivision (k) to an organization that represents contractors in a specific trade from the 1-to-5 ratio on a local or statewide basis, the member contractors shall not be required to submit individual applications for approval to local joint apprenticeship committees, if they are already covered by the local apprenticeship standards.
+(m) (1) A contractor to whom a contract is awarded, who, in performing any of the work under the contract, employs journeymen or apprentices in any apprenticeable craft or trade shall contribute to the California Apprenticeship Council the same amount that the director determines is the prevailing amount of apprenticeship training contributions in the area of the public works site. A contractor may take as a credit for payments to the council any amounts paid by the contractor to an approved apprenticeship program that can supply apprentices to the site of the public works project. The contractor may add the amount of the contributions in computing his or her bid for the contract.
+(2) At the conclusion of the 2002–03 fiscal year and each fiscal year thereafter, the California Apprenticeship Council shall distribute training contributions received by the council under this subdivision, less the expenses of the Department of Industrial Relations for administering this subdivision, by making grants to approved apprenticeship programs for the purpose of training apprentices. The funds shall be distributed as follows:
+(A) If there is an approved multiemployer apprenticeship program serving the same craft or trade and geographic area for which the training contributions were made to the council, a grant to that program shall be made.
+(B) If there are two or more approved multiemployer apprenticeship programs serving the same craft or trade and county for which the training contributions were made to the council, the grant shall be divided among those programs based on the number of apprentices from that county registered in each program.
+(C) All training contributions not distributed under subparagraphs (A) and (B) shall be used to defray the future expenses of the Department of Industrial Relations for the administration and enforcement of apprenticeship standards and requirements under this code.
+(3) All training contributions received pursuant to this subdivision shall be deposited in the Apprenticeship Training Contribution Fund, which is hereby created in the State Treasury. Upon appropriation by the Legislature, all moneys in the Apprenticeship Training Contribution Fund shall be used for the purpose of carrying out this subdivision and to pay the expenses of the Department of Industrial Relations.
+(n) The body awarding the contract shall cause to be inserted in the contract stipulations to effectuate this section. The stipulations shall fix the responsibility of compliance with this section for all apprenticeable occupations with the prime contractor.
+(o) This section does not apply to contracts of general contractors or to contracts of specialty contractors not bidding for work through a general or prime contractor when the contracts of general contractors or those specialty contractors involve less than thirty thousand dollars ($30,000).
+(p) An awarding body that implements an approved labor compliance program in accordance with subdivision (b) of Section 1771.5 may, with the approval of the director, assist in the enforcement of this section under the terms and conditions prescribed by the director.
+SEC. 2.
+No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+r1 score is: 
+0.6166219839142091
+==================================
+target summary is: 
+Existing law requires law enforcement agencies, departments, or entities to consider specified best practices regarding the downloading and storage of body-worn camera data when establishing policies and procedures for the implementation and operation of a body-worn camera system, such as designating the person responsible for downloading the recorded data from the body-worn camera, and establishing when data should be downloaded to ensure the data is entered into the system in a timely manner and the cameras are properly maintained and ready for the next use.
+This bill would require a law enforcement agency, department, or entity, if it employs peace officers and uses body-worn cameras for those officers, to develop a body-worn camera policy. The bill would require the policy to allow a peace officer to review his or her body-worn camera video and audio recordings before making a report, giving an internal affairs statement, or before any criminal or civil proceeding.
+The bill would also require the policy to prohibit
+a peace officer from making a video or audio recording in a health facility or medical office when a patient may be in view of the body-worn camera or when a health care practitioner is providing care to an individual.
+The bill would encourage the law enforcement agency, department, or entity to include specified considerations in the policy, including the time, place, circumstances, and duration in which the body-worn camera is operational. The bill would require the policy to be available to peace officers and to the public for viewing. The bill would prohibit a peace officer from using a personal device to make an unauthorized recording of the video or audio taken from a body-worn camera. The bill would also require a law enforcement agency to have an assigned independent investigator or a supervisor accompany a peace officer involved in an incident involving a serious use of force, as defined, when reviewing the peace officer’s body-worn camera recording.
+The bill would provide that its provisions do not apply to a law enforcement agency, department, or entity that has developed a body-worn camera policy, as specified, before January 1, 2017.
+Because this bill would impose new duties on the conduct of local law enforcement, it would impose a state-mandated local program.
+The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.
+This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to these statutory provisions.
+produced summary is: 
+Existing law requires specified law enforcement agencies, departments, and entities to develop policies relating to the use of body-worn cameras. This bill would prohibit a peace officer from reviewing his or her body-worn camera video and audio recordings before making a report, giving an internal affairs statement, or before any criminal or civil proceeding. The bill would allow a peace officer to review his or her body-worn camera video and audio recordings before he or she makes a report, is ordered to give an internal affairs statement, or before any criminal or civil proceeding. The bill would prohibit a peace officer from reviewing his or her body-worn camera video and audio recordings before making a report, giving an internal affairs statement, or before any criminal or civil proceeding. By creating a new crime, the bill would impose a state-mandated local program. The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement. This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to these statutory provisions.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 832.19 is added to the Penal Code, to read:
+832.19.
+(a) (1) If a law enforcement agency, department, or entity that employs peace officers uses body-worn cameras for those officers, the agency, department, or entity shall develop a policy relating to the use of body-worn cameras.
+(2) The following definitions shall apply to this section:
+(A) “Body-worn camera” means a device attached to the uniform or body of a peace officer that records video, audio, or both, in a digital or analog format.
+(B) “Peace officer” means any person designated as a peace officer pursuant to this chapter.
+(C) “Serious use of force” means any of the following:
+(i) Force resulting in death.
+(ii) Force resulting in a loss of consciousness.
+(iii) Force resulting in protracted loss, impairment, serious disfigurement, or function of any body part or organ.
+(iv) A weapon strike to the head.
+(v) Intentional firearm discharge at a person, regardless of injury.
+(b) (1) The policy shall allow a peace officer to review his or her body-worn camera video and audio recordings before he or she makes a report, is ordered to give an internal affairs statement, or before any criminal or civil proceeding.
+(2) A peace officer is not required to review his or her body-worn camera video and audio recordings before making a report, giving an internal affairs statement, or before any criminal or civil proceeding.
+(3) A peace officer involved in an incident involving a serious use of force shall not review his or her body-worn camera recording until accompanied by an assigned independent investigator or a supervisor. The separating and monitoring of the peace officer involved in a serious use of force shall be maintained during the review of the body-worn camera video and audio recordings and this review shall not occur jointly among involved employees. Once the recordings are approved, as to the validity of the body-worn camera recordings and any other relevant recordings are also approved as their validity, an officer may have a legal representative present during the review of the recordings without the independently assigned investigator or supervisor present, before the peace officer makes a report, is ordered to give an internal affairs statement, or before any criminal or civil proceeding.
+(4) The policy shall be available to all peace officers in a written form.
+(5) The policy shall be available to the public for viewing.
+(6) The policy shall prohibit a peace officer from making a video or audio recording in a health facility or medical office when a patient may be in view of the body-worn camera or when a health care practitioner is providing care to an individual.
+(c) The policy shall be developed in accordance with the Meyers-Milias-Brown Act (Chapter 10 (commencing with Section 3500) of Division 4 of Title 1 of the Government Code) and the Ralph C. Dills Act (Chapter 10.3 (commencing with Section 3512) of Division 4 of Title 1 of the Government Code).
+(d) In developing the policy, law enforcement agencies, departments, or entities are encouraged to include the following in the policy:
+(1) The time, place, circumstances, and duration in which the body-worn camera shall be operational.
+(2) Which peace officers shall wear the body-worn camera and when they shall wear it.
+(3) Prohibitions against the use of body-worn camera equipment and footage in specified circumstances, such as when the peace officer is off-duty.
+(4) The type of training and length of training required for body-worn camera usage.
+(5) Public notification of field use of body-worn cameras, including the circumstances in which citizens are to be notified that they are being recorded.
+(6) The manner in which to document a citizen’s refusal from being recorded under certain circumstances.
+(7) The use of body-worn camera video and audio recordings in internal affairs cases.
+(8) The use of body-worn camera video and audio recordings in criminal and civil case preparation and testimony.
+(9) The transfer and use of body-worn camera video and audio recordings to other law enforcement agencies, including establishing what constitutes a need-to-know basis and what constitutes a right-to-know basis.
+(e) A peace officer shall not use a personal device to make an unauthorized recording of the video or audio taken from a body-worn camera.
+(f) This section shall not apply to a law enforcement agency, department, or entity that has developed a body-worn camera policy in accordance with the Meyers-Milias-Brown Act (Chapter 10 (commencing with Section 3500) of Division 4 of Title 1 of the Government Code) or the Ralph C. Dills Act (Chapter 10.3 (commencing with Section 3512) of Division 4 of Title 1 of the Government Code) before January 1, 2017.
+SEC. 2.
+If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.
+r1 score is: 
+0.5329249617151608
+==================================

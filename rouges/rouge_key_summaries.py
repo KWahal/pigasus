@@ -6,8 +6,8 @@ import csv
 
 SEPARATOR = "=================================="
 
-csv_df = pd.read_csv("caval_finetunedCA.csv")
-summary_file = open("/Users/karsenwahal/Desktop/pigasus/summaries/val_ca_sum_10_100_REAL2.txt", "r")
+csv_df = pd.read_csv("./rouges/caval_finetunedCA.csv")
+summary_file = open("./summaries/val_ca_sum_10_100_REAL2.txt", "r")
 summary_data = summary_file.read()
 summary_list = summary_data.replace('\n', ' ').split(SEPARATOR)
 summary_file.close()
@@ -61,7 +61,7 @@ for i in r1_largest_list:
     original_greatest.append(original_bill)
     r1_greatest.append(r1_score)
 
-with open('ca_val_10_key_sums.txt', 'w') as f:
+with open('./key_summs/ca_val_10_key_sums.txt', 'w') as f:
     f.write('Lowest 3 R1 scores for PEG-Large finetuned on 10 CA examples can be seen below')
     f.write('\n')
     for i in range(len(target_summaries)):

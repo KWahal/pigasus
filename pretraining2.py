@@ -162,7 +162,7 @@ if __name__ == "__main__":
     trainer = prepare_pre2training(model_name, tokenizer, train_dataset, val_dataset=val_dataset, torch_device=device)
     trainer.train()
 
-    trainer.save_model("/Users/alice/Documents/soph/CS224n_assigns/pigasus/MODELS/pretrain_textrank_mdl")
+    trainer.save_model("./MODELS/pretrain_textrank_mdl")
     
     # model = PegasusForConditionalGeneration(PegasusConfig()).from_pretrained("pigasus/MODELS/test10govdoc_mdl")
     # print(model)
