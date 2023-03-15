@@ -1,0 +1,362 @@
+Lowest 3 R1 scores for PEG-Large pretrained using our method, finetuned on 100 CA examples, LONG, can be seen below
+target summary is: 
+Existing law, the Barbering and Cosmetology Act, establishes the State Board of Barbering and Cosmetology for the licensure and regulation of barbers, cosmetologists, estheticians, manicurists, electrologists, and apprentices. Existing law requires the board to carry out a list of duties, including making rules and regulations, conducting and administering license examinations, issuing licenses to qualified applicants, and disciplining persons who violate the act.
+This bill would require that the board offer and make available all written materials provided to licensees and applicants in English, Korean, Spanish, and Vietnamese.
+Existing law requires the board to establish a Health and Safety Advisory Committee to provide the board with advice and recommendations on health and safety issues before the board.
+This bill would specify that the health and safety issues are those that impact licensees, including how to ensure licensees are aware of basic labor laws, as specified.
+Existing law requires every application for admission to examination and licensure to be verified by the oath of the applicant.
+This bill would additionally require every application for admission to examination and licensure and every electronic application to renew a license to include a signed acknowledgment that the applicant understands his or her rights as a licensee as outlined in informational materials on basic labor laws that the applicant is provided by the board with the application or renewal application.
+Existing law requires the licensure of any person, firm, or corporation operating an establishment engaged in a practice regulated by the board. Existing law requires a separate license for each location where the establishment operates. Existing law requires applicants to submit an application, accompanied by a prescribed fee. Existing law prohibits the board from issuing a license to any applicant who has committed specified acts or crimes which are grounds for denial of licensure in effect at the time the new application is submitted.
+This bill would require, as part of a complete application for a license to operate an establishment, and an electronic application to renew a license to operate an establishment, a signed acknowledgment that the applicant understands the informational materials on basic labor laws the applicant is provided by the board with the application or renewal application and that establishments are responsible for compliance with any applicable labor laws of the state.
+Existing law requires the board to keep a registration record of each licensee containing the name, address, license number, date issued, and any facts that the applicant may have stated in the application for examination for licensure.
+This bill would require the board to collect, through optional questions on a written application for a license and in an electronic application to renew a license, the language preference of the applicant.
+Existing law requires the board to admit to a licensing examination an applicant who meets certain qualifications, including having completed one or more courses, as specified, offered by a school approved by the board. Existing law requires the board to develop or adopt a health and safety course on hazardous substances that is required to be taught in schools approved by the board. Existing law requires course development to include pilot testing of the course and training classes to prepare instructors to effectively use the course.
+This bill would require the health and safety course that the board is required to develop or adopt to additionally cover basic labor laws, as specified.
+This bill’s provisions would become operative on July 1, 2017.
+produced summary is: 
+The rules shall be adopted in accordance with the Administrative Procedure Act, Chapter 3.5 (commencing with Section 11340) of Title 2 of the Government Code, and shall be submitted to the State Department of Public Health and approved by that department prior to filing with the Secretary of State. The act also makes related changes. This bill would make technical, nonsubstantive changes to the Business and Professions Code.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 7312 of the Business and Professions Code is amended to read:
+7312.
+(a) The board shall do all of the following:
+(1) Make rules and regulations in aid or furtherance of this chapter in accordance with the Administrative Procedure Act.
+(2) Conduct and administer examinations of applicants for licensure.
+(3) Issue licenses to those applicants that may be entitled thereto.
+(4) Discipline persons who have been determined to be in violation of this chapter or the regulations adopted pursuant to this chapter.
+(5) Adopt rules governing sanitary conditions and precautions to be employed as are reasonably necessary to protect the public health and safety in establishments, schools approved by the board, and in the practice of any profession provided for in this chapter. The rules shall be adopted in accordance with the Administrative Procedure Act, Chapter 3.5 (commencing with Section 11340) of Title 2 of the Government Code, and shall be submitted to the State Department of Public Health and approved by that department prior to filing with the Secretary of State. A written copy of all those rules shall be furnished to each licensee.
+(6) Offer and make available all written materials provided to licensees and applicants in English, Korean, Spanish, and Vietnamese.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 2.
+Section 7314 of the Business and Professions Code is amended to read:
+7314.
+(a) The board shall keep a record of its proceedings relating to its public meetings, meetings of committees, and records relating to the issuance, refusal, renewal, suspension, and revocation of licenses.
+(b) The board shall keep a registration record of each licensee containing the name, address, license number, and date issued. This record shall also contain any facts that the applicants may have stated in their application for examination for licensure. The board shall collect, through optional questions on a written application for a license and in an electronic application to renew a license issued pursuant to this chapter, the spoken and written language preference of each applicant.
+(c) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 3.
+Section 7314.3 of the Business and Professions Code is amended to read:
+7314.3.
+(a) The board shall establish a Health and Safety Advisory Committee to provide the board with advice and recommendations on health and safety issues before the board that impact licensees, including how to ensure licensees are aware of basic labor laws. Basic labor laws include, but are not limited to, all of the following:
+(1) Key differences between the legal rights, benefits, and obligations of an employee and an independent contractor.
+(2) Wage and hour rights for hourly employees.
+(3) Antidiscrimination laws relating to the use of a particular language in the workplace.
+(4) Antiretaliation laws relating to a worker’s right to file complaints with the Department of Industrial Relations.
+(5) How to obtain more information about state and federal labor laws.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 4.
+Section 7337 of the Business and Professions Code is amended to read:
+7337.
+(a) Every application for admission to examination and licensure shall be in writing, on forms prepared and furnished by the board.
+(b) Each application shall be accompanied by the required fee, and shall contain proof of the qualifications of the applicant for examination and licensure. It shall be verified by the oath of the applicant and shall include a signed acknowledgment that the applicant understands his or her rights as a licensee as outlined in informational materials on basic labor laws, as specified in Section 7314.3, that the applicant is provided by the board with the application. Every applicant shall, as a condition of admittance to the examination facility, present satisfactory proof of identification. Satisfactory proof of identification shall be in the form of a valid, unexpired driver’s license or identification card, containing the photograph of the person to whom it was issued, issued by any state, federal, or other government entity.
+(c) Every electronic application to renew a license shall include a signed acknowledgment that the renewal applicant understands his or her rights as a licensee as outlined in informational materials on basic labor laws, as specified in Section 7314.3, that the renewal applicant is provided by the board with the renewal application.
+(d) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 5.
+Section 7347 of the Business and Professions Code is amended to read:
+7347.
+(a) Any person, firm, or corporation desiring to operate an establishment shall make an application to the bureau for a license accompanied by the fee prescribed by this chapter. The application shall be required whether the person, firm, or corporation is operating a new establishment or obtaining ownership of an existing establishment. The application shall include a signed acknowledgment that the applicant understands that establishments are responsible for compliance with any applicable labor laws of the state and that the applicant understands the informational materials on basic labor laws, as specified in Section 7314.3, the applicant is provided by the board with the application. Every electronic application to renew a license shall include a signed acknowledgment that the renewal applicant understands that establishments are responsible for compliance with any applicable labor laws of the state and that the applicant understands the informational materials on basic labor laws, as specified in Section 7314.3, that the renewal applicant is provided by the board with the renewal application. If the applicant is obtaining ownership of an existing establishment, the board may establish the fee in an amount less than the fee prescribed by this chapter. The applicant, if an individual, or each officer, director, and partner, if the applicant is other than an individual, shall not have committed acts or crimes which are grounds for denial of licensure in effect at the time the new application is submitted pursuant to Section 480. A license issued pursuant to this section shall authorize the operation of the establishment only at the location for which the license is issued. Operation of the establishment at any other location shall be unlawful unless a license for the new location has been obtained upon compliance with this section, applicable to the issuance of a license in the first instance.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+SEC. 6.
+Section 7389 of the Business and Professions Code is amended to read:
+7389.
+(a) The board shall develop or adopt a health and safety course on hazardous substances and basic labor laws, as specified in Section 7314.3, which shall be taught in schools approved by the board. Course development shall include pilot testing of the course and training classes to prepare instructors to effectively use the course.
+(b) The amendments made to this section by the act adding this subdivision shall become operative on July 1, 2017.
+r1 score is: 
+0.1216848673946957
+==================================
+target summary is: 
+Existing law establishes the Department of Industrial Relations in the Labor and Workforce Development Agency to foster, promote, and develop the welfare of the wage earners of California, to improve their working conditions, and to advance their opportunities for profitable employment. Existing law establishes within the department the Division of Labor Standards Enforcement, which is vested with the general duty of enforcing labor laws, including those relating to wage claims and employer retaliation.
+This bill would require every employer subject to its provisions to keep accurate records of specific information regarding employees for 3 years. The bill would require the division to enforce its provisions and would authorize the Labor Commissioner, who is the chief of the division, to adopt any regulations necessary to carry out the provisions of the bill.
+The bill would require every employer, effective July 1, 2018, to register annually with the Labor Commissioner in accordance with prescribed procedures. The bill would prohibit an employer from conducting any business without registration as required by the bill and would authorize the commissioner to revoke a registration under certain circumstances. The bill would set application and renewal fees for registration.
+The bill would require an employer to include specific information in the registration application. The bill would prohibit the division from granting registration under specific circumstances. The bill would require the commissioner to maintain on the department’s Internet Web site a public database of registered property service employers.
+The bill would require the division, by January 1, 2019, to establish a biennial in-person sexual violence and harassment prevention training requirement for employees and employers with the assistance of a prescribed advisory committee to be convened by the director. The bill would require employers, as of July 1, 2018, and until the division establishes that training requirement, to provide employees with a pamphlet of the Department of Fair Employment and Housing on sexual harassment.
+The bill would establish civil fines for specific violations of its provisions and vest in the commission the exclusive authority to enforce the civil fine provisions. The bill would require the deposit of registration fees and civil fines in the Labor Enforcement and Compliance Fund and would direct that the moneys in the fund from those fees and fines be used only for the reasonable costs of administering the registration of janitorial contractors and the costs and obligations associated with the administration and enforcement of the bill by the division.
+produced summary is: 
+The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement. This bill would provide that, if the Commission on State Mandates determines that the bill contains costs mandated by the state, reimbursement for those costs shall be made pursuant to these statutory provisions.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Part 4.2 (commencing with Section 1420) is added to Division 2 of the Labor Code, to read:
+PART 4.2. Property Service Workers Protection
+1420.
+For purposes of this part:
+(a) (1) “Covered worker” means a janitor, including any individual predominantly working, whether as an employee, independent contractor, or a franchisee, as a janitor, as that term is defined in the Service Contract Act Directory of Occupations maintained by the United State Department of Labor.
+(2) “Covered worker” does not include any individual whose work duties are predominantly final cleanup of debris, grounds, and buildings near the completion of a construction, alteration, demolition, installation, or repair work project, including, but not limited to, street cleaners.
+(b) “Current and valid registration” means an active registration pursuant to this part that is not expired or revoked.
+(c) “Department” means the Department of Industrial Relations.
+(d) “Director” means the Director of Industrial Relations.
+(e) (1) “Employer” means any person or entity that employs at least one employee and one or more covered workers and that enters into contracts, subcontracts, or franchise arrangements to provide janitorial services. The term “employer” includes the term “covered successor employer.”
+(2) “Covered successor employer” means an employer who meets one or more of the following criteria:
+(A) Uses substantially the same equipment, supervisors, and workforce to offer substantially the same services to substantially the same clients as a predecessor employer, unless the employer maintains the same workforce pursuant to Chapter 4.5 (commencing with Section 1060) of Part 3. In addition, an employer who has operated with a current and valid registration for at least the preceding three years shall not be considered a covered successor employer for using substantially the same equipment, supervisors, and workforce to substantially the same clients, if all of the following apply:
+(i) The individuals in the workforce were not referred or supplied for employment by the predecessor employer to the successor employer.
+(ii) The successor employer has not had any interest in, or connection with, the operation, ownership, management, or control of the business of the predecessor employer within the preceding three years.
+(B) Shares in the ownership, management, control of the workforce, or interrelations of business operations with the predecessor employer.
+(C) Is an immediate family member of any owner, partner, officer, licensee, or director of the predecessor employer or of any person who had a financial interest in the predecessor employer. “Immediate family member” means a spouse, parent, sibling, son, daughter, uncle, aunt, niece, nephew, grandparent, grandson, granddaughter, mother-in-law, father-in-law, brother-in-law, sister-in-law, or cousin.
+(f) “Commissioner” means the Labor Commissioner of the Division of Labor Standards Enforcement of the department.
+(g) “Supervisor” has the same meaning as in subdivision (t) of Section 12926 of the Government Code.
+1421.
+Every employer shall keep accurate records for three years, showing all of the following:
+(a) The names and addresses of all employees engaged in rendering actual services for any business of the employer.
+(b) The hours worked daily by each employee, including the times the employee begins and ends each work period.
+(c) The wage and wage rate paid each payroll period.
+(d) The age of all minor employees.
+(e) Any other conditions of employment.
+1422.
+The Division of Labor Standards Enforcement shall enforce this part. The commissioner may adopt any regulations necessary to carry out this part.
+1423.
+Effective July 1, 2018, every employer shall register with the commissioner annually.
+1424.
+When a certificate of current and valid registration is originally issued or renewed under this part, the Division of Labor Standards Enforcement shall provide related and supplemental information to the registrant regarding business administration and applicable labor laws. As of July 1, 2018, employers covered by this part shall provide all covered workers a copy of the Department of Fair Employment and Housing pamphlet DFEH-185, entitled “Sexual Harassment,” until the sexual violence and harassment prevention training requirement is established pursuant to Section 1429.5.
+1425.
+Proof of current and valid registration shall be by an official Division of Labor Standards Enforcement registration form.
+1426.
+At least 60 days prior to the expiration of each registrant’s registration, the Division of Labor Standards Enforcement shall send a renewal notice to the last known address of the registrant. However, omission of the Division of Labor Standards Enforcement to provide the renewal notice in accordance with this section shall not excuse a registrant from making timely application for renewal of registration, shall not be a defense in any action or proceeding involving failure to renew registration, and shall not subject the Division of Labor Standards Enforcement to any legal liability.
+1427.
+The Division of Labor Standards Enforcement shall collect from each employer an initial nonrefundable application fee of five hundred dollars ($500), and an annual fee of five hundred dollars ($500) on the anniversary date of initial application, and may periodically adjust the registration fee in an amount sufficient to fund all direct and indirect costs to administer and enforce this part.
+1428.
+An employer shall not conduct any business without complying with the registration requirements of this part. The commissioner may revoke a registration if he or she finds an employer to be out of compliance with any requirement of this part or to have failed to satisfy any of the conditions of Section 1429.
+1429.
+The Division of Labor Standards Enforcement shall not approve the registration of any employer until all of the following conditions are satisfied:
+(a) The employer has executed a written application, in a form prescribed by the commissioner and subscribed and sworn to by the employer containing the following:
+(1) The name of the business entity and, if applicable, its fictitious or “doing business as” name.
+(2) The form of the business entity and, if a corporation, all of the following:
+(A) The date of incorporation.
+(B) The state in which incorporated.
+(C) If a foreign corporation, the date the articles of incorporation were filed with the California Secretary of State.
+(D) Whether the corporation is in good standing with the California Secretary of State.
+(3) The federal employer identification number (FEIN) and the state employer identification number (SEIN) of the business.
+(4) The address of the business and the telephone number and, if applicable, the addresses and telephone numbers of any branch locations.
+(5) Whether the application is for a new or renewal registration and, if the application is for a renewal, the prior registration number.
+(6) The names, residential addresses, telephone numbers, and social security numbers of the following persons:
+(A) All corporate officers, if the business entity is a corporation.
+(B) All persons exercising management responsibility in the applicant’s office, regardless of form of business entity.
+(C) All persons, except bona fide employees on regular salaries, who have a financial interest of 10 percent or more in the business, regardless of the form of business entity, and the actual percent owned by each of those persons.
+(7) The policy number, effective date, expiration date, and name and address of the carrier of the applicant business’ current workers’ compensation coverage.
+(8) (A) Whether the employer and any persons named in response to subparagraph (A), (B), or (C) of paragraph (6) presently:
+(i) Owe any unpaid wages.
+(ii) Have unpaid judgments outstanding.
+(iii) Have any liens or suits pending in court against himself or herself.
+(iv) Owe payroll taxes, or personal, partnership, or corporate income taxes, Social Security taxes, or disability insurance.
+(B) An applicant who answers affirmatively to any item described in subparagraph (A) shall provide, as part of the application, additional information on the unpaid amounts, including the name and address of the party owed, the amount owed, and any existing payment arrangements.
+(9) (A) Whether the employer and any persons named in response to subparagraph (A), (B), or (C) of paragraph (6) have ever been cited or assessed any penalty for violating any provision of this code.
+(B) An applicant who answers affirmatively to any item described in subparagraph (A) shall provide additional information, as part of the application, on the date, nature of citation, amount of penalties assessed for each citation, and the disposition of the citation, if any. The application shall describe any appeal filed. If the citation was not appealed, or if it was upheld on appeal, the applicant shall state whether the penalty assessment was paid.
+(10) Effective January 1, 2020, all new applications for registration and renewal of registration shall complete the sexual violence and harassment prevention training requirements prescribed by the division and developed pursuant to Section 1429.5.
+(11) Such other information as the commissioner requires for the administration and enforcement of this part.
+(b) The employer has paid a registration fee to the Division of Labor Standards Enforcement pursuant to Section 1427.
+(c) Notwithstanding any other law, violation of this section shall not be a crime.
+1429.5.
+The Division of Labor Standards Enforcement shall establish a biennial in-person sexual violence and harassment prevention training requirement for employees and employers covered by this part by January 1, 2019. To assist in developing these standards, the director shall convene an advisory committee to recommend requirements for a sexual harassment prevention training program. The advisory committee shall be composed of representatives of the Division of Labor Standards Enforcement, the Division of Occupational Safety and Health, and the Department of Fair Employment and Housing, and shall also include representatives from a recognized or certified collective bargaining agent that represents janitorial workers, employers, labor-management groups in the janitorial industry, sexual assault victims advocacy groups, and other related subject matter experts. The director shall convene the advisory committee no later than July 1, 2017. The advisory committee shall consider the requirements of Section 12950.1 of the Government Code when developing the recommended standard. The Division of Labor Standards Enforcement shall propose the requirements for the sexual violence and harassment prevention training requirement no later than January 1, 2018.
+1430.
+The Division of Labor Standards Enforcement shall not register or renew the registration of an employer in any of the following circumstances:
+(a) The employer has not fully satisfied any final judgment for unpaid wages due to an employee or former employee of a business for which the employer is required to register under this chapter.
+(b) The employer has failed to remit the proper amount of contributions required by the Unemployment Insurance Code or the Employment Development Department has made an assessment for those unpaid contributions against the employer that has become final and the employer has not fully paid the amount of delinquency for those unpaid contributions.
+(c) The employer has failed to remit the amount of Social Security and Medicare tax contributions required by the Federal Insurance Contributions Act (FICA) to the Internal Revenue Service and the employer has not fully paid the amount or delinquency for those unpaid contributions.
+1431.
+The commissioner shall maintain a public database of property service employers, on the Internet Web site of the department, including the name, address, registration number, and effective dates of registration.
+1432.
+(a) An employer who fails to register pursuant to Section 1423 is subject to a civil fine of one hundred dollars ($100) for each calendar day that the employer is unregistered, not to exceed ten thousand dollars ($10,000).
+(b) Any person or entity that contracts with an employer who lacks a current and valid registration, as displayed on the online registration database at the time the contract is executed, extended, renewed, or modified, under this part on the date the person or entity enters into or renews a contract or subcontract for janitorial services with the employer is subject to a civil fine of not less than two thousand dollars ($2,000) nor more than ten thousand dollars ($10,000) in the case of a first violation, and a civil fine of not less than ten thousand dollars ($10,000) nor more than twenty-five thousand dollars ($25,000) for a subsequent violation.
+(c) Notwithstanding any other provision of law, the authority to enforce this section is vested exclusively with the commissioner. The procedures for issuing, contesting, and enforcing judgments for citations or civil penalties issued by the commissioner shall be the same as those set forth in Section 1197.1.
+1433.
+(a) All registration fees collected pursuant to Section 1427, all civil fines collected pursuant to Section 1432, and any other moneys as are designated by statute or order shall be deposited in the Labor Enforcement and Compliance Fund.
+(b) Moneys deposited in the fund pursuant to Section 1427 and Section 1432 shall be used only for the following purposes:
+(1) The reasonable costs of administering the registration of janitorial contractors pursuant to this part by the Division of Labor Standards and Enforcement.
+(2) The costs and obligations associated with the administration and enforcement of this part by the Division of Labor Standards and Enforcement.
+(c) The annual employer registration renewal fee specified in of Section 1427, and any adjusted application renewal fee, shall be set in amounts that are sufficient to support the direct costs and a reasonable percentage attributable to the indirect costs of the division for administering this part.
+1434.
+A successor employer is liable for any wages and penalties its predecessor employer owes to any of the predecessor employer’s former employee or employees, if the successor employer meets any of the following criteria:
+(a) Uses substantially the same workforce to offer substantially the same services as the predecessor employer. This factor does not apply to employers who maintain the same workforce pursuant to Chapter 4.5 (commencing with Section 1060) of Part 3.
+(b) Shares in the ownership, management, control of the labor relations, or interrelations of business operations with the predecessor employer.
+(c) Employs in a managerial capacity any person who directly or indirectly controlled the wages, hours, or working conditions of the affected employees of the predecessor employer.
+(d) Is an immediate family member of any owner, partner, officer, or director of the predecessor employer of any person who had a financial interest in the predecessor employer.
+r1 score is: 
+0.1495726495726496
+==================================
+target summary is: 
+(1) Existing law makes it a misdemeanor to make a false report to a peace officer, or to a person who is employed by a law enforcement agency, as specified, that a felony or misdemeanor has been committed, knowing the report to be false.
+This bill would make that prohibition applicable to a person who reports to certain individuals and peace officers that a firearm has been lost or stolen, knowing the report to be false. By changing the definition of an existing crime, this bill would impose a state-mandated local program. The bill would also make it a misdemeanor for a person convicted of violating this provision to own a firearm within 10 years of the conviction. By expanding the scope of an existing crime, this bill would impose a state-mandated local program.
+(2) This bill would incorporate additional changes to Section 29805 of the Penal Code, proposed by AB 1176, that would become operative only if AB 1176 and this bill are both chaptered and become effective on or before January 1, 2017, and this bill is chaptered last.
+(3) The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.
+This bill would provide that no reimbursement is required by this act for a specified reason.
+produced summary is: 
+Existing law provides for the licensure and regulation of firearms by the Department of Justice. Existing law requires the department to make all necessary and proper preparations for the certification and regulation of firearms by the Firearms Control Commission of the National Firearms Institute of the National Firearms Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the National Rifle Association of the Looney Looney Looney Looney Looney Looney Looney
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 148.5 of the Penal Code is amended to read:
+148.5.
+(a) Every person who reports to any peace officer listed in Section 830.1 or 830.2, or subdivision (a) of Section 830.33, the Attorney General, or a deputy attorney general, or a district attorney, or a deputy district attorney that a felony or misdemeanor has been committed, knowing the report to be false, is guilty of a misdemeanor.
+(b) Every person who reports to any other peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2, that a felony or misdemeanor has been committed, knowing the report to be false, is guilty of a misdemeanor if (1) the false information is given while the peace officer is engaged in the performance of his or her duties as a peace officer and (2) the person providing the false information knows or should have known that the person receiving the information is a peace officer.
+(c) Except as provided in subdivisions (a) and (b), every person who reports to any employee who is assigned to accept reports from citizens, either directly or by telephone, and who is employed by a state or local agency which is designated in Section 830.1, 830.2, subdivision (e) of Section 830.3, Section 830.31, 830.32, 830.33, 830.34, 830.35, 830.36, 830.37, or 830.4, that a felony or misdemeanor has been committed, knowing the report to be false, is guilty of a misdemeanor if (1) the false information is given while the employee is engaged in the performance of his or her duties as an agency employee and (2) the person providing the false information knows or should have known that the person receiving the information is an agency employee engaged in the performance of the duties described in this subdivision.
+(d) Every person who makes a report to a grand jury that a felony or misdemeanor has been committed, knowing the report to be false, is guilty of a misdemeanor. This subdivision shall not be construed as prohibiting or precluding a charge of perjury or contempt for any report made under oath in an investigation or proceeding before a grand jury.
+(e) This section does not apply to reports made by persons who are required by statute to report known or suspected instances of child abuse, dependent adult abuse, or elder abuse.
+(f) This section applies to a person who reports to a person described in subdivision (a), (b), or (c), that a firearm, as defined in subdivision (a) or (b) of Section 16520, has been lost or stolen, knowing the report to be false.
+SEC. 2.
+Section 29805 of the Penal Code is amended to read:
+29805.
+(a) Except as provided in Section 29855 or subdivision (a) of Section 29800, any person who has been convicted of a misdemeanor violation of Section 71, 76, 136.1, 136.5, or 140, subdivision (d) of Section 148, subdivision (f) of Section 148.5, Section 171b, paragraph (1) of subdivision (a) of Section 171c, Section 171d, 186.28, 240, 241, 242, 243, 243.4, 244.5, 245, 245.5, 246.3, 247, 273.5, 273.6, 417, 417.6, 422, 626.9, 646.9, or 830.95, subdivision (a) of former Section 12100, as that section read at any time from when it was enacted by Section 3 of Chapter 1386 of the Statutes of 1988 to when it was repealed by Section 18 of Chapter 23 of the Statutes of 1994, Section 17500, 17510, 25300, 25800, 30315, or 32625, subdivision (b) or (d) of Section 26100, or Section 27510, or Section 8100, 8101, or 8103 of the Welfare and Institutions Code, any firearm-related offense pursuant to Sections 871.5 and 1001.5 of the Welfare and Institutions Code, or of the conduct punished in subdivision (c) of Section 27590, and who, within 10 years of the conviction, owns, purchases, receives, or has in possession or under custody or control, any firearm is guilty of a public offense, which shall be punishable by imprisonment in a county jail not exceeding one year or in the state prison, by a fine not exceeding one thousand dollars ($1,000), or by both that imprisonment and fine.
+(b) The court, on forms prescribed by the Department of Justice, shall notify the department of persons subject to this section. However, the prohibition in this section may be reduced, eliminated, or conditioned as provided in Section 29855 or 29860.
+SEC. 2.5.
+Section 29805 of the Penal Code is amended to read:
+29805.
+(a) Except as provided in Section 29855 or subdivision (a) of Section 29800, any person who has been convicted of a misdemeanor violation of Section 71, 76, 136.1, 136.5, or 140, subdivision (d) of Section 148, subdivision (f) of Section 148.5, Section 171b, paragraph (1) of subdivision (a) of Section 171c, Section 171d, 186.28, 240, 241, 242, 243, 243.4, 244.5, 245, 245.5, 246.3, 247, 273.5, 273.6, 417, 417.6, 422, 490.2 if the property taken was a firearm, 496 if the property consists of a firearm, 626.9, 646.9, or 830.95, subdivision (a) of former Section 12100, as that section read at any time from when it was enacted by Section 3 of Chapter 1386 of the Statutes of 1988 to when it was repealed by Section 18 of Chapter 23 of the Statutes of 1994, Section 17500, 17510, 25300, 25800, 30315, or 32625, subdivision (b) or (d) of Section 26100, or Section 27510, or Section 8100, 8101, or 8103 of the Welfare and Institutions Code, any firearm-related offense pursuant to Sections 871.5 and 1001.5 of the Welfare and Institutions Code, or of the conduct punished in subdivision (c) of Section 27590, and who, within 10 years of the conviction, owns, purchases, receives, or has in possession or under custody or control, any firearm is guilty of a public offense, which shall be punishable by imprisonment in a county jail not exceeding one year or in the state prison, by a fine not exceeding one thousand dollars ($1,000), or by both that imprisonment and fine.
+(b) The court, on forms prescribed by the Department of Justice, shall notify the department of persons subject to this section. However, the prohibition in this section may be reduced, eliminated, or conditioned as provided in Section 29855 or 29860.
+SEC. 3.
+Section 2.5 of this bill incorporates amendments to Section 29805 of the Penal Code proposed by both this bill and Assembly Bill 1176. It shall only become operative if (1) both bills are enacted and become effective on or before January 1, 2017, (2) each bill amends Section 29805 of the Penal Code, and (3) this bill is enacted after Assembly Bill 1176, in which case Section 2 of this bill shall not become operative.
+SEC. 4.
+No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+r1 score is: 
+0.133056133056133
+==================================
+Highest 3 R1 scores for PEG-Large pretrained using our method, finetuned on 100 CA examples, LONG can be seen below
+target summary is: 
+The California Global Warming Solutions Act of 2006 designates the State Air Resources Board as the state agency charged with monitoring and regulating sources of emissions of greenhouse gases. The act authorizes the state board to include the use of market-based compliance mechanisms. Existing law requires all
+moneys, except for fines and penalties,
+moneys
+collected by the state board as part of a market-based compliance mechanism to be deposited in the Greenhouse Gas Reduction Fund and to be available upon appropriation. Existing law continuously appropriates specified portions of the annual proceeds in the fund to various programs, including 5% for the Low Carbon Transit Operations Program, which provides operating and capital assistance for transit agencies to reduce greenhouse gas emissions and improve mobility, with a priority on serving disadvantaged communities.
+This bill would additionally authorize moneys appropriated to the program to be expended to support the operation of existing bus or rail service if the governing board of the requesting transit agency declares a fiscal emergency and other criteria are met, thereby expanding the scope of an existing continuous appropriation.
+produced summary is: 
+Existing law requires all moneys, except for fines and penalties, collected by the State Air Resources Board from the auction or sale of allowances as part of a market-based compliance mechanism relative to reduction of greenhouse gas emissions, to be deposited in the Greenhouse Gas Reduction Fund. Existing law continuously appropriates specified portions of the annual proceeds in the Greenhouse Gas Reduction Fund to various programs including 5% for the Low Carbon Transit Operations Program and 20% for the Greenhouse Gas Reduction Fund. This bill would establish the Low Carbon Transit Operations Program to provide operating and capital assistance for transit agencies to reduce greenhouse gas emissions and improve mobility, with a priority on serving disadvantaged communities.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 75230 of the Public Resources Code is amended to read:
+75230.
+(a) The Low Carbon Transit Operations Program is hereby created to provide operating and capital assistance for transit agencies to reduce greenhouse gas emissions and improve mobility, with a priority on serving disadvantaged communities.
+(b) Funding for the program is continuously appropriated pursuant to Section 39719 of the Health and Safety Code from the Greenhouse Gas Reduction Fund, established pursuant to Section 16428.8 of the Government Code.
+(c) Funding shall be allocated by the Controller consistent with the requirements of this part and with Section 39719 of the Health and Safety Code, upon a determination by the Department of Transportation that the expenditures proposed by a transit agency meet the requirements of this part and guidelines developed pursuant to subdivision (f), and that the amount of funding requested is currently available.
+(d) (1) Moneys for the program shall be expended to provide transit operating or capital assistance that meets all of the following criteria:
+(A) Expenditures supporting new or expanded bus or rail services, new or expanded water-borne transit, or expanded intermodal transit facilities, and may include equipment acquisition, fueling, and maintenance, and other costs to operate those services or facilities.
+(B) The recipient transit agency demonstrates that each expenditure directly enhances or expands transit service to increase mode share.
+(C) The recipient transit agency demonstrates that each expenditure reduces greenhouse gas emissions.
+(2) (A) Moneys for the program may additionally be expended to support the operation of existing bus or rail service if all of the following occur:
+(i) The governing board of the transit agency declares a fiscal emergency, as defined in paragraph (2) of subdivision (d) of Section 21080.32, within 90 days prior to the agency requesting the funds.
+(ii) The expenditure of the requested funds is necessary to sustain the transit agency’s transit service in the fiscal year in which the requested funds are to be expended.
+(iii) The governing board of the transit agency would be required to reduce or eliminate transit service if the requested funds are not received.
+(iv) The governing board makes a finding that a reduction in, or elimination of, transit service would increase greenhouse gas emissions because transit customers would choose other less-efficient modes of transportation.
+(v) The transit agency does not request funds over consecutive funding years unless the transit agency has declared a fiscal emergency in each year consistent with clause (i).
+(vi) The transit agency does not request funds for more than three consecutive funding years.
+(B) Moneys allocated for the purpose of this paragraph shall be expended to provide transit operating assistance that meets both of the following criteria:
+(i) The expenditures support current bus- or rail-service operating costs and may include labor, fueling, maintenance, and other costs to operate and maintain those services.
+(ii) The recipient transit agency demonstrates that each expenditure directly sustains transit service that would otherwise be reduced or eliminated in the upcoming year if those funds were not received.
+(e) For transit agencies whose service areas include disadvantaged communities, as identified pursuant to Section 39711 of the Health and Safety Code, at least 50 percent of the total moneys received purs:
+(1) A list of proposed expense types for anticipated funding levels.
+(2) The documentation required by the guidelines developed pursuant to subdivision (f) to demonstrate compliance with subdivisions (d) and (e).
+(i) Before authorizing the disbursement of funds, the Department of Transportation, in coordination with the State Air Resources Board, shall determine the eligibility, in whole or in part, of the proposed list of expense
+types,
+types
+based on the documentation provided by the recipient transit agency to ensure ongoing compliance with the guidelines developed pursuant to subdivision (f).
+(j) The Department of Transportation shall notify the Controller of approved expenditures for each transit agency and the amount of the allocation for each transit agency determined to be available at that time of approval.
+(k) The recipient transit agency shall provide annual reports to the Department of Transportation, in the format and manner prescribed by the department, consistent with the internal administrative procedures for
+the
+use of
+the
+fund proceeds developed by the State Air Resources Board.
+(l) The Department of Transportation and recipient transit agencies shall comply with the guidelines developed by the State Air Resources Board pursuant to Section 39715 of the Health and Safety Code to ensure that the requirements of Section 39713 of the Health and Safety Code are met to maximize the benefits to disadvantaged communities, as identified pursuant to Section 39711 of the Health and Safety Code.
+r1 score is: 
+0.66
+==================================
+target summary is: 
+Existing law establishes in state government the Government Operations Agency, headed by the Secretary of Government Operations. The secretary is required to review the operations and evaluate the performance of each department, office, or other unit within the agency and seek to continually improve, among other things, the operating policies and the management of information systems of those entities within the agency. The agency includes, among other state government entities, the Department of General Services and the Department of Technology.
+This bill would establish, within the Government Operations Agency, the Department of Customer Service to be headed by a Director of Customer Service, who would be appointed by, and serve at the pleasure of, the Governor. The bill would require the director to engage the agency to promote an understanding of customer service and ensure the agency is making administrative decisions that serve customer needs. The bill would further require the director to, among other things, advise the Governor on the strategic development and management of state customer service programs, and consult with the Director of Technology, the Director of General Services, and the Director of Finance to establish customer service goals for state information technology. The bill would specifically require the director to annually report to the Director of Finance and specific committees of the Legislature regarding the cost savings achieved through improvements to customer service within the Government Operations Agency that were implemented by the department, and would further require the director to annually report on the customer service performance of the agency. The bill would require all state entities to reasonably cooperate with the requests of the director that relate to the duties of the director and the department. The bill would make related legislative findings.
+produced summary is: 
+This bill would establish a Department of Customer Service within the Government Operations Agency, headed by a Director of Customer Service, to develop and implement strategies to improve the customer service experience, in various capacities, throughout the Government Operations Agency and state government. The bill would require the director to consult with the Governor on the strategic development and management of state customer service programs. The bill would require the director to engage the agency to promote an understanding of customer service and ensure the agency is making administrative decisions that serve customer needs. The bill would require the director to engage the agency to develop and manage a customer service program within the agency that captures both annual and transactional feedback in a unified and standardized platform to improve an understanding of customer service and allows the agency to take action on that data. The bill would require the director to consult with the Director of Technology, the Director of General Services, and the Director of Finance to establish a customer service strategy to establish customer service goals for state information technology. The bill would require the director to develop and manage an employee program within the agency to capture and analyze employee feedback regarding customer service that fosters employee retention, recruitment, and productivity. The bill would require the director to consult with the heads of the agency’s information technology, human resources, and procurement functions
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+It is the intent of the Legislature that this act establish a Department of Customer Service, headed by a Director of Customer Service, that develops and implements strategies to improve the customer service experience, in various capacities, throughout the Government Operations Agency and state government.
+SEC. 2.
+Chapter 11 (commencing with Section 11999) is added to Part 1 of Division 3 of Title 2 of the Government Code, to read:
+CHAPTER  11. Department of Customer Service
+Article  1. Department of Customer Service
+11999.
+(a) There is in state government, within the Government Operations Agency, the Department of Customer Service.
+(b) The Director of Customer Service shall serve as the head of the Department of Customer Service and shall be appointed by, and serve at the pleasure of, the Governor.
+11999.5.
+For purposes of this chapter, the following terms shall have the following meanings:
+(a) “Agency” means the Government Operations Agency.
+(b) “Department” means the Department of Customer Service.
+(c) “Director” means the Director of Customer Service.
+11999.10.
+The director shall engage the agency to promote an understanding of customer service and ensure the agency is making administrative decisions that serve customer needs.
+11999.15.
+The director shall do all of the following:
+(a) Advise the Governor on the strategic development and management of state customer service programs.
+(b) Develop and manage a customer service program within the agency that captures both annual and transactional feedback in a unified and standardized platform to improve an understanding of customer service and allows the agency to take action on that data.
+(c) Develop and implement the ideal customer experience for new and existing products and services provided by the agency.
+(d) Develop and manage an employee program within the agency to capture and analyze employee feedback regarding customer service that fosters employee retention, recruitment, engagement, and productivity.
+(e) Utilize both qualitative and quantitative customer feedback to identify best customer service practices for the agency.
+(f) Develop a mechanism to give customers of the agency the opportunity to provide real-time feedback through the Internet, telephone, and in-person communication.
+(g) Create a strong, customer-centric culture complete with accountability and ownership at all levels of the agency.
+(h) Establish performance management and improvement processes to ensure state customer service and state customer service systems are efficient and effective.
+(i) Consult with the Director of Technology, the Director of General Services, and the Director of Finance to establish customer service goals for state information technology.
+(j) Develop and manage a strategy to improve the delivery of a positive customer service experience across information technology, human resources, and procurement functions of the agency.
+(k) Improve organizational capacity in the effective management of customer service initiatives within the agency.
+(l) Consult with the Secretary of Government Operations and the heads of entities within the agency to ensure the integration of customer service initiatives and compliance with information technology policies and standards for the effective management of information technology services within the agency.
+11999.20
+The director shall supervise and manage the Office of Digital Services.
+11999.25.
+(a) On or before January 1, 2018, and annually thereafter, the director shall transmit a written report to the Director of Finance, in the manner directed by the Director of Finance, the cost savings achieved through improvements to customer service within the agency that were implemented by the department.
+(b) Within 30 days of reporting to the Director of Finance as required by subdivision (a), the department shall transmit a copy of the report to the Joint Legislative Budget Committee, the Senate Committee on Appropriations, the Senate Committee on Budget and Fiscal Review, the Assembly Committee on Appropriations, and the Assembly Committee on Budget, or any successor committee.
+11999.30.
+The director, in consultation with the Director of Technology, shall produce an annual customer service strategic plan that shall guide state agencies and departments. State agencies shall cooperate with the development of this plan.
+11999.35.
+(a) The director shall annually prepare a written report on the customer service performance of the agency that includes, but is not limited to, an assessment on the progress of the agency on all of the following:
+(1) Delivering improved customer service.
+(2) Reducing and avoiding costs and risks associated with the acquisition, development, implementation, management, and operation of information technology assets.
+(3) Enhancing the security, reliability, and quality of information technology networks, services, and systems.
+(4) Improving the information technology procurement process.
+(b) The director shall post the report required by subdivision (a) on the Internet Web site of the department.
+11999.40.
+All state entities shall reasonably cooperate with the requests of the director that relate to the duties of the director and the department.
+r1 score is: 
+0.6730038022813689
+==================================
+target summary is: 
+The California Public Employees’ Pension Reform Act of 2013 (PEPRA) requires a public retirement system, as defined, to modify its plan or plans to comply with the act and, among other provisions, establishes new retirement formulas that may not be exceeded by a public employer offering a defined benefit pension plan for employees first hired on or after January 1, 2013. PEPRA exempts from its provisions certain public employees whose collective bargaining rights are subject to specified provisions of federal law until a specified federal district court decision on a certification by the United States Secretary of Labor, or until January 1, 2016, whichever is sooner.
+This bill would extend indefinitely that exemption for those public employees, whose collective bargaining rights are subject to specified provisions of federal law and who became a member of a state or local public retirement system prior to December 30, 2014.
+The bill would exempt these employees from PEPRA without regard to date of hire upon issuance of a specified federal district court decision.
+produced summary is: 
+The California Public Employees’ Pension Reform Act of 2013 (PEPRA) requires a public retirement system, as defined, to modify its plan or plans to comply with the act and, among other provisions, establishes new retirement formulas that may not be exceeded by a public employer offering a defined benefit pension plan for employees first hired on or after January 1, 2013. Existing law, the Joint Exercise of Powers Act, generally authorizes 2 or more public agencies, by agreement, to jointly exercise any common power, which may include hiring employees and establishing retirement systems. PEPRA authorizes a joint powers authority formed by the Cities of Brea and Fullerton on or after January 1, 2013, to provide its employees the defined benefit formula or formula that those employees received from their respective employers prior to the exercise of a common power, to which the employee is associated, by the joint powers authority to any employee of specified cities who is not a new member and subsequently is employed by the joint powers authority within 180 days of the city providing for the exercise of a common power, to which the employee was associated, by the joint powers authority. This bill would authorize a joint powers authority formed by the Belmont Fire Protection District, the Estero Municipal Improvement District, and the City of San Mateo on or after January 1, 2013, to provide employees
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 7522.02 of the Government Code is amended to read:
+7522.02.
+(a) (1) Notwithstanding any other law, except as provided in this article, on and after January 1, 2013, this article shall apply to all state and local public retirement systems and to their participating employers, including the Public Employees’ Retirement System, the State Teachers’ Retirement System, the Legislators’ Retirement System, the Judges’ Retirement System, the Judges’ Retirement System II, county and district retirement systems created pursuant to the County Employees Retirement Law of 1937 (Chapter 3 (commencing with Section 31450) of Part 3 of Division 4 of Title 3), independent public retirement systems, and to individual retirement plans offered by public employers. However, this article shall be subject to the Internal Revenue Code and Section 17 of Article XVI of the California Constitution. The administration of the requirements of this article shall comply with applicable provisions of the Internal Revenue Code and the Revenue and Taxation Code.
+(2) Notwithstanding paragraph (1), this article shall not apply to the entities described in Section 9 of Article IX of, and Sections 4 and 5 of Article XI of, the California Constitution, except to the extent that these entities continue to be participating employers in any retirement system governed by state statute. Accordingly, any retirement plan approved before January 1, 2013, by the voters of any entity excluded from coverage by this section shall not be affected by this article.
+(3)
+(A)
+Notwithstanding paragraph (1), this article shall not apply to a public employee whose interests are protected under Section 5333(b) of Title 49 of the United States Code and who became a member of a state or local public retirement system prior to December 30, 2014.
+(B) If a federal district court upholds the determination of the United States Secretary of Labor, or his or her designee, that application of this article precludes him or her from providing a certification under Section 5333(b) of Title 49 of the United States Code, this article shall not apply to a public employee whose interests are protected under that section.
+(4) Notwithstanding paragraph (1), this article shall not apply to a multiemployer plan authorized by Section 302(c)(5) of the federal Taft-Hartley Act (29 U.S.C. Sec. 186(c)(5)) if the public employer began participation in that plan prior to January 1, 2013, and the plan is regulated by the federal Employee Retirement Income Security Act of 1974 (29 U.S.C. Sec. 1001 et seq.).
+(b) The benefit plan required by this article shall apply to public employees who are new members as defined in Section 7522.04.
+(c) (1) Individuals who were employed by any public employer before January 1, 2013, and who became employed by a subsequent public employer for the first time on or after January 1, 2013, shall be subject to the retirement plan that would have been available to employees of the subsequent employer who were first employed by the subsequent employer on or before December 31, 2012, if the individual was subject to concurrent membership for which creditable service was performed in the previous six months or reciprocity established under any of the following provisions:
+(A) Article 5 (commencing with Section 20350) of Chapter 3 of Part 3 of Division 5 of Title 2.
+(B) Chapter 3 (commencing with Section 31450) of Part 3 of Division 4 of Title 3.
+(C) Any agreement between public retirement systems to provide reciprocity to members of the systems.
+(D) Section 22115.2 of the Education Code.
+(2) An individual who was employed before January 1, 2013, and who, without a separation from employment, changed employment positions and became subject to a different defined benefit plan in a different public retirement system offered by his or her employer shall be subject to that defined benefit plan as it would have been available to employees who were first employed on or before December 31, 2012.
+(d) If a public employer, before January 1, 2013, offers a defined benefit pension plan that provides a defined benefit formula with a lower benefit factor at normal retirement age and results in a lower normal cost than the defined benefit formula required by this article, that employer may continue to offer that defined benefit formula instead of the defined benefit formula required by this article, and shall not be subject to the requirements of Section 7522.10 for pensionable compensation subject to that formula. However, if the employer adopts a new defined benefit formula on or after January 1, 2013, that formula must conform to the requirements of this article or must be determined and certified by the retirement system’s chief actuary and the retirement board to have no greater risk and no greater cost to the employer than the defined benefit formula required by this article and must be approved by the Legislature. New members of the defined benefit plan may only participate in the lower cost defined benefit formula that was in place before January 1, 2013, or a defined benefit formula that conforms to the requirements of this article or is approved by the Legislature as provided in this subdivision.
+(e) If a public employer, before January 1, 2013, offers a retirement benefit plan that consists solely of a defined contribution plan, that employer may continue to offer that plan instead of the defined benefit pension plan required by this article. However, if the employer adopts a new defined benefit pension plan or defined benefit formula on or after January 1, 2013, that plan or formula must conform to the requirements of this article or must be determined and certified by the retirement system’s chief actuary and the system’s board to have no greater risk and no greater cost to the employer than the defined benefit formula required by this article and must be approved by the Legislature. New members of the employer’s plan may only participate in the defined contribution plan that was in place before January 1, 2013, or a defined contribution plan or defined benefit formula that conforms to the requirements of this article. This subdivision shall not be construed to prohibit an employer from offering a defined contribution plan on or after January 1, 2013, either with or without a defined benefit plan, whether or not the employer offered a defined contribution plan prior to that date.
+(f) (1) If, on or after January 1, 2013, the Cities of Brea and Fullerton form a joint powers authority pursuant to the provisions of the Joint Exercise of Powers Act (Article 1 (commencing with Section 6500) of Chapter 5), that joint powers authority may provide employees the defined benefit plan or formula that those employees received from their respective employers prior to the exercise of a common power, to which the employee is associated, by the joint powers authority to any employee of the City of Brea, the City of Fullerton, or a city described in paragraph (2) who is not a new member and subsequently is employed by the joint powers authority within 180 days of the city providing for the exercise of a common power, to which the employee was associated, by the joint powers authority.
+(2) On or before January 1, 2017, a city in Orange County that is contiguous to the City of Brea or the City of Fullerton may join the joint powers authority described in paragraph (1) but not more than three cities shall be permitted to join.
+(3) The formation of a joint powers authority on or after January 1, 2013, shall not act in a manner as to exempt a new employee or a new member, as defined by Section 7522.04, from the requirements of this article. New members may only participate in a defined benefit plan or formula that conforms to the requirements of this article.
+(g) The Judges’ Retirement System and the Judges’ Retirement System II shall not be required to adopt the defined benefit formula required by Section 7522.20 or 7522.25 or the compensation limitations defined in Section 7522.10.
+(h) This article shall not be construed to provide membership in any public retirement system for an individual who would not otherwise be eligible for membership under that system’s applicable rules or laws.
+(i) On and after January 1, 2013, each public retirement system shall modify its plan or plans to comply with the requirements of this article and may adopt regulations or resolutions for this purpose.
+r1 score is: 
+0.543640897755611
+==================================

@@ -6,8 +6,9 @@ import csv
 
 SEPARATOR = "=================================="
 
-csv_df = pd.read_csv("./rouges/caval_100d_25e-SHORT.csv")
-summary_file = open("./summaries/val_ca_sum_100_25_1-SHORTER.txt", "r")
+csv_df = pd.read_csv("./rouges/caval_ourpretrain_100_LONG.csv")
+summary_file = open("./summaries/second_pretraining-LONGER.txt", "r")
+
 summary_data = summary_file.read()
 summary_list = summary_data.replace('\n', ' ').split(SEPARATOR)
 summary_file.close()
@@ -21,9 +22,7 @@ r1_smallest = csv_df.nsmallest(3, 'rougeL')
 r1_largest = csv_df.nlargest(3, 'rougeL')
 
 billsum_test = load_dataset('billsum', split="ca_test")
-billsum_873 = billsum_test['text'][873]
-print(billsum_873)
-billsum_8 = billsum_test['text'][8]
+
 #print(SEPARATOR)
 #print(billsum_8)
 
@@ -61,8 +60,8 @@ for i in r1_largest_list:
     original_greatest.append(original_bill)
     r1_greatest.append(r1_score)
 
-with open('./key_summs/ca_val_100-SHORT_key_sums.txt', 'w') as f:
-    f.write('Lowest 3 R1 scores for PEG-Large finetuned on 10 CA examples can be seen below')
+with open('./key_summs/caval_ourpretrain_100_LONG_keysums.txt', 'w') as f:
+    f.write('Lowest 3 R1 scores for PEG-Large pretrained using our method, finetuned on 100 CA examples, LONG, can be seen below')
     f.write('\n')
     for i in range(len(target_summaries)):
         f.write('target summary is: ')
@@ -84,7 +83,7 @@ with open('./key_summs/ca_val_100-SHORT_key_sums.txt', 'w') as f:
         f.write(SEPARATOR)
         f.write('\n')
 
-    f.write('Highest 3 R1 scores for PEG-Large finetuned on 10 CA examples can be seen below')
+    f.write('Highest 3 R1 scores for PEG-Large pretrained using our method, finetuned on 100 CA examples, LONG can be seen below')
     f.write('\n')
 
     for i in range(len(target_greatest)):
