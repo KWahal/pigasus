@@ -18,7 +18,7 @@ SEPARATOR = "=================================="
 - caval_theirprrain_100.csv => their pretraining method, finetunde on 100 CA bills
 '''
 
-path_to_summs = "./summaries/Test-Pigasus.txt"
+path_to_summs = "./test_summaries/extractive_summaries_catest.txt"
 
 billsum_test = load_dataset('billsum', split="ca_test")
 target_summaries = billsum_test['summary'][1051:]
@@ -44,7 +44,7 @@ for i in tqdm(range(len(bill_names))):
 # write rouge scores to CSV file
 field_names = ["index", "title", "rouge1", "rouge2", "rougeL"]
 
-with open('./rouges/catest_ourpretrain_100.csv', 'w') as csvfile:
+with open('./rouges/catest_extractive.csv', 'w') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames = field_names)
     writer.writeheader()
     writer.writerows(all_scores)

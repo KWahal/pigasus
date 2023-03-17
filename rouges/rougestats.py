@@ -1,15 +1,15 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-csv_df = pd.read_csv("./rouges/catest_ourpretrain_100.csv")
+csv_df = pd.read_csv("./rouges/catest_extractive.csv")
 
 r1 = csv_df["rouge1"].describe().reset_index()["rouge1"]
 r2 = csv_df["rouge2"].describe().reset_index()["rouge2"]
 rl = csv_df["rougeL"].describe().reset_index()["rougeL"]
 
-summary = pd.DataFrame({"Pigasus OUR PRETRAIN, FINETUNED 100 CA_TEST R1": list(r1), 
-                        "Pigasus OUR PRETRAIN, FINETUNED 100 CA_TEST R2": list(r2), 
-                        "Pigasus OUR PRETRAIN, FINETUNED 100 CA_TEST RL": list(rl)},
+summary = pd.DataFrame({"Extractive CA_TEST R1": list(r1), 
+                        "Extractive CA_TEST R2": list(r2), 
+                        "Extractive CA_TEST RL": list(rl)},
                         index = ["count", "mean", "std", "min", "25%", "50%", "75%", "max"])
 
 print(summary.to_string())

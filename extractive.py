@@ -95,9 +95,10 @@ def generate_extractive_summary(text, limit_phrases, limit_sentences):
     
     return summary
 
-# this function evaluates our extractive summary generator on the billsum test set
+# this function evaluates our extractive summary generator on the billsum CA test split
 def evaluate():
-    billsum_test = load_dataset('billsum', split="test")
+    billsum_test = load_dataset('billsum', split="ca_test")
+    billsum_test = billsum_test[1051:]
     test_texts = billsum_test['text']
     print('loaded dataset. starting evaluation')
 
@@ -109,8 +110,8 @@ def evaluate():
         s = generate_extractive_summary(t, limit_phrases, limit_sentences)
         test_summaries.append(s)
 
-    print('evaluation on billsum test done. writing summaries.')
-    with open(r'extractive_summaries.txt', 'w') as fp:
+    print('evaluation on billsum CA test done. writing summaries.')
+    with open(r'test_summaries/extractive_summaries_catest.txt', 'w') as fp:
         for item in test_summaries:
             # write each item on a new line
             fp.write("%s\n" % item)

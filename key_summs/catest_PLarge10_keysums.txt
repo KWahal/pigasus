@@ -1,0 +1,582 @@
+Lowest 3 R1 scores for PEG-Large 0, tested on CA, can be seen below
+target summary is: 
+Existing law provides for the administration and operation of juvenile court schools by the county board of education.
+This bill would express the Legislature’s intent that juvenile court schools have a rigorous curriculum that includes a course of study that prepares pupils for high school graduation and career entry and fulfills the requirements for admission to the California State University and the University of California.
+Existing law prescribes the course of study a pupil is required to complete while in grades 9 to 12, inclusive, in order to receive a diploma of graduation, and authorizes the governing board of a school district to prescribe other coursework requirements that are in addition to the statewide requirements. Existing law exempts pupils in foster care and pupils who are homeless children or youths from local graduation requirements and also requires a school district and county office of education to accept coursework satisfactorily completed by those pupils while attending another public school, a juvenile court school, or a nonpublic, nonsectarian school.
+This bill would make that exemption and requirement to accept coursework satisfactorily completed applicable to former juvenile court school pupils, as defined. The bill would also require a county office of education to issue a diploma of graduation to a pupil who completes statewide coursework requirements for graduation while attending a juvenile court school but does not complete coursework and other requirements that are in addition to the statewide graduation requirements. By placing additional requirements on school districts and county offices of education, the bill would impose a state-mandated local program.
+The California Constitution requires the state to reimburse local agencies and school districts for certain cidden">
+Bill Text
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 48645.3 of the Education Code is amended to read:
+48645.3.
+(a) Juvenile court schools shall be conducted in a manner as shall be prescribed by the county board of education to best accomplish the provisions of Section 48645. The minimum schoolday shall be 240 minutes. Minimum schooldays shall be calculated on the basis of the average number of minutes of attendance during not more than 10 consecutive days in which classes are conducted. The minimum schoolday for pupils in attendance in approved vocational education programs, work programs prescribed by the probation department pursuant to Section 883 of the Welfare and Institutions Code, and work experience programs shall be 180 minutes, which shall be calculated on the basis of the average number of minutes of attendance during not more than 10 consecutive days in which classes are conducted. The county board of education shall adopt and enforce a course of study and evaluate its program in accordance with Sections 51040, 51041, 51050, and 51054 and the provisions of Article 3 (commencing with Section 51220) of Chapter 2 of Part 28, except subdivision (c) of Section 51220.
+(b) Juvenile court schools shall not be closed on any weekday of the calendar year, except those weekdays adopted by the county board of education as school holidays or set aside by the county board of education for inservice purposes. However, the county board of education may close juvenile court schools when it deems the closing is necessary to accommodate contingencies.
+(c) (1) The county board of education may adopt and enforce a course of study that enhances instruction in mathematics and English language arts for pupils attending juvenile court schools, as determined by statewide assessments or objective local evaluations and assessments as approved by the county superintendent of schools.
+(2) The enhanced course of study adopted pursuant to paragraph (1) shall meet the standards adopted pursuant to Section 60605.8, as appropriate, and shall be tailored to meet the needs of the individual pupil to increase the pupil’s academic literacy and reading fluency.
+(d) It is the intent of the Legislature that pupils in juvenile court schools have a rigorous curriculum that includes a course of study preparing them for high school graduation and career entry and fulfilling the requirements for admission to the University of California and the California State University.
+SEC. 2.
+Section 48645.5 of the Education Code is amended to read:
+48645.5.
+(a) Each public school district and county office of education shall accept for credit full or partial coursework satisfactorily completed by a pupil while attending a public school, juvenile court school, or nonpublic, nonsectarian school or agency. The coursework shall be transferred by means of the standard state transcript. If a pupil completes the graduation requirements of his or her school district of residence while being detained, the school district of residence shall issue to the pupil a diploma from the school the pupil last attended before detention or, in the alternative, the county superintendent of schools may issue the diploma.
+(b) A pupil shall not be denied enrollment or readmission to a public school solely on the basis that he or she has had contact with the juvenile justice system, including, but not limited to:
+(1) Arrest.
+(2) Adjudication by a juvenile court.
+(3) Formal or informal supervision by a probation officer.
+(4) Detention for any length of time in a juvenile facility or enrollment in a juvenile court school.
+(c) Pursuant to subparagraph (B) of paragraph (8) of subdivision (f) of Section 48853.5, a pupil who has had contact with the juvenile justice system shall be immediately enrolled in a public school.
+(d) If a pupil completes the statewide coursework requirements for graduation specified in Section 51225.3 while attending a juvenile court school, the county office of education shall issue to the pupil a diploma of graduation and shall not require the pupil to complete coursework or other requirements that are in addition to the statewide coursework requirements.
+SEC. 3.
+Section 51225.1 of the Education Code is amended to read:
+51225.1.
+(a) Notwithstanding any other law, a school district shall exempt a pupil in foster care, as defined in Section 51225.2, a pupil who is a homeless child or youth, as defined in Section 11434a(2) of Title 42 of the United States Code, or a former juvenile court school pupil, as defined in Section 51225.2, who transfers between schools any time after the completion of the pupil’s second year of high school from all coursework and other requirements adopted by the governing board of the school district that are in addition to the statewide coursework requirements specified in Section 51225.3, unless the school district makes a finding that the pupil is reasonably able to complete the school district’s graduation requirements in time to graduate from high school by the end of the pupil’s fourth year of high school.
+(b) If the school district determines that the pupil in foster care, the pupil who is a homeless child or youth, or the former juvenile court school pupil is reasonably able to complete the school district’s graduation requirements within the pupil’s fifth year of high school, the school district shall do all of the following:
+(1) Inform the pupil of his or her option to remain in school for a fifth year to complete the school district’s graduation requirements.
+(2) Inform the pupil, and the person holding the right to make educational decisions for the pupil, about how remaining in school for a fifth year to complete the school district’s graduation requirements will affect the pupil’s ability to gain admission to a postsecondary educational institution.
+(3) Provide information to the pupil about transfer opportunities available through the California Community Colleges.
+(4) Permit the pupil to stay in school for a fifth year to complete the school district’s graduation requirements upon agreement with the pupil, if the pupil is 18 years of age or older, or, if the pupil is under 18 years of age, upon agreement with the person holding the right to make educational decisions for the pupil.
+(c) To determine whether a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is in the third or fourth year of high school, either the number of credits the pupil has earned to the date of transfer or the length of the pupil’s school enrollment may be used, whichever will qualify the pupil for the exemption.
+(d) (1) (A) Within 30 calendar days of the date that a pupil in foster care who may qualify for the exemption from local graduation requirements pursuant to this section transfers into a school, the school district shall notify the pupil, the person holding the right to make educational decisions for the pupil, and the pupil’s social worker or probation officer of the availability of the exemption and whether the pupil qualifies for an exemption.
+(B) If the school district fails to provide timely notice pursuant to subparagraph (A), the pupil described in subparagraph (A) shall be eligible for the exemption from local graduation requirements pursuant to this section once notified, even if that notification occurs after the termination of the court’s jurisdiction over the pupil, if the pupil otherwise qualifies for the exemption pursuant to this section.
+(2) (A) Within 30 calendar days of the date that a pupil who is a homeless child or youth may qualify for the exemption from local graduation requirements pursuant to this section transfers into a school, the school district shall notify the pupil, the person holding the right to make educational decisions for the pupil, and the local educational agency liaison for homeless children and youth designated pursuant to Section 11432(g)(1)(J)(ii) of Title 42 of the United States Code, of the availability of the exemption and whether the pupil qualifies for an exemption.
+(B) If the school district fails to provide timely notice pursuant to subparagraph (A), the pupil described in subparagraph (A) shall be eligible for the exemption from local graduation requirements pursuant to this section once notified, even if that notification occurs after the pupil is no longer a homeless child or youth, if the pupil otherwise qualifies for the exemption pursuant to this section.
+(3) (A) Within 30 calendar days of the date that a former juvenile court school pupil may qualify for the exemption from local graduation requirements pursuant to this section transfers into a school, the school district shall notify the pupil, the person holding the right to make educational decisions for the pupil, and the pupil’s social worker or probation officer of the availability of the exemption and whether the pupil qualifies for an exemption.
+(B) If the school district fails to provide timely notice pursuant to subparagraph (A), the pupil described in subparagraph (A) shall be eligible for the exemption from local graduation requirements pursuant to this section once notified, even if that notification occurs after termination of the court’s jurisdiction over the pupil, if the pupil otherwise qualifies for the exemption pursuant to this section.
+(e) If a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is exempted from local graduation requirements pursuant to this section and completes the statewide coursework requirements specified in Section 51225.3 before the end of his or her fourth year of high school and that pupil would otherwise be entitled to remain in attendance at the school, a school or school district shall not require or request that the pupil graduate before the end of his or her fourth year of high school.
+(f) If a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is exempted from local graduation requirements pursuant to this section, the school district shall notify the pupil and the person holding the right to make educational decisions for the pupil how any of the requirements that are waived will affect the pupil’s ability to gain admission to a postsecondary educational institution and shall provide information about transfer opportunities available through the California Community Colleges.
+(g) A pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil who is eligible for the exemption from local graduation requirements pursuant to this section and would otherwise be entitled to remain in attendance at the school shall not be required to accept the exemption or be denied enrollment in, or the ability to complete, courses for which he or she is otherwise eligible, including courses necessary to attend an institution of higher education, regardless of whether those courses are required for statewide graduation requirements.
+(h) If a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is not exempted from local graduation requirements or has previously declined the exemption pursuant to this section, a school district shall exempt the pupil at any time if an exemption is requested by the pupil and the pupil qualifies for the exemption.
+(i) If a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is exempted from local graduation requirements pursuant to this section, a school district shall not revoke the exemption.
+(j) (1) If a pupil in foster care is exempted from local graduation requirements pursuant to this section, the exemption shall continue to apply after the termination of the court’s jurisdiction over the pupil while he or she is enrolled in school or if the pupil transfers to another school or school district.
+(2) If a pupil who is a homeless child or youth is exempted from local graduation requirements pursuant to this section, the exemption shall continue to apply after the pupil is no longer a homeless child or youth while he or she is enrolled in school or if the pupil transfers to another school or school district.
+(3) If a former juvenile court school pupil is exempted from local graduation requirements pursuant to this section, the exemption shall continue to apply after the termination of the court’s jurisdiction over the pupil while he or she is enrolled in school or if the pupil transfers to another school or school district.
+(k) A school district shall not require or request a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil to transfer schools in order to qualify the pupil for an exemption pursuant to this section.
+(l) (1) A pupil in foster care, the person holding the right to make educational decisions for the pupil, the pupil’s social worker, or the pupil’s probation officer shall not request a transfer solely to qualify the pupil for an exemption pursuant to this section.
+(2) A pupil who is a homeless child or youth, the person holding the right to make educational decisions for the pupil, or the local educational agency liaison for homeless children and youth designated pursuant to Section 11432(g)(1)(J)(ii) of Title 42 of the United States Code, shall not request a transfer solely to qualify the pupil for an exemption pursuant to this section.
+(3) A former juvenile court school pupil, the person holding the right to make educational decisions for the pupil, the pupil’s social worker, or the pupil’s probation officer shall not request a transfer solely to qualify the pupil for an exemption pursuant to this section.
+(m) (1) A complaint of noncompliance with the requirements of this section may be filed with the local educational agency under the Uniform Complaint Procedures set forth in Chapter 5.1 (commencing with Section 4600) of Division 1 of Title 5 of the California Code of Regulations.
+(2) A complainant not satisfied with the decision of a local educational agency may appeal the decision to the department pursuant to Chapter 5.1 (commencing with Section 4600) of Division 1 of Title 5 of the California Code of Regulations and shall receive a written decision regarding the appeal within 60 days of the department’s receipt of the appeal.
+(3) If a local educational agency finds merit in a complaint, or the Superintendent finds merit in an appeal, the local educational agency shall provide a remedy to the affected pupil.
+(4) Information regarding the requirements of this section shall be included in the annual notification distributed to, among others, pupils, parents or guardians of pupils, employees, and other interested parties pursuant to Section 4622 of Title 5 of the California Code of Regulations.
+SEC. 4.
+Section 51225.2 of the Education Code is amended to read:
+51225.2.
+(a) For purposes of this section, the following definitions apply:
+(1) “Pupil in foster care” means a child who has been removed from his or her home pursuant to Section 309 of the Welfare and Institutions Code, is the subject of a petition filed under Section 300 or 602 of the Welfare and Institutions Code, or has been removed from his or her home and is the subject of a petition filed under Section 300 or 602 of the Welfare and Institutions Code.
+(2) “Pupil who is a homeless child or youth” means a pupil who meets the definition of “homeless child or youth” in Section 11434a(2) of Title 42 of the United States Code.
+(3) “Former juvenile court school pupil” means a pupil who, upon completion of the pupil’s second year of high school, transfers to a school district, excluding a school district operated by the Division of Juvenile Justice of the Department of Corrections and Rehabilitation, from a juvenile court school.
+(b) Notwithstanding any other law, a school district and county office of education shall accept coursework satisfactorily completed by a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil while attending another public school, a juvenile court school, or a nonpublic, nonsectarian school or agency even if the pupil did not complete the entire course and shall issue that pupil full or partial credit for the coursework completed.
+(c) The credits accepted pursuant to subdivision (b) shall be applied to the same or equivalent course, if applicable, as the coursework completed in the prior public school, juvenile court school, or nonpublic, nonsectarian school or agency.
+(d) A school district or county office of education shall not require a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil to retake a course if the pupil has satisfactorily completed the entire course in a public school, a juvenile court school, or a nonpublic, nonsectarian school or agency. If the pupil did not complete the entire course, the school district or county office of education shall not require the pupil to retake the portion of the course the pupil completed unless the school district or county office of education, in consultation with the holder of educational rights for the pupil, finds that the pupil is reasonably able to complete the requirements in time to graduate from high school. When partial credit is awarded in a particular course, the pupil in foster care, the pupil who is a homeless child or youth, or the former juvenile court school pupil shall be enrolled in the same or equivalent course, if applicable, so that the pupil may continue and complete the entire course.
+(e) A pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil shall not be prevented from retaking or taking a course to meet the eligibility requirements for admission to the California State University or the University of California.
+(f) (1) A complaint of noncompliance with the requirements of this section may be filed with the local educational agency under the Uniform Complaint Procedures set forth in Chapter 5.1 (commencing with Section 4600) of Division 1 of Title 5 of the California Code of Regulations.
+(2) A complainant not satisfied with the decision of a local educational agency may appeal the decision to the department pursuant to Chapter 5.1 (commencing with Section 4600) of Division 1 of Title 5 of the California Code of Regulations and shall receive a written decision regarding the appeal within 60 days of the department’s receipt of the appeal.
+(3) If a local educational agency finds merit in a complaint, or the Superintendent finds merit in an appeal, the local educational agency shall provide a remedy to the affected pupil.
+(4) Information regarding the requirements of this section shall be included in the annual notification distributed to, among others, pupils, parents or guardians of pupils, employees, and other interested parties pursuant to Section 4622 of Title 5 of the California Code of Regulations.
+SEC. 5.
+If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.
+produced summary is: 
+The minimum schoolday for pupils in attendance court in approved vocational education programs, work programs prescribed by the probation department pursuant to Section 883 of the Welfare and Institutions Code, and work experience programs shall be 180 minutes, which shall be calculated on the basis of the average number of minutes of attendance during not more than 10 consecutive days in which classes are conducted. The county board of education shall adopt and enforce a course of study and evaluate its program in accordance with Sections 51040, 51041, 51050, and 51025.54 and the provisions of Article 3 (commencing with Section 51220) of Chapter 2 of Part 28, except subdivision (c) of Section 51220.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 48645.3 of the Education Code is amended to read:
+48645.3.
+(a) Juvenile court schools shall be conducted in a manner as shall be prescribed by the county board of education to best accomplish the provisions of Section 48645. The minimum schoolday shall be 240 minutes. Minimum schooldays shall be calculated on the basis of the average number of minutes of attendance during not more than 10 consecutive days in which classes are conducted. The minimum schoolday for pupils in attendance in approved vocational education programs, work programs prescribed by the probation department pursuant to Section 883 of the Welfare and Institutions Code, and work experience programs shall be 180 minutes, which shall be calculated on the basis of the average number of minutes of attendance during not more than 10 consecutive days in which classes are conducted. The county board of education shall adopt and enforce a course of study and evaluate its program in accordance with Sections 51040, 51041, 51050, and 51054 and the provisions of Article 3 (commencing with Section 51220) of Chapter 2 of Part 28, except subdivision (c) of Section 51220.
+(b) Juvenile court schools shall not be closed on any weekday of the calendar year, except those weekdays adopted by the county board of education as school holidays or set aside by the county board of education for inservice purposes. However, the county board of education may close juvenile court schools when it deems the closing is necessary to accommodate contingencies.
+(c) (1) The county board of education may adopt and enforce a course of study that enhances instruction in mathematics and English language arts for pupils attending juvenile court schools, as determined by statewide assessments or objective local evaluations and assessments as approved by the county superintendent of schools.
+(2) The enhanced course of study adopted pursuant to paragraph (1) shall meet the standards adopted pursuant to Section 60605.8, as appropriate, and shall be tailored to meet the needs of the individual pupil to increase the pupil’s academic literacy and reading fluency.
+(d) It is the intent of the Legislature that pupils in juvenile court schools have a rigorous curriculum that includes a course of study preparing them for high school graduation and career entry and fulfilling the requirements for admission to the University of California and the California State University.
+SEC. 2.
+Section 48645.5 of the Education Code is amended to read:
+48645.5.
+(a) Each public school district and county office of education shall accept for credit full or partial coursework satisfactorily completed by a pupil while attending a public school, juvenile court school, or nonpublic, nonsectarian school or agency. The coursework shall be transferred by means of the standard state transcript. If a pupil completes the graduation requirements of his or her school district of residence while being detained, the school district of residence shall issue to the pupil a diploma from the school the pupil last attended before detention or, in the alternative, the county superintendent of schools may issue the diploma.
+(b) A pupil shall not be denied enrollment or readmission to a public school solely on the basis that he or she has had contact with the juvenile justice system, including, but not limited to:
+(1) Arrest.
+(2) Adjudication by a juvenile court.
+(3) Formal or informal supervision by a probation officer.
+(4) Detention for any length of time in a juvenile facility or enrollment in a juvenile court school.
+(c) Pursuant to subparagraph (B) of paragraph (8) of subdivision (f) of Section 48853.5, a pupil who has had contact with the juvenile justice system shall be immediately enrolled in a public school.
+(d) If a pupil completes the statewide coursework requirements for graduation specified in Section 51225.3 while attending a juvenile court school, the county office of education shall issue to the pupil a diploma of graduation and shall not require the pupil to complete coursework or other requirements that are in addition to the statewide coursework requirements.
+SEC. 3.
+Section 51225.1 of the Education Code is amended to read:
+51225.1.
+(a) Notwithstanding any other law, a school district shall exempt a pupil in foster care, as defined in Section 51225.2, a pupil who is a homeless child or youth, as defined in Section 11434a(2) of Title 42 of the United States Code, or a former juvenile court school pupil, as defined in Section 51225.2, who transfers between schools any time after the completion of the pupil’s second year of high school from all coursework and other requirements adopted by the governing board of the school district that are in addition to the statewide coursework requirements specified in Section 51225.3, unless the school district makes a finding that the pupil is reasonably able to complete the school district’s graduation requirements in time to graduate from high school by the end of the pupil’s fourth year of high school.
+(b) If the school district determines that the pupil in foster care, the pupil who is a homeless child or youth, or the former juvenile court school pupil is reasonably able to complete the school district’s graduation requirements within the pupil’s fifth year of high school, the school district shall do all of the following:
+(1) Inform the pupil of his or her option to remain in school for a fifth year to complete the school district’s graduation requirements.
+(2) Inform the pupil, and the person holding the right to make educational decisions for the pupil, about how remaining in school for a fifth year to complete the school district’s graduation requirements will affect the pupil’s ability to gain admission to a postsecondary educational institution.
+(3) Provide information to the pupil about transfer opportunities available through the California Community Colleges.
+(4) Permit the pupil to stay in school for a fifth year to complete the school district’s graduation requirements upon agreement with the pupil, if the pupil is 18 years of age or older, or, if the pupil is under 18 years of age, upon agreement with the person holding the right to make educational decisions for the pupil.
+(c) To determine whether a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is in the third or fourth year of high school, either the number of credits the pupil has earned to the date of transfer or the length of the pupil’s school enrollment may be used, whichever will qualify the pupil for the exemption.
+(d) (1) (A) Within 30 calendar days of the date that a pupil in foster care who may qualify for the exemption from local graduation requirements pursuant to this section transfers into a school, the school district shall notify the pupil, the person holding the right to make educational decisions for the pupil, and the pupil’s social worker or probation officer of the availability of the exemption and whether the pupil qualifies for an exemption.
+(B) If the school district fails to provide timely notice pursuant to subparagraph (A), the pupil described in subparagraph (A) shall be eligible for the exemption from local graduation requirements pursuant to this section once notified, even if that notification occurs after the termination of the court’s jurisdiction over the pupil, if the pupil otherwise qualifies for the exemption pursuant to this section.
+(2) (A) Within 30 calendar days of the date that a pupil who is a homeless child or youth may qualify for the exemption from local graduation requirements pursuant to this section transfers into a school, the school district shall notify the pupil, the person holding the right to make educational decisions for the pupil, and the local educational agency liaison for homeless children and youth designated pursuant to Section 11432(g)(1)(J)(ii) of Title 42 of the United States Code, of the availability of the exemption and whether the pupil qualifies for an exemption.
+(B) If the school district fails to provide timely notice pursuant to subparagraph (A), the pupil described in subparagraph (A) shall be eligible for the exemption from local graduation requirements pursuant to this section once notified, even if that notification occurs after the pupil is no longer a homeless child or youth, if the pupil otherwise qualifies for the exemption pursuant to this section.
+(3) (A) Within 30 calendar days of the date that a former juvenile court school pupil may qualify for the exemption from local graduation requirements pursuant to this section transfers into a school, the school district shall notify the pupil, the person holding the right to make educational decisions for the pupil, and the pupil’s social worker or probation officer of the availability of the exemption and whether the pupil qualifies for an exemption.
+(B) If the school district fails to provide timely notice pursuant to subparagraph (A), the pupil described in subparagraph (A) shall be eligible for the exemption from local graduation requirements pursuant to this section once notified, even if that notification occurs after termination of the court’s jurisdiction over the pupil, if the pupil otherwise qualifies for the exemption pursuant to this section.
+(e) If a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is exempted from local graduation requirements pursuant to this section and completes the statewide coursework requirements specified in Section 51225.3 before the end of his or her fourth year of high school and that pupil would otherwise be entitled to remain in attendance at the school, a school or school district shall not require or request that the pupil graduate before the end of his or her fourth year of high school.
+(f) If a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is exempted from local graduation requirements pursuant to this section, the school district shall notify the pupil and the person holding the right to make educational decisions for the pupil how any of the requirements that are waived will affect the pupil’s ability to gain admission to a postsecondary educational institution and shall provide information about transfer opportunities available through the California Community Colleges.
+(g) A pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil who is eligible for the exemption from local graduation requirements pursuant to this section and would otherwise be entitled to remain in attendance at the school shall not be required to accept the exemption or be denied enrollment in, or the ability to complete, courses for which he or she is otherwise eligible, including courses necessary to attend an institution of higher education, regardless of whether those courses are required for statewide graduation requirements.
+(h) If a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is not exempted from local graduation requirements or has previously declined the exemption pursuant to this section, a school district shall exempt the pupil at any time if an exemption is requested by the pupil and the pupil qualifies for the exemption.
+(i) If a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil is exempted from local graduation requirements pursuant to this section, a school district shall not revoke the exemption.
+(j) (1) If a pupil in foster care is exempted from local graduation requirements pursuant to this section, the exemption shall continue to apply after the termination of the court’s jurisdiction over the pupil while he or she is enrolled in school or if the pupil transfers to another school or school district.
+(2) If a pupil who is a homeless child or youth is exempted from local graduation requirements pursuant to this section, the exemption shall continue to apply after the pupil is no longer a homeless child or youth while he or she is enrolled in school or if the pupil transfers to another school or school district.
+(3) If a former juvenile court school pupil is exempted from local graduation requirements pursuant to this section, the exemption shall continue to apply after the termination of the court’s jurisdiction over the pupil while he or she is enrolled in school or if the pupil transfers to another school or school district.
+(k) A school district shall not require or request a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil to transfer schools in order to qualify the pupil for an exemption pursuant to this section.
+(l) (1) A pupil in foster care, the person holding the right to make educational decisions for the pupil, the pupil’s social worker, or the pupil’s probation officer shall not request a transfer solely to qualify the pupil for an exemption pursuant to this section.
+(2) A pupil who is a homeless child or youth, the person holding the right to make educational decisions for the pupil, or the local educational agency liaison for homeless children and youth designated pursuant to Section 11432(g)(1)(J)(ii) of Title 42 of the United States Code, shall not request a transfer solely to qualify the pupil for an exemption pursuant to this section.
+(3) A former juvenile court school pupil, the person holding the right to make educational decisions for the pupil, the pupil’s social worker, or the pupil’s probation officer shall not request a transfer solely to qualify the pupil for an exemption pursuant to this section.
+(m) (1) A complaint of noncompliance with the requirements of this section may be filed with the local educational agency under the Uniform Complaint Procedures set forth in Chapter 5.1 (commencing with Section 4600) of Division 1 of Title 5 of the California Code of Regulations.
+(2) A complainant not satisfied with the decision of a local educational agency may appeal the decision to the department pursuant to Chapter 5.1 (commencing with Section 4600) of Division 1 of Title 5 of the California Code of Regulations and shall receive a written decision regarding the appeal within 60 days of the department’s receipt of the appeal.
+(3) If a local educational agency finds merit in a complaint, or the Superintendent finds merit in an appeal, the local educational agency shall provide a remedy to the affected pupil.
+(4) Information regarding the requirements of this section shall be included in the annual notification distributed to, among others, pupils, parents or guardians of pupils, employees, and other interested parties pursuant to Section 4622 of Title 5 of the California Code of Regulations.
+SEC. 4.
+Section 51225.2 of the Education Code is amended to read:
+51225.2.
+(a) For purposes of this section, the following definitions apply:
+(1) “Pupil in foster care” means a child who has been removed from his or her home pursuant to Section 309 of the Welfare and Institutions Code, is the subject of a petition filed under Section 300 or 602 of the Welfare and Institutions Code, or has been removed from his or her home and is the subject of a petition filed under Section 300 or 602 of the Welfare and Institutions Code.
+(2) “Pupil who is a homeless child or youth” means a pupil who meets the definition of “homeless child or youth” in Section 11434a(2) of Title 42 of the United States Code.
+(3) “Former juvenile court school pupil” means a pupil who, upon completion of the pupil’s second year of high school, transfers to a school district, excluding a school district operated by the Division of Juvenile Justice of the Department of Corrections and Rehabilitation, from a juvenile court school.
+(b) Notwithstanding any other law, a school district and county office of education shall accept coursework satisfactorily completed by a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil while attending another public school, a juvenile court school, or a nonpublic, nonsectarian school or agency even if the pupil did not complete the entire course and shall issue that pupil full or partial credit for the coursework completed.
+(c) The credits accepted pursuant to subdivision (b) shall be applied to the same or equivalent course, if applicable, as the coursework completed in the prior public school, juvenile court school, or nonpublic, nonsectarian school or agency.
+(d) A school district or county office of education shall not require a pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil to retake a course if the pupil has satisfactorily completed the entire course in a public school, a juvenile court school, or a nonpublic, nonsectarian school or agency. If the pupil did not complete the entire course, the school district or county office of education shall not require the pupil to retake the portion of the course the pupil completed unless the school district or county office of education, in consultation with the holder of educational rights for the pupil, finds that the pupil is reasonably able to complete the requirements in time to graduate from high school. When partial credit is awarded in a particular course, the pupil in foster care, the pupil who is a homeless child or youth, or the former juvenile court school pupil shall be enrolled in the same or equivalent course, if applicable, so that the pupil may continue and complete the entire course.
+(e) A pupil in foster care, a pupil who is a homeless child or youth, or a former juvenile court school pupil shall not be prevented from retaking or taking a course to meet the eligibility requirements for admission to the California State University or the University of California.
+(f) (1) A complaint of noncompliance with the requirements of this section may be filed with the local educational agency under the Uniform Complaint Procedures set forth in Chapter 5.1 (commencing with Section 4600) of Division 1 of Title 5 of the California Code of Regulations.
+(2) A complainant not satisfied with the decision of a local educational agency may appeal the decision to the department pursuant to Chapter 5.1 (commencing with Section 4600) of Division 1 of Title 5 of the California Code of Regulations and shall receive a written decision regarding the appeal within 60 days of the department’s receipt of the appeal.
+(3) If a local educational agency finds merit in a complaint, or the Superintendent finds merit in an appeal, the local educational agency shall provide a remedy to the affected pupil.
+(4) Information regarding the requirements of this section shall be included in the annual notification distributed to, among others, pupils, parents or guardians of pupils, employees, and other interested parties pursuant to Section 4622 of Title 5 of the California Code of Regulations.
+SEC. 5.
+If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.
+r1 score is: 
+0.0614540466392318
+==================================
+target summary is: 
+(1) Existing law creates the California Insurance Guarantee Association (CIGA) and requires all insurers admitted to transact specified insurance lines in this state to become members. Each time an insurer becomes insolvent, to the extent necessary to secure funds for payment of covered claims of that insolvent insurer and also for payment of reasonable costs of adjusting the claims, CIGA is required to collect premium payments from its member insurers sufficient to discharge its obligations, as specified.
+This bill, among other things, would no longer require an insurer to become insolvent in order for CIGA to collect premium payments from the member insurers and would require CIGA to collect premiums in order to secure funds for the payment of its administrative expenses.
+(2) Under existing law, CIGA is required to be a party in interest in all proceedings involving a covered claim, and has the same rights as the insolvent insurer would have had if not in liquidation, but CIGA has no cause of action against the insureds of the insolvent insurer for any sums it has paid out, except as provided.
+This bill would provide that the above-stated provision denying CIGA a cause of action against insureds does not limit CIGA’s right to pursue unpaid reimbursements owed by an employer pursuant to a workers’ compensation insurance policy with a deductible if the employer was obligated to reimburse the insurer for benefits payments and related expenses paid by the insurer or CIGA from a special deposit or from other CIGA funds pursuant to the terms of the policy and related agreements.
+(3) Existing law requires that the rate of premium charged be a uniform percentage of net direct written premium, as defined, in the preceding calendar year applicable to specific categories of insurance. The rate of premium charges to each member insurer in the appropriate categories are initially based on the written premium of each insurer as shown in the latest year’s annual financial statement on file with the Insurance Commissioner and are later adjusted, as provided. Existing law authorizes CIGA to refund any credit due in a specific category of insurance to a member insurer as a result of the adjusted premium calculation, as provided.
+This bill would instead require CIGA, with regard to premium charges paid prior to January 1, 2017, to refund to a member insurer any credit due in a specific category as a result of the adjusted premium calculation.
+This bill, with regard to premium charges paid on or after January 1, 2017, would delete the requirements that the rate of premium charges be initially based on the written premium of each insurer, that the premium charges be adjusted later as provided, and that the member insurer be eligible for a refund of any credit due to that member insurer as a result of the adjusted premium calculation, and would instead require that the rate of premium charges to each member insurer in the appropriate categories be based on the net direct written premium of each insurer as shown in the latest year’s annual financial statement on file with the commissioner. The bill would also make conforming changes.
+(4) Existing law authorizes CIGA to exempt or defer a member insurer from paying the premium charge if the payment would cause the member insurer’s financial statement to reflect an amount of capital or surplus less than the minimum amounts required for a certificate of authority by any jurisdiction in which the member insurer is authorized to transact insurance. Deferred premium charges are required to be paid when the payment will not reduce capital or surplus below required minimums. These payments are credited against future premium charges to those companies receiving larger premium charges by virtue of the deferment.
+This bill would delete the requirement that the payments be credited against future premium charges to those companies receiving larger premium charges by virtue of the deferment.
+(5) Existing law requires CIGA’s plan of operations to contain provisions requiring each member insurer to recoup the premium charge paid to CIGA from its insureds over a reasonable length of time by way of a reasonably calculated surcharge on insurance policies to which the provisions of CIGA apply.
+This bill would instead require each member insurer to recoup the premium charge from its insureds in the year following the charge. The bill, with regard to premium charges paid on or after January 1, 2017, among other things, would require the member insurer to file a report in accordance with the provisions of the plan of operation indicating the amount of surcharges it has collected, and would prohibit a member insurer electing to omit collecting surcharges from any of its insureds from being entitled to any reimbursement from CIGA, as specified.
+produced summary is: 
+Any person having a claim that may be recovered under more than one insurance guaranty association or its equivalent shall seek recovery first from the association of the place of residence of the insured, except that if it is a first-party claim for damage to property with a permanent location, he or she shall seek recovery first from the association of the permanent location of the property, and if it is a workers’ compensation claim, he or she shall seek recovery first from the association of the residence of the claimant.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 1063.2 of the Insurance Code is amended to read:
+1063.2.
+(a) The association shall pay and discharge covered claims, and in connection therewith, pay for or furnish loss adjustment services and defenses of claimants when required by policy provisions. It may do so either directly by itself or through a servicing facility or through a contract for reinsurance and assumption of liabilities by one or more member insurers or through a contract with the liquidator, upon terms satisfactory to the association and to the liquidator, under which payments on covered claims would be made by the liquidator using funds provided by the association.
+(b) (1) The association shall be a party in interest in all proceedings involving a covered claim, and shall have the same rights as the insolvent insurer would have had if not in liquidation, including, but not limited to, the right to all of the following:
+(A) Appear, defend, and appeal a claim in a court of competent jurisdiction.
+(B) Receive notice of, investigate, adjust, compromise, settle, and pay a covered claim.
+(C) Investigate, handle, and deny a noncovered claim.
+(2) The association shall have no cause of action against the insureds of the insolvent insurer for any sums it has paid out, except as provided by this article.
+(3) Nothing in paragraph (2) limits the association’s right to pursue unpaid reimbursements owed by an employer pursuant to a workers’ compensation insurance policy with a deductible if the employer was obligated to reimburse the insurer for benefits payments and related expenses paid by the insurer or the association from a special deposit or from other association funds pursuant to the terms of the policy and related agreements.
+(c) (1) If damages against uninsured motorists are recoverable by the claimant from his or her own insurer, the applicable limits of the uninsured motorist coverage shall be a credit against a covered claim payable under this article. Any person having a claim that may be recovered under more than one insurance guaranty association or its equivalent shall seek recovery first from the association of the place of residence of the insured, except that if it is a first-party claim for damage to property with a permanent location, he or she shall seek recovery first from the association of the permanent location of the property, and if it is a workers’ compensation claim, he or she shall seek recovery first from the association of the residence of the claimant. Any recovery under this article shall be reduced by the amount of recovery from any other insurance guaranty association or its equivalent. A member insurer may recover in subrogation from the association only one-half of any amount paid by that insurer under uninsured motorist coverage for bodily injury or wrongful death (and nothing for a payment for anything else), in those cases where the injured person insured by such an insurer has proceeded under his or her uninsured motorist coverage on the ground that the tortfeasor is uninsured as a result of the insolvency of his or her liability insurer (an insolvent insurer as defined in this article), provided that the member insurer shall waive all rights of subrogation against the tortfeasor. Any amount paid a claimant in excess of the amount authorized by this section may be recovered by action, or other proceeding, brought by the association.
+(2) Any claimant having collision coverage on a loss that is covered by the insolvent company’s liability policy shall first proceed against his or her collision carrier. Neither that claimant nor the collision carrier, if it is a member of the association, shall have the right to sue or continue a suit against the insured of the insolvent insurance company for that collision damage.
+(d) The association shall have the right to recover from any person who is an affiliate of the insolvent insurer and whose liability obligations to other persons are satisfied in whole or in part by payments made under this article the amount of any covered claim and allocated claims expense paid on behalf of that person pursuant to this article.
+(e) Any person having a claim or legal right of recovery under any governmental insurance or guaranty program that is also a covered claim, shall be required to first exhaust his or her right under the program. Any amount payable on a covered claim shall be reduced by the amount of any recovery under the program.
+(f) “Covered claims” for unearned premium by lenders under insurance premium finance agreements as defined in Section 673 shall be computed as of the earliest cancellation date of the policy pursuant to Section 673.
+(g) “Covered claims” shall not include any judgments against or obligations or liabilities of the insolvent insurer or the commissioner, as liquidator, or otherwise resulting from alleged or proven torts, nor shall any default judgment or stipulated judgment against the insolvent insurer, or against the insured of the insolvent insurer, be binding against the association.
+(h) “Covered claims” shall not include any loss adjustment expenses, including adjustment fees and expenses, attorney’s fees and expenses, court costs, interest, and bond premiums, incurred prior to the appointment of a liquidator.
+SEC. 2.
+Section 1063.5 of the Insurance Code is amended and renumbered, to immediately precede Section 1063.5 of the Insurance Code, to read:
+1063.45.
+(a) (1) To the extent necessary to secure funds for the association for payment of administrative expenses of the association and covered claims of insolvent insurers and also for payment of reasonable costs of adjusting the claims, the association shall collect premium payments from its member insurers sufficient to discharge its obligations.
+(2) The association shall allocate its claim payments and costs, incurred or estimated to be incurred, to one or more of the following categories:
+(A) Workers’ compensation claims.
+(B) Homeowners’ claims and automobile claims, including all of the following:
+(i) Automobile material damage.
+(ii) Automobile liability (both personal injury and death and property damage).
+(iii) Medical payments.
+(iv) Uninsured motorist claims.
+(C) Claims other than workers’ compensation, homeowners, and automobile, as defined above.
+(3) Separate premium payments shall be required for each category.
+(4) The premium payments for each category shall be used to pay the claims and costs allocated to that category.
+(b) (1) The rate of premium charged shall be a uniform percentage of net direct written premium in the preceding calendar year applicable to that category.
+(2) The rate of premium charges to each member insurer in the appropriate categories shall initially be based on the written premium of each insurer as shown in the latest year’s annual financial statement on file with the commissioner.
+(3) The initial premium shall be adjusted by applying the same rate of premium charge as initially used to each insurer’s written premium as shown on the annual statement for the second year following the year on which the initial premium charge was based.
+(4) (A) The difference between the initial premium charge and the adjusted premium charge shall be charged or credited to each member insurer by the association as soon as practical after the filing of the annual statements of the member insurers with the commissioner for the year on which the adjusted premium is based.
+(B) Any credit due in a specific category to a member insurer as a result of the adjusted premium calculation shall be refunded to the member insurer.
+(c) (1) For purposes of this section, “net direct written premiums” means the amount of gross premiums, less return premiums, received in that calendar year upon business done in this state, other than premiums received for reinsurance.
+(2) In cases of a dispute as to the amount of the net direct written premium between the association and one of its member insurers, the written decision of the commissioner shall be final.
+(d) (1) The premium charged to any member insurer for any of the three categories or a category established by the association shall not be more than 2 percent of the net direct premium written in that category in this state by that member insurer per year, starting on January 1, 2003, until December 31, 2007, and thereafter shall be 1 percent per year, until January 1, 2015.
+(2) Commencing January 1, 2015, the premium charged to any member insurer for any of the three categories or a category established by the association shall not be more than 2 percent of the net direct written premium unless there are bonds outstanding that were issued pursuant to Article 14.25 (commencing with Section 1063.50) or Article 14.26 (commencing with Section 1063.70).
+(3) If bonds issued pursuant to either article are outstanding, the premium charged to a member insurer for the category for which the bond proceeds are being used to pay claims and expenses shall not be more than 1 percent of the net direct written premium for that category.
+(e) (1) The association may exempt or defer, in whole or in part, the premium charge of any member insurer, if the premium charge would cause the member insurer’s financial statement to reflect an amount of capital or surplus less than the minimum amounts required for a certificate of authority by any jurisdiction in which the member insurer is authorized to transact insurance. However, during the period of deferment, no dividends shall be paid to shareholders or policyholders by the company whose premium charge was deferred.
+(2) Deferred premium charges shall be paid when the payment will not reduce capital or surplus below required minimums.
+(f) After all covered claims of the insolvent insurer and expenses of administration have been paid, any unused premiums and any reimbursements or claims dividends from the liquidator remaining in any category shall be retained by the association and applied to reduce future premium charges in the appropriate category.
+(g) The commissioner may suspend or revoke the certificate of authority to transact business in this state of a member insurer that fails to pay a premium when due and after demand has been made.
+(h) Interest at a rate equal to the current federal reserve discount rate plus 2
+1/2
+percent per annum shall be added to the premium of any member insurer that fails to submit the premium requested by the association within 30 days after the mailing request. However, in no event shall the interest rate exceed the legal maximum.
+(i) This section shall apply only to premium charges paid prior to January 1, 2017.
+(j) This section shall remain in effect only until January 1, 2020, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2020, deletes or extends that date.
+SEC. 3.
+Section 1063.5 is added to the Insurance Code, to read:
+1063.5.
+(a) (1) To the extent necessary to secure funds for the association for payment of the administrative expenses of the association, covered claims of insolvent insurers, and for payment of reasonable costs of adjusting the claims, the association shall collect premium payments from its member insurers sufficient to discharge its obligations.
+(2) The association shall allocate its claim payments and costs, incurred or estimated to be incurred, to one or more of the following categories:
+(A) Workers’ compensation claims.
+(B) Homeowners’ claims and automobile claims, including all of the following:
+(i) Automobile material damage.
+(ii) Automobile liability (both personal injury and death and property damage).
+(iii) Medical payments.
+(iv) Uninsured motorist claims.
+(C) Claims other than workers’ compensation, homeowners’, and automobile, as defined above.
+(3) Separate premium payments shall be required for each category.
+(4) The premium payments for each category shall be used to pay the claims and costs allocated to that category.
+(b) (1) The rate of premium charged shall be a uniform percentage of net direct written premium in the preceding calendar year applicable to that category.
+(2) The rate of premium charges to each member insurer in the appropriate categories shall be based on the net direct written premium of each member insurer as shown in the latest year’s annual financial statement on file with the commissioner.
+(c) (1) For purposes of this section, “net direct written premiums” means the amount of gross premiums, less return premiums, received in that calendar year upon business done in this state, other than premiums received for reinsurance.
+(2) In cases of a dispute as to the amount of the net direct written premium between the association and one of its member insurers, the written decision of the commissioner shall be final.
+(d) In charging premiums to member insurers, the association shall adjust, if necessary, the net direct written premiums shown on a member insurer’s annual statement by excluding any premiums written for any lines of insurance or types of coverage not covered by this article under paragraph (3) of subdivision (c) of Section 1063.1.
+(e) (1) The premium charged to any member insurer for any of the three categories or a category established by the association shall not be more than 2 percent of the net direct written premium unless there are bonds outstanding that were issued pursuant to Article 14.25 (commencing with Section 1063.50) or Article 14.26 (commencing with Section 1063.70).
+(2) If bonds issued pursuant to either article are outstanding, the premium charged to a member insurer for the category for which the bond proceeds are being used to pay claims and expenses shall not be more than 1 percent of the net direct written premium for that category.
+(f) (1) The association may exempt or defer, in whole or in part, the premium charge of any member insurer, if the premium charge would cause the member insurer’s financial statement to reflect an amount of capital or surplus less than the minimum amounts required for a certificate of authority by any jurisdiction in which the member insurer is authorized to transact insurance. However, during the period of deferment, no dividends shall be paid to shareholders or policyholders by the company whose premium charge was deferred.
+(2) Deferred premium charges shall be paid when the payment will not reduce capital or surplus below required minimums.
+(g) After all covered claims of insolvent insurers and expenses of administration have been paid, any unused premiums and any reimbursements or claims dividends from liquidators remaining in any category shall be retained by the association and applied to reduce future premium charges in the appropriate category.
+(h) The commissioner may suspend or revoke the certificate of authority to transact business in this state of a member insurer that fails to pay a premium when due and after demand has been made.
+(i) Interest at a rate equal to the current federal reserve discount rate plus 2
+1/2
+percent per annum shall be added to the premium of any member insurer that fails to submit the premium requested by the association within 30 days after the mailing request. However, in no event shall the interest rate exceed the legal maximum.
+(j) This section shall apply only to premium charges paid on or after January 1, 2017.
+SEC. 4.
+Section 1063.14 of the Insurance Code is amended and renumbered, to immediately precede Section 1063.14 of the Insurance Code, to read:
+1063.135.
+(a) The plan of operation adopted pursuant to subdivision (c) of Section 1063 shall contain provisions whereby each member insurer is required to recoup in the year following the premium charge a sum reasonably calculated to recoup the premium charge paid by the member insurer under this article by way of a surcharge on premiums charged for insurance policies to which this article applies. Amounts recouped shall not be considered premiums for any other purpose, including the computation of gross premium tax or agents’ commission.
+(b) The amount of any surcharge shall be separately stated on either a billing or policy declaration sent to an insured. The association shall determine the rate of the surcharge and the collection period for each category and these shall be mandatory for all member insurers of the association who write business in those categories. Member insurers who collect surcharges in excess of premiums paid pursuant to Section 1063.45 for an insolvent insurer shall remit the excess to the association as an additional premium within 30 days after the association has determined the amount of the excess recoupment and given notice to the member insurer of that amount. The excess shall be applied to reduce future premium charges in the appropriate category.
+(c) The plan of operation may permit a member insurer to omit collection of the surcharge from its insureds when the expense of collecting the surcharge would exceed the amount of the surcharge. However, nothing in this section shall relieve the member insurer of its obligation to recoup the amount of surcharge otherwise collectible.
+(d) This section shall apply only to premium charges paid prior to January 1, 2017.
+(e) This section shall remain in effect only until January 1, 2020, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2020, deletes or extends that date.
+SEC. 5.
+Section 1063.14 is added to the Insurance Code, to read:
+1063.14.
+(a) (1) The plan of operation adopted pursuant to subdivision (c) of Section 1063 shall contain provisions whereby each member insurer is required to recoup in the year following the premium charge a sum calculated to recoup the premium charge paid by the member insurer under this article by way of a surcharge on premiums charged for insurance policies to which this article applies.
+(2) Amounts recouped shall not be considered premiums for any other purpose, including the computation of gross premium tax or agents’ commission.
+(b) (1) The amount of any surcharge shall be separately stated on either a billing or policy declaration sent to an insured. The association shall determine the rate of the surcharge and the collection period for each category, and these shall be mandatory for all member insurers of the association who write business in those categories.
+(2) Each member insurer shall file a report in accordance with the provisions of the plan of operation indicating the amount of surcharges it has collected.
+(A) Member insurers who collect surcharges in excess of premium charges paid in the preceding year pursuant to Section 1063.5 shall remit the excess to the association as an additional premium within 30 days after the association has determined the amount of the excess recoupment and given notice to the member insurer of that amount. The excess shall be applied to reduce future premium charges in the appropriate category.
+(B) Member insurers who report surcharge collections that are less than what they paid in the preceding year’s premium charge shall receive reimbursement from the association for the shortfall in surcharge collection.
+(c) (1) The plan of operation may permit a member insurer to omit collection of the surcharge from its insureds when the expense of collecting the surcharge would exceed the amount of the surcharge.
+(2) A member insurer electing to omit collecting surcharges from any of its insureds shall not be entitled to any reimbursement from the association pursuant to subdivision (b).
+(3) However, nothing in this section shall relieve the member insurer of its obligation to recoup the amount of surcharge otherwise collectible.
+(d) This section shall apply only to premium charges paid on or after January 1, 2017.
+r1 score is: 
+0.1216216216216216
+==================================
+target summary is: 
+(1) Existing law prohibits a nonprofit organization or an officer, employee, or agent of a nonprofit organization from using, or permitting another to use, public resources received from a local agency for any campaign activity not authorized by law. Existing law authorizes the Attorney General, any district attorney, or any city attorney of a city with a population over 750,000 to bring a civil action to recover a civil penalty against any person who intentionally or negligently violates that prohibition.
+This bill would clarify that the prohibition applies to making contributions or expenditures not authorized by law, and would specify certain expenditures authorized by law that are not subject to the prohibition.
+(2) Existing law requires a reporting nonprofit organization that engages in campaign activity to deposit into a separate bank account all specific sources of funds it receives and to pay for all campaign activity from that separate bank account. Existing law defines “reporting nonprofit organization” as a nonprofit organization for which public resources from one or more local agencies account for more than 20% of the nonprofit organization’s annual gross revenue, as specified.
+Existing law requires a reporting nonprofit organization that engages in campaign activity of specified amounts or more to periodically disclose to the Franchise Tax Board, and post on its Internet Web site in a certain manner, the identity and amount of each specific source or sources of funds it receives for campaign activity, a description of the campaign activity, and the identity and amount of payments the organization makes from the required separate bank account. Existing law authorizes, and in some instances requires, the Franchise Tax Board to audit a reporting nonprofit organization, requires the board to issue a written audit report, and requires the board to transmit the audit report to the Attorney General and the district attorney for the county in which the reporting nonprofit organization is domiciled. Existing law authorizes the Attorney General or the district attorney for the county in which the reporting nonprofit organization is domiciled to impose a monetary civil penalty of up to $10,000 against a reporting nonprofit organization for misusing public resources received from a local agency, as described in (1), for failing to maintain the separate bank account, or for not complying with the disclosure requirements described above.
+This bill would recast and relocate those provisions within the Political Reform Act of 1974, thereby making the Fair Political Practices Commission responsible for their administration and enforcement, except as specified. The bill would change the term “reporting nonprofit organization” to “publicly funded nonprofit organization,” defined as a nonprofit organization for which public resources from one or more local agencies account for more than 20% of the nonprofit organization’s annual gross revenue, as specified. The bill would require certain publicly funded nonprofit organizations to register as recipient committees and file the campaign statements that those committees are required to file under the act. This bill would shift the Franchise Tax Board’s authority and duties under these provisions to the Commission and would authorize the Commission, in addition to the Attorney General or the district attorney, to impose the monetary civil penalty of up to $10,000 against a publicly funded nonprofit organization.
+The Political Reform Act of 1974 makes a willful violation of its provisions a misdemeanor. By expanding the scope of an existing crime, this bill would impose a state-mandated local program.
+The California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures for making that reimbursement.
+This bill would provide that no reimbursement is required by this act for a specified reason.
+The Political Reform Act of 1974, an initiative measure, provides that the Legislature may amend the act to further the act’s purposes upon a
+2/3
+vote of each house and compliance with specified procedural requirements.
+This bill would declare that it furthers the purposes of the act.
+produced summary is: 
+(b) As used in this section and Section 84222.5, the following terms have the following meanings: (1) “Local agency” has the same meaning as that term is defined in paragraph (4) of subdivision (b) of Section 54964 and shall also include a public entity created pursuant to the Joint Exercise of Powers Act (Chapter 5 (commencing with Section 6500) of Division 7 of Title 1) by one or more entities described in Section 54964. (2) “Nonprofit organization” means an entity incorporated under the Nonprofit Corporation Law (Division 2 (commencing with Section 5000) of Title 1 of the Corporations Code) or a nonprofit organization that qualifies for tax-exempt status under Section 115 or 501(c) of the federal Internal Revenue Code.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 54964.5 of the Government Code is amended to read:
+54964.5.
+(a) A nonprofit organization or an officer, employee, or agent of a nonprofit organization shall not use, or permit another to use, public resources received from any local agency to make a contribution or expenditure not authorized by law.
+(b) As used in this section and Section 84222.5, the following terms have the following meanings:
+(1) “Local agency” has the same meaning as that term is defined in paragraph (4) of subdivision (b) of Section 54964 and shall also include a public entity created pursuant to the Joint Exercise of Powers Act (Chapter 5 (commencing with Section 6500) of Division 7 of Title 1) by one or more entities described in Section 54964.
+(2) “Nonprofit organization” means an entity incorporated under the Nonprofit Corporation Law (Division 2 (commencing with Section 5000) of Title 1 of the Corporations Code) or a nonprofit organization that qualifies for tax-exempt status under Section 115 or 501(c) of the federal Internal Revenue Code. “Nonprofit organization” does not include a nonprofit organization that qualifies for tax-exempt status under Section 501(c)(3) of the federal Internal Revenue Code.
+(3) “Public resources” means either of the following:
+(A) Any property or asset owned by a local agency, including, but not limited to, cash, land, buildings, facilities, funds, equipment, supplies, telephones, computers, vehicles, travel, and local government compensated work time that is provided to a nonprofit organization, except funds received in exchange for consideration for goods or services.
+(B) Funds received by a nonprofit organization that have been generated from any activities related to conduit bond financing by those entities subject to the conduit financing and transparency and accountability provisions of Chapter 10.7 (commencing with Section 5870) of Division 6 of Title 1, whether or not those funds are received by the nonprofit organization in exchange for consideration for goods or services.
+(4) “Publicly funded nonprofit organization” means a nonprofit organization for which public resources from one or more local agencies account for more than 20 percent of the nonprofit organization’s annual gross revenue in the current fiscal year or either of the previous two fiscal years.
+(5) “Use” means a use of public resources from one or more local agencies that is substantial enough to result in a gain or advantage to the user or a loss to a local agency for which a monetary value may be estimated.
+(c) This section does not prohibit the use of public resources for expenditures authorized by law, including all of the following:
+(1) The costs of adopting a position or resolution supporting or opposing a clearly identified ballot measure or candidate, including posting the position or resolution on the nonprofit organization’s Internet Web site, communicating the position or resolution to members of the nonprofit organization, or issuing a press statement.
+(2) Incidental or minimal use of public resources.
+(3) Incidental costs related to the establishment or administration of a sponsored committee, as defined in Section 82048.7. A reasonable accounting method may be used to determine the use of nonpublic resources to pay for that cost. For purposes of this paragraph, “establishment and administration” means the cost of office space, telephones, salaries, utilities, supplies, legal and accounting fees, and other expenses incurred in establishing and operating a sponsored committee.
+(4) Providing information to the public about the possible effects of a ballot measure on the activities, operations, or policies of the state or a local agency if the informational activities meet both of the following conditions:
+(A) The informational activities are not otherwise prohibited by the California Constitution or the laws of this state.
+(B) The information provided constitutes an accurate, fair, and impartial presentation of relevant facts to aid the electorate in reaching an informed judgment regarding the ballot measure.
+(d) (1) Any person who intentionally or negligently violates this section is liable for a civil penalty not to exceed one thousand dollars ($1,000) for each day on which a violation occurs, plus three times the value of the unlawful use of public resources. The penalty shall be assessed and recovered in a civil action brought in the name of the people of the State of California by the Attorney General or by any district attorney or any city attorney of a city having a population in excess of 750,000. If two or more persons are responsible for a violation, they shall be jointly and severally liable for the penalty. If the action is brought by the Attorney General, the moneys recovered shall be paid into the General Fund. If the action is brought by a district attorney, the moneys recovered shall be paid to the treasurer of the county in which the judgment was entered. If the action is brought by a city attorney, the moneys recovered shall be paid to the treasury of that city.
+(2) A civil action alleging a violation of this section shall not be commenced more than four years after the date of the alleged violation.
+SEC. 2.
+Section 54964.6 of the Government Code is repealed.
+SEC. 3.
+Section 84222.5 is added to the Government Code, to read:
+84222.5.
+(a) A publicly funded nonprofit organization that makes contributions or expenditures, either directly or through the control of another entity, shall establish and deposit into a separate bank account all funds that will be used to make contributions and expenditures, and those contributions and expenditures shall come from that separate bank account.
+(b) In addition to subdivisions (b) and (c) of Section 84222, a publicly funded nonprofit organization is a recipient committee within the meaning of subdivision (a) of Section 82013 if any of the following occur:
+(1) It makes contributions or expenditures totaling fifty thousand dollars ($50,000) or more related to statewide candidates or ballot measures or makes contributions or expenditures totaling two thousand five hundred dollars ($2,500) or more related to local candidates or ballot measures, either directly or through the control of another entity, during the prior quarter.
+(2) By January 31 of each odd-numbered year, it makes contributions or expenditures totaling one hundred thousand dollars ($100,000) or more related to statewide candidates or ballot measures or makes contributions or expenditures totaling ten thousand dollars ($10,000) or more related to local candidates or ballot measures, either directly or through the control of another entity, during the previous two years.
+(c) If a publicly funded nonprofit organization qualifies as a recipient committee pursuant to subdivision (b), it shall comply with the registration and reporting requirements of Section 84222.
+(d) Each publicly funded nonprofit organization that makes contributions or expenditures, either directly or through the control of another entity, shall provide to the Commission, and display on the organization’s Internet Web site, the information it is required to disclose under this section. The information shall be clearly described and identified on a separate Internet Web page that is linked from the homepage of the organization’s Internet Web site. The link to this Internet Web page from the homepage shall be as visible as all similar links.
+(e) The Commission may require an audit of a publicly funded nonprofit organization that is required to provide records to the Commission pursuant to this section. The Commission shall require an audit of any publicly funded nonprofit organization that makes contributions or expenditures in excess of five hundred thousand dollars ($500,000) in a calendar year. The publicly funded nonprofit organization shall provide records to the Commission to substantiate the information required to be disclosed by this section.
+(f) If the Commission determines at the conclusion of an audit that a publicly funded nonprofit organization has violated this section, the Commission, the Attorney General, or the district attorney for the county in which the organization is domiciled may impose a civil fine upon the organization in an amount up to ten thousand dollars ($10,000) for each violation.
+(g) The definitions in subdivision (b) of Section 54964.5 apply to this section.
+SEC. 4.
+No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+SEC. 5.
+The Legislature finds and declares that this bill furthers the purposes of the Political Reform Act of 1974 within the meaning of subdivision (a) of Section 81012 of the Government Code.
+r1 score is: 
+0.1552162849872773
+==================================
+Highest 3 R1 scores for PEG-Large 0, tested on CA can be seen below
+target summary is: 
+Existing law requires that all persons honorably discharged from the control of the Department of Corrections and Rehabilitations, Division of Juvenile Justice, to thereafter be released from all penalties or disabilities resulting from the offense for which they were committed. Existing law separately requires that every person discharged from the control of the Department of Corrections and Rehabilitation, Division of Juvenile Justice, who has not, during the period of control, been placed in a state prison, to thereafter be released from all penalties and disabilities resulting from the offense or crime for which he or she was committed.
+This bill would require all persons honorably discharged from the control of the Department of Corrections and Rehabilitation, Division of Juvenile Justice by the Board of Parole Hearings, Juvenile Division or from the control of the county probation department by the juvenile court to be released from all penalties or disabilities resulting from the offense for which they were committed. The bill would require that each person honorably discharged from the control of the Department of Corrections and Rehabilitation, Division of Juvenile Justice by the Board of Parole Hearings, Juvenile Division, and each person discharged from the control of the county probation department by the juvenile court who has not, during the period of control, been placed in a state prison, to thereafter be released from all penalties and disabilities resulting from the offense or crime for which he or she was committed.
+produced summary is: 
+Existing law provides that the person who is honorably discharged from the control of the Department of Corrections and Rehabilitation, Division of Juvenile Justice by the Board of Parole Hearings, Juvenile Division, or from the control of the county probation department by the juvenile court is ineligible for appointment as a peace officer by any public agency, except as specified. Existing law also provides that the person who is honorably discharged from the control of the Department of Corrections and Rehabilitation, Division of Juvenile Justice by the Board of Parole Hearings, Juvenile Division, or from the control of the county probation department by the juvenile court is ineligible for appointment as a peace officer by any public agency, except as specified. This bill would modify the provisions of subdivision (a) to provide that a person who is honorably discharged from the control of the Department of Corrections and Rehabilitation, Division of Juvenile Justice by the Board of Parole Hearings, Juvenile Division, or from the control of the county probation department by the juvenile court is ineligible for appointment as a peace officer by any public agency, except as specified. The bill would also modify the provisions of subdivision (b) to provide that a person who is honorably discharged from the control of the Department of Corrections and Rehabilitation, Division of Juvenile Justice by the Board of Parole Hearings, Juvenile
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 1179 of the Welfare and Institutions Code is amended to read:
+1179.
+(a)
+All persons
+Each person
+honorably discharged from control of the
+Youth Authority Board
+Department of Corrections and Rehabilitation, Division of Juvenile Justice by the Board of Parole Hearings, Juvenile Division, or from the control of the county probation department by the juvenile court
+shall thereafter be released from all penalties or disabilities resulting from the offenses for which they were committed, including, but not limited to, any disqualification for any employment or occupational license, or both, created by any other
+provision of
+law. However, that
+a
+person
+shall
+is
+not
+be
+eligible for appointment as a peace officer employed by any public agency if his or her appointment
+would
+is
+otherwise
+be
+prohibited by Section 1029 of the Government Code.
+(b) Notwithstanding
+the provisions of
+subdivision (a),
+that
+a
+person may be appointed and employed as a peace officer by the Department of
+the Youth Authority
+Corrections and Rehabilitation, Division of Juvenile Justice
+if (1) at least five years have passed since his or her honorable discharge, and the person has had no misdemeanor or felony convictions except for traffic misdemeanors since he or she was honorably discharged by the board
+or the juvenile court
+, or (2) the person was employed as a peace officer by the
+department
+Division of Juvenile Justice
+on or before January 1, 1983.
+No
+A
+person who is under the jurisdiction of the
+department
+Division of Juvenile Justice or county probation department
+shall
+not
+be admitted to an examination for a peace officer position with the
+department
+Division of Juvenile Justice
+unless and until the person has been honorably discharged from the jurisdiction of the
+department by the Youth Authority Board.
+Division of Juvenile Justice or county probation department pursuant to subdivision (a).
+(c)
+Upon
+In the case of a person discharged from the control of the Department of Corrections and Rehabilitation, Division of Juvenile Justice by the Board of Parole Hearings, upon
+the final discharge or dismissal of
+any such
+the
+person, the
+Department of the Youth Authority
+department
+shall immediately certify the discharge or dismissal in writing, and shall transmit the certificate to the court by which the person was committed. The court shall thereupon dismiss the accusation and the action pending against that person.
+SEC. 2.
+Section 1772 of the Welfare and Institutions Code is amended to read:
+1772.
+(a) Subject to subdivision (b), every person honorably discharged from control
+of the Department of Corrections and Rehabilitation, Division of Juvenile Justice
+by the
+Youth Authority Board
+Board of Parole Hearings, Juvenile Division or from the control of the county probation department by the juvenile court
+who has not, during the period of control by the
+authority
+Division of Juvenile Justice or county probation department
+, been placed by the
+authority
+Board of Parole Hearings, Juvenile Division or county probation department
+in a state prison shall thereafter be released from all penalties and disabilities resulting from the offense or crime for which he or she was committed, and every person discharged may petition the court which committed him or her, and the court may upon that petition set aside the verdict of guilty and dismiss the accusation or information against the petitioner who shall thereafter be released from all penalties and disabilities resulting from the offense or crime for which he or she was committed, including, but not limited to, any disqualification for any employment or occupational license, or both, created by any other provision of law.
+(b) Notwithstanding subdivision (a)
+, all of the following shall apply
+:
+(1) A person described by subdivision (a) shall not be eligible for appointment as a peace officer employed by any public agency if his or her appointment would otherwise be prohibited by Section 1029 of the Government Code. However, that person may be appointed and employed as a peace officer by the Department of
+the Youth Authority
+Corrections and Rehabilitation, Division of Juvenile Justice
+if (A) at least five years have passed since his or her honorable discharge, and the person has had no misdemeanor or felony convictions except for traffic misdemeanors since he or she was honorably discharged by the
+Youth Authority Board
+board or by a juvenile court
+, or (B) the person was employed as a peace officer by the
+Department of the Youth Authority
+Division of Juvenile Justice
+on or before January 1, 1983.
+No
+A
+person who is under the jurisdiction of the
+Department of the Youth Authority
+Division of Juvenile Justice or county probation department
+shall
+not
+be admitted to an examination for a peace officer position with the
+department
+Division of Juvenile Justice
+unless and until the person has been honorably discharged from the jurisdiction of the
+Youth Authority Board.
+Division of Juvenile Justice or county probation department pursuant to subdivision (a).
+(2) A person described by subdivision (a) is subject to Chapter 2 (commencing with Section 29800) and Chapter 3 (commencing with Section 29900) of Division 9 of Title 4 of Part 6 of the Penal Code.
+(3) The conviction of a person described by subdivision (a) for an offense listed in subdivision (b) of Section 707 is admissible in a subsequent criminal, juvenile, or civil proceeding if otherwise admissible, if all the following are true:
+(A) The person was 16 years of age or older at the time he or she committed the offense.
+(B) The person was found unfit to be dealt with under the juvenile court law pursuant to Section 707 because he or she was alleged to have committed an offense listed in subdivision (b) of Section 707.
+(C) The person was tried as an adult and convicted of an offense listed in subdivision (b) of Section 707.
+(D) The person was committed to the Department of
+the Youth Authority
+Corrections and Rehabilitation, Division of Juvenile Justice
+for the offense referred to in subparagraph (C).
+(4) The conviction of a person described by subdivision (a) may be used to enhance the punishment for a subsequent offense.
+(5) The conviction of a person who is 18 years of age or older at the time he or she committed the offense is admissible in a subsequent civil, criminal, or juvenile proceeding, if otherwise admissible pursuant to law.
+(c) Every person discharged from control by the
+Youth Authority Board
+Board of Parole Hearings, Juvenile Division or from the county probation department by the juvenile court
+shall be informed of the provisions of this section in writing at the time of discharge.
+(d) “Honorably discharged” as used in this section means and includes every person whose discharge is based upon a good record on
+parole
+supervised release
+.
+r1 score is: 
+0.6042553191489362
+==================================
+target summary is: 
+Existing law makes it the duty of a coroner to inquire into and determine the circumstances, manner, and cause of deaths under prescribed conditions, including deaths under such circumstances as to afford a reasonable ground to suspect that the death was caused by the criminal act of another. Existing law provides for the execution of a certificate of religious belief stating that postmortem anatomical dissection or specified procedures would violate the religious convictions of the person, and, except as specified, prohibits a coroner from performing the procedure. Existing law requires a postmortem examination or autopsy to include certain procedures, including, among others, taking available fingerprints and palm prints and a dental examination including dental charts and dental X-rays, as specified. Existing law authorizes the postmortem examination or autopsy of the unidentified body or remains to include full body X-rays.
+This bill, except as specified, would authorize a coroner, medical examiner, or other agency required to perform an autopsy in a death under those prescribed conditions to use an electronic image system, including, but not limited to, an X-ray computed tomography scanning system, to fulfill specified postmortem examination or autopsy requirements. The bill would prohibit a coroner, medical examiner, or other agency performing an autopsy in a death under those prescribed conditions from using an electronic image system to conduct the autopsy in any investigation where the circumstances surrounding the death afford a reasonable basis to suspect that the death was caused by or related to the criminal act of another and it is necessary to collect evidence for presentation in a court of law. The bill would require a dissection autopsy to be performed to determine the cause and manner of death if the results of an autopsy performed using electronic imaging provides the basis to suspect that the death was caused by or related to the criminal act of another and it is necessary to collect evidence for presentation in a court of law. The bill would allow an autopsy to be conducted using an X-ray computed tomography scanning system without regard to the existence of a properly-executed certificate of religious belief.
+produced summary is: 
+The coroner, medical examiner, or other agency tasked with performing an autopsy pursuant to Section 27491 shall not use an electronic imaging system to conduct an autopsy in any investigation where the circumstances surrounding the death afford a reasonable basis to suspect that the death was caused by or related to the criminal act of another and it is necessary to collect evidence for presentation in a court of law. If the results of an autopsy performed using electronic imaging provides the basis to suspect that the death was caused by or related to the criminal act of another, and it is necessary to collect evidence for presentation in a court of law, then a dissection autopsy shall be conducted.
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 27521 of the Government Code is amended to read:
+27521.
+(a) A postmortem examination or autopsy conducted at the discretion of a coroner, medical examiner, or other agency upon an unidentified body or human remains is subject to this section.
+(b) A postmortem examination or autopsy shall include, but shall not be limited to, the following procedures:
+(1) Taking of all available fingerprints and palm prints.
+(2) A dental examination consisting of dental charts and dental X-rays of the deceased person’s teeth, which may be conducted on the body or human remains by a qualified dentist as determined by the coroner.
+(3) The collection of tissue, including a hair sample, or body fluid samples for future DNA testing, if necessary.
+(4) Frontal and lateral facial photographs with the scale indicated.
+(5) Notation and photographs, with a scale, of significant scars, marks, tattoos, clothing items, or other personal effects found with or near the body.
+(6) Notations of observations pertinent to the estimation of the time of death.
+(7) Precise documentation of the location of the remains.
+(c) The postmortem examination or autopsy of the unidentified body or remains may include full body X-rays.
+(d) (1) At the sole and exclusive discretion of a coroner, medical examiner, or other agency tasked with performing an autopsy pursuant to Section 27491, an electronic image system, including, but not limited to, an X-ray computed tomography scanning system, may be used to fulfill the requirements of subdivision (b) or of a postmortem examination or autopsy required by other law, including but not limited to, Section 27520.
+(2) Nothing in this subdivision imposes a duty upon any coroner, medical examiner, or other agency tasked with performing autopsies pursuant to Section 27491 to use an electronic image system to perform autopsies or to acquire the capability to do so.
+(3) A coroner, medical examiner, or other agency tasked with performing an autopsy pursuant to Section 27491 shall not use an electronic imaging system to conduct an autopsy in any investigation where the circumstances surrounding the death afford a reasonable basis to suspect that the death was caused by or related to the criminal act of another and it is necessary to collect evidence for presentation in a court of law. If the results of an autopsy performed using electronic imaging provides the basis to suspect that the death was caused by or related to the criminal act of another, and it is necessary to collect evidence for presentation in a court of law, then a dissection autopsy shall be performed in order to determine the cause and manner of death.
+(4) An autopsy may be conducted using an X-ray computed tomography scanning system notwithstanding the existence of a certificate of religious belief properly executed in accordance with Section 27491.43.
+(e) The coroner, medical examiner, or other agency performing a postmortem examination or autopsy shall prepare a final report of investigation in a format established by the Department of Justice. The final report shall list or describe the information collected pursuant to the postmortem examination or autopsy conducted under subdivision (b).
+(f) The body of an unidentified deceased person shall not be cremated or buried until the jaws (maxilla and mandible with teeth), or other bone sample if the jaws are not available, and other tissue samples are retained for future possible use. Unless the coroner, medical examiner, or other agency performing a postmortem examination or autopsy has determined that the body of the unidentified deceased person has suffered significant deterioration or decomposition, the jaws shall not be removed until immediately before the body is cremated or buried. The coroner, medical examiner, or other agency responsible for a postmortem examination or autopsy shall retain the jaws and other tissue samples for one year after a positive identification is made, and no civil or criminal challenges are pending, or indefinitely.
+(g) If the coroner, medical examiner, or other agency performing a postmortem examination or autopsy with the aid of the dental examination and any other identifying findings is unable to establish the identity of the body or human remains, the coroner, medical examiner, or other agency shall submit dental charts and dental X-rays of the unidentified deceased person to the Department of Justice on forms supplied by the Department of Justice within 45 days of the date the body or human remains were discovered.
+(h) If the coroner, medical examiner, or other agency performing a postmortem examination or autopsy with the aid of the dental examination and other identifying findings is unable to establish the identity of the body or human remains, the coroner, medical examiner, or other agency shall submit the final report of investigation to the Department of Justice within 180 days of the date the body or human remains were discovered. The final report of investigation shall list or describe the information collected pursuant to the postmortem examination or autopsy conducted under subdivision (b), and any anthropology report, fingerprints, photographs, and autopsy report.
+r1 score is: 
+0.4686192468619247
+==================================
+target summary is: 
+The California Coastal Act of 1976, for purposes of the act, defines an “ex parte communication” as any oral or written communication between a member of the California Coastal Commission and an interested person about a matter within the commission’s jurisdiction, which does not occur in a public hearing, workshop, or other official proceeding, or on the official record of the proceeding on the matter, but excludes from that definition any communication between a staff member acting in his or her official capacity and any commission member or interested person. The act prohibits a member of the commission and an interested person from conducting an ex parte communication, unless the member fully discloses and makes public the ex parte communication, as specified.
+This bill would also make provisions prohibiting ex parte communications applicable to communications between a commission staff member and an interested party.
+This bill would require commission staff members to maintain records and disclose any communication with an interested person pertaining to a matter before the commission by including specified information about the communication in staff reports provided to commission members.
+Existing law authorizes any person to testify at a hearing or other official proceeding of the commission and to submit written comments for the record on a matter before the commission.
+This bill would require
+transcripts
+video
+or audio recordings of those proceedings to be
+promptly
+posted on the commission’s Internet Web site
+to allow for public comment, as specified.
+within 72 hours after the proceeding
+and would require written and electronic communications submitted to the commission as part of those proceedings to be posted on the commission’s Internet Web site within 7 days of receipt
+.
+produced summary is: 
+Existing law defines an ex parte communication as any written communication between a member of the commission or a member of the commission staff and an interested person, about a matter within the commission’s jurisdiction, which does not occur in a public hearing, workshop, or other official proceeding, or on the official record of the proceeding on the matter. Existing law defines an ex parte communication as a written communication between a member of the commission or a member of the commission staff and an interested person, about a matter within the commission’s jurisdiction, which does not occur in a public hearing, workshop, or other official proceeding, or on the official record of the proceeding on the matter. Existing law defines an ex parte communication as a written communication between a member of the commission or a member of the commission staff and an interested person, about a matter within the commission’s jurisdiction, which does not occur in a public hearing, workshop, or other official proceeding, or on the official record of the proceeding on the matter. Existing law defines an ex parte communication as a written communication between a member of the commission or a member of the commission staff and an interested person, about a matter within the commission’s jurisdiction, which does not occur in a public hearing, workshop
+original bill is: 
+The people of the State of California do enact as follows:
+
+
+SECTION 1.
+Section 30322 of the
+Public Resources Code
+is amended to read:
+30322.
+(a)For purposes of this article, except as provided in subdivision (b), an “ex parte communication” is any oral or written communication between a member of the commission or a member of the commission staff and an interested person, about a matter within the commission’s jurisdiction, which does not occur in a public hearing, workshop, or other official proceeding, or on the official record of the proceeding on the matter.
+(b)The following communications are not ex parte communications:
+(1)Any communication between a staff member acting in his or her official capacity and any commission member.
+(2)Any communication limited entirely to procedural issues, including, but not limited to, the hearing schedule, location, format, or filing date.
+(3)Any communication which takes place on the record during an official proceeding of a state, regional, or local agency that involves a member of the commission who also serves as an official of that agency.
+(4)Any communication between a member of the commission, with regard to any action of another state agency or of a regional or local agency of which the member is an official, and any other official or employee of that agency, including any person who is acting as an attorney for the agency.
+(5)Any communication between a nonvoting commission member and a staff member of a state agency where both the commission member and the staff member are acting in an official capacity.
+(6)Any communication to a nonvoting commission member relating to an action pending before the commission, where the nonvoting commission member does not participate in that action, either through written or verbal communication, on or off the record, with other members of the commission.
+SEC. 2.
+Section 30324 of the
+Public Resources Code
+is amended to read:
+30324.
+(a)No commission member or commission staff member, nor any interested person, shall conduct an ex parte communication unless the commission member or commission staff member fully discloses and makes public the ex parte communication by providing a full report of the communication to the executive director within seven days after the communication or, if the communication occurs within seven days of the next commission hearing, to the commission on the record of the proceeding at that hearing.
+(b)(1)The commission shall adopt standard disclosure forms for reporting ex parte communications which shall include, but not be limited to, all of the following information:
+(A)The date, time, and location of the communication.
+(B)(i)The identity of the person or persons initiating and the person or persons receiving the communication.
+(ii)The identity of the person on whose behalf the communication was made.
+(iii)The identity of all persons present during the communication.
+(C)A complete, comprehensive description of the content of the ex parte communication, including a complete set of all text and graphic material that was part of the communication.
+(2)The executive director shall place in the public record any report of an ex parte communication.
+(c)Communications shall cease to be ex parte communications when fully disclosed and placed in the commission’s official record.
+SECTION 1.
+Section 30324.1 is added to the Public Resources Code, to read:
+30324.1.
+A commission staff member shall maintain records of and disclose any communication between the staff member acting in his or her official capacity and an interested person pertaining to a matter before the commission by including the following information in staff reports provided to commission members:
+(a) The date of the communication with an interested person.
+(b) The name of the interested person with whom the staff member communicated.
+(c) The matter to which the communication applies.
+(d) A statement of the interested person’s position with regard to the matter discussed and whether he or she represents another person or entity in the matter.
+SEC. 3.
+SEC. 2.
+Section 30325 of the Public Resources Code is amended to read:
+30325.
+(a) Nothing in this article prohibits any person or any interested person from testifying at a commission hearing, workshop, or other official proceeding, or from submitting written comments for the record on a matter before the commission.
+(b)
+Transcripts
+Video
+or audio recordings of all hearings, workshops, or other
+written
+proceedings shall be
+promptly
+posted on the commission’s Internet Web site
+to allow for public comment.
+within 72 hours after the proceeding
+. Written and electronic communications that are submitted to the commission as part of any such proceeding shall be posted on the commission’s Internet Web site within seven days of receipt
+.
+(c) Written comments shall be submitted by mail or delivered to a commission office, or may be delivered to the commission at the time and place of a scheduled hearing or within 30 days after the hearing.
+r1 score is: 
+0.6429980276134122
+==================================
