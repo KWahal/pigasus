@@ -6,8 +6,8 @@ import csv
 
 SEPARATOR = "=================================="
 
-csv_df = pd.read_csv("./rouges/caval_ourpretrain_100_LONG.csv")
-summary_file = open("./summaries/second_pretraining-LONGER.txt", "r")
+csv_df = pd.read_csv("./rouges/catest_ourpretrain_100.csv")
+summary_file = open("./summaries/Test-Pigasus.txt", "r")
 
 summary_data = summary_file.read()
 summary_list = summary_data.replace('\n', ' ').split(SEPARATOR)
@@ -35,7 +35,7 @@ original_bills = []
 r1_scores = []
 for i in r1_smallest_list:
     target_summary = billsum_test['summary'][i]
-    produced_summary = summary_list[i-865]
+    produced_summary = summary_list[i-1051]
     original_bill = billsum_test['text'][i]
     r1_score = csv_df.loc[csv_df['index'] == i, 'rouge1'].iloc[0]
 
@@ -50,7 +50,7 @@ original_greatest = []
 r1_greatest = []
 for i in r1_largest_list:
     target_summary = billsum_test['summary'][i]
-    produced_summary = summary_list[i-865]
+    produced_summary = summary_list[i-1051]
     original_bill = billsum_test['text'][i]
     r1_score = csv_df.loc[csv_df['index'] == i, 'rouge1'].iloc[0]
     print(i)
@@ -60,8 +60,8 @@ for i in r1_largest_list:
     original_greatest.append(original_bill)
     r1_greatest.append(r1_score)
 
-with open('./key_summs/caval_ourpretrain_100_LONG_keysums.txt', 'w') as f:
-    f.write('Lowest 3 R1 scores for PEG-Large pretrained using our method, finetuned on 100 CA examples, LONG, can be seen below')
+with open('./key_summs/catest_ourpretrain_100_keysums.txt', 'w') as f:
+    f.write('Lowest 3 R1 scores for PEG-Large pretrained using our method, finetuned on 100 CA examples, tested on CA, can be seen below')
     f.write('\n')
     for i in range(len(target_summaries)):
         f.write('target summary is: ')
@@ -83,7 +83,7 @@ with open('./key_summs/caval_ourpretrain_100_LONG_keysums.txt', 'w') as f:
         f.write(SEPARATOR)
         f.write('\n')
 
-    f.write('Highest 3 R1 scores for PEG-Large pretrained using our method, finetuned on 100 CA examples, LONG can be seen below')
+    f.write('Highest 3 R1 scores for PEG-Large pretrained using our method, finetuned on 100 CA examples, tested on CA can be seen below')
     f.write('\n')
 
     for i in range(len(target_greatest)):
