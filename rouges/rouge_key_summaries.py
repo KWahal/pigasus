@@ -6,8 +6,8 @@ import csv
 
 SEPARATOR = "=================================="
 
-csv_df = pd.read_csv("./rouges/catest_PLarge10.csv")
-summary_file = open("./test_summaries/Test-P-large10.txt", "r")
+csv_df = pd.read_csv("./rouges/catest_PLarge0.csv")
+summary_file = open("./test_summaries/Test-P-large0-again.txt", "r")
 
 summary_data = summary_file.read()
 summary_list = summary_data.replace('\n', ' ').split(SEPARATOR)
@@ -60,8 +60,8 @@ for i in r1_largest_list:
     original_greatest.append(original_bill)
     r1_greatest.append(r1_score)
 
-with open('./key_summs/catest_PLarge10_keysums.txt', 'w') as f:
-    f.write('Lowest 3 R1 scores for PEG-Large 0, tested on CA, can be seen below')
+with open('./key_summs/catest_PBillsum_keysums.txt', 'w') as f:
+    f.write('Lowest 3 R1 scores for PEGLarge0, tested on CA, can be seen below')
     f.write('\n')
     for i in range(len(target_summaries)):
         f.write('target summary is: ')
@@ -83,7 +83,7 @@ with open('./key_summs/catest_PLarge10_keysums.txt', 'w') as f:
         f.write(SEPARATOR)
         f.write('\n')
 
-    f.write('Highest 3 R1 scores for PEG-Large 0, tested on CA can be seen below')
+    f.write('Highest 3 R1 scores for PEGLarge0, tested on CA can be seen below')
     f.write('\n')
 
     for i in range(len(target_greatest)):
