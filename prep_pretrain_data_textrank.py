@@ -106,6 +106,8 @@ with open('datasets/train.txt') as f:
 
     start_loc = 12
     all_outputs = []
+
+    lines = lines[:5]
     for line in tqdm(lines):
        if len(line) >= 1000000:
            continue
@@ -117,6 +119,9 @@ with open('datasets/train.txt') as f:
       # print("num sentences is " + str(num_sentences))
        summary = generate_extractive_summary(report, 15, num_sentences)
        #print(summary)
+       summary_sentences = summary.split('.')
+       print(summary_sentences)
+
        summary_sentences = set(summary.split('.'))
        summary_sentences = list(summary_sentences)
       # print("summary sentence number is " + str(len(summary_sentences)))
@@ -154,8 +159,8 @@ with open('datasets/train.txt') as f:
        all_outputs.append(output)
 
     json_object = json.dumps(all_outputs)
-    with open("government_documents.json", "w") as outfile:
-        outfile.write(json_object)
+    #with open("government_documents.json", "w") as outfile:
+        #outfile.write(json_object)
       # print(summary)
 
 

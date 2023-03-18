@@ -6,8 +6,10 @@ import csv
 
 SEPARATOR = "=================================="
 
-csv_df = pd.read_csv("./rouges/catest_PLarge0.csv")
-summary_file = open("./test_summaries/Test-P-large0-again.txt", "r")
+csv_df = pd.read_csv("./rouges/catest_theirpretrain_100.csv")
+csv_df = pd.read_csv("./rouges/catest_ourpretrain_100.csv")
+summary_file = open("./test_summaries/Test-Pretrain-squared.txt", "r")
+summary_file = open("./test_summaries/Test-Pigasus.txt", "r")
 
 summary_data = summary_file.read()
 summary_list = summary_data.replace('\n', ' ').split(SEPARATOR)
@@ -18,8 +20,8 @@ summary_file.close()
 # rl = csv_df["index", "rougeL"]
 
 
-r1_smallest = csv_df.nsmallest(3, 'rougeL')
-r1_largest = csv_df.nlargest(3, 'rougeL')
+r1_smallest = csv_df.nsmallest(10, 'rougeL')
+r1_largest = csv_df.nlargest(10, 'rougeL')
 
 billsum_test = load_dataset('billsum', split="ca_test")
 
@@ -28,6 +30,9 @@ billsum_test = load_dataset('billsum', split="ca_test")
 
 r1_smallest_list = r1_smallest["index"].tolist()
 r1_largest_list = r1_largest["index"].tolist()
+
+print(r1_smallest_list)
+print(r1_largest_list)
 
 target_summaries = []
 produced_summaries = []
@@ -53,15 +58,14 @@ for i in r1_largest_list:
     produced_summary = summary_list[i-1051]
     original_bill = billsum_test['text'][i]
     r1_score = csv_df.loc[csv_df['index'] == i, 'rouge1'].iloc[0]
-    print(i)
 
     target_greatest.append(target_summary)
     produced_greatest.append(produced_summary)
     original_greatest.append(original_bill)
     r1_greatest.append(r1_score)
 
-with open('./key_summs/catest_PBillsum_keysums.txt', 'w') as f:
-    f.write('Lowest 3 R1 scores for PEGLarge0, tested on CA, can be seen below')
+with open('./key_summs/catest_Pigasus_keysums.txt', 'w') as f:
+    f.write('Lowest 3 R1 scores for PEG^2 tested on CA, can be seen below')
     f.write('\n')
     for i in range(len(target_summaries)):
         f.write('target summary is: ')
@@ -83,7 +87,7 @@ with open('./key_summs/catest_PBillsum_keysums.txt', 'w') as f:
         f.write(SEPARATOR)
         f.write('\n')
 
-    f.write('Highest 3 R1 scores for PEGLarge0, tested on CA can be seen below')
+    f.write('Highest 3 R1 scores for PEG^2 tested on CA can be seen below')
     f.write('\n')
 
     for i in range(len(target_greatest)):
