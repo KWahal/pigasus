@@ -25,6 +25,7 @@ def generate_extractive_summary(text, limit_phrases, limit_sentences):
     # generate the sentence bounds, with empty phrase vector for each sentence.
         # this phrase vector will be used to measure each sentence's euclidean distance from 
         # the unit vector, which is a vector with the p.rank for each phrase, sorted
+        
     # Each phrase vector includes the phrase_id of each phrase occurring in the sentence. 
     sent_bounds = [ [s.start, s.end, set([])] for s in doc.sents ]
 
