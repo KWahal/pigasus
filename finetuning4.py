@@ -117,37 +117,18 @@ def prepare_fine_tuning(model_name, tokenizer, train_dataset, torch_device, val_
 
     return trainer
 
-def generate_batch_sized_chunks(list_of_elements, batch_size):
-    """split the dataset into smaller batches that we can process simultaneously
-    Yield successive batch-sized chunks from list_of_elements."""
-    for i in range(0, len(list_of_elements), batch_size):
-        yield list_of_elements[i : i + batch_size]
-
-
-def print_val_summaries(dataset_text, dataset_summary, model, tokenizer, device,
+def print_val_summaries(dataset_text, dataset_summary, model, tokenizer, device, file_name,
                                 batch_size=16):
-    article_batches = list(generate_batch_sized_chunks(dataset_text, batch_size))
-    target_batches = list(generate_batch_sized_chunks(dataset_summary, batch_size))
-
-    text_file = open("val_ca_sum-10/100.txt", "w")
-    for article_batch, target_batch in tqdm(
-            zip(article_batches, target_batches), total=len(article_batches)):
+    text_file = open(file_name, "w") # MAKE SURE TO CHANGE
+    articles = list(dataset_text)
+    targets = list(dataset_summary)
+    for article, target in tqdm(zip(articles, targets), total=len(articles)):
         inputs = tokenizer(article_batch, max_length=1024, truncation=True,
                            padding="max_length", return_tensors="pt")
-
-        summaries = model.generate(input_ids=inputs["input_ids"].to(device),
-                                   attention_mask=inputs["attention_mask"].to(device),
-                                   length_penalty=0.8, num_beams=8, max_length=128)
-        ''' parameter for length penalty ensures that the model does not generate sequences that are too long. '''
-
-        # Finally, we decode the generated texts,
-        # replace the <n> token, and add the decoded texts with the references to the metric.
-        decoded_summaries = [tokenizer.decode(s, skip_special_tokens=True,
-                                              clean_up_tokenization_spaces=True)
-                             for s in summaries]
-
-        decoded_summaries = [d.replace("<n>", " ") for d in decoded_summaries]
-        text_file.write("==================================".join(decoded_summaries))
+        translated = model.generate(**inputs)
+        decoded_summaries = tokenizer.batch_decode(translated, skip_special_tokens=True)
+        text_file.write(" ".join(decoded_summaries))
+        text_file.write("==================================")
     text_file.close()
 
 
@@ -168,10 +149,5 @@ if __name__ == '__main__':
     trainer.save_model("./saved_model")
     #model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device) #DEL - for testing
     #tokenizer = PegasusTokenizer.from_pretrained(model_name) #DEL - for testing
-
-
-
-    score = print_val_summaries(
-        val_texts, val_labels, model=trainer.model, tokenizer=tokenizer, batch_size=2,
-        device=torch_device,
-    )
+    print_val_summaries( val_texts2, val_labels2, model=model3, tokenizer=tokenizer3, batch_size=1, file_name="Test-P-large0-again.txt",
+        device=torch_device  # model=trainer.model)
